@@ -190,7 +190,7 @@ olduğunda **önce bozuk olanlara** bakmak daha değerli. Bunun için ayrı list
 
 | Liste | Kayıt | İçerik |
 |---|---|---|
-| `paylar/riskli_1..4.txt` | 4 × ~361 | Otomatik hattın bayrakladığı ya da elediği, yani sorunlu olması beklenen kayıtlar |
+| `paylar/riskli_1..4.txt` | 4 × ~289 | Otomatik hattın bayrakladığı ya da elediği, yani sorunlu olması beklenen kayıtlar |
 
 Kullanımı parçalarla aynı; yalnızca `PAY` değişkenini değiştir ve karar dosyana listeyle aynı adı ver:
 
@@ -199,9 +199,13 @@ export KARAR_DOSYA=kararlar_riskli_1.jsonl
 export PAY=paylar/riskli_1.txt
 ```
 
-Bu listeler `parca_03.txt` ile **çakışmayacak** şekilde üretildi; parça 03'te çalışan oturumla
-aynı anda koşabilirler. Diğer parçalarla çakışırlar — riskli liste çalışırken `parca_04..08`
-başlatma, önce riskli listeler bitsin.
+Bu listeler **halihazırda çalışan işlerle çakışmayacak** şekilde üretildi: `parca_03`,
+`parca_04` ve yereldeki listeyle kesişimleri sıfır. Yani parça 03 / parça 04 oturumlarıyla
+aynı anda koşabilirler.
+
+Henüz açılmamış `parca_05..08` ile **kesişirler**. Riskli listeler koşarken o parçaları
+başlatma; riskli listeler bitince parçalara dön (biten kayıtlar `goster`'de zaten atlanır,
+dolayısıyla iş tekrarı olmaz, ama iki oturum aynı anda aynı kayda bakabilir).
 
 Bitince dal adı: `kararlar/riskli-1` gibi.
 
