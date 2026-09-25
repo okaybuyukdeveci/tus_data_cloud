@@ -998,3 +998,53 @@
 {"id": "b09d1e5f3683045c", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
 {"id": "7be6fee3304b8b21", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
 {"id": "188ceb55583a2d23", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "bd623d33e6abd83c", "karar": "duzelt", "govde": "Yirmi yıldır tip II diabetes mellitus tanısı ile izlenmekte olan 65 yaşında kadın hastanın son bir aydır gece gelen diyareleri ve kabızlık-ishal atakları ortaya çıkmış. Semptomatik tedaviler alan hasta fayda görmemiş. / Bu hastaya sonraki aşama için aşağıdakilerden hangisi tanısal amaçlı olarak en uygun yaklaşımdır?", "not": "govde OCR", "zaman": "2026-09-25T20:21:46"}
+{"id": "341aa042a3fce84c", "karar": "duzelt", "govde": "Ani gelişen ağrısız görme kaybı olan 70 yaşında erkek hastada tanı koymak için yapılması gereken en iyi tetkik aşağıdakilerden hangisidir?", "not": "govde OCR (ivi)", "zaman": "2026-09-25T20:21:46"}
+{"id": "70c094b7f67889ad", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "anjiyodisplazi paragrafi kesildi", "zaman": "2026-09-25T20:21:46"}
+{"id": "ed686567634e4faf", "karar": "duzelt", "siklar": {"A": "Aynı taraflı hiler lenfadenopati", "B": "Karşı taraf akciğer metastazı", "C": "Kor pulmonale", "D": "Vokal kord paralizisi", "E": "Supraklaviküler lenfadenopati"}, "cevap": "A", "not": "C sikki OCR", "zaman": "2026-09-25T20:21:46"}
+{"id": "c9e11737b9a06aaa", "karar": "duzelt", "siklar": {"A": "Kombine oral kontraseptifler", "B": "Tek başına progesteron içeren oral kontraseptifler", "C": "Progesteron içeren cilt altı implantlar", "D": "3 ayda bir depo medroksiprogesteron asetat enjeksiyonu", "E": "Levonorgestrel içeren rahim içi araçlar"}, "cevap": "D", "not": "D sikki OCR (0.9 ayda)", "zaman": "2026-09-25T20:21:46"}
+{"id": "9ba576537cb3abe5", "karar": "duzelt", "siklar": {"A": "Yurt dışı seyahat öncesi meningokoksemi riski için aşılama", "B": "40 yaş üstü bayanlarda yıllık mammografi çektirme", "C": "İçme sularının bakterilere karşı klorlanması", "D": "Ankilozan spondilit için postür düzeltici egzersizler"}, "cevap": "D", "not": "E sikki kayip (cevap degil), D'deki artik temizlendi", "zaman": "2026-09-25T20:21:46"}
+{"id": "270e21132da9ab7f", "karar": "duzelt", "aciklama": "Karında kitle ve kemik iliğinde rozet oluşturan blastların varlığı nöroblastomu akla getirmelidir. Beş yaş altı çocuklarda karında kitle varlığında ilk akla gelecek iki tümör nöroblastom ve Wilms tümörüdür; 3 yaş ve altında hepatoblastom da unutulmamalıdır. Nöroblastom kemik iliğine en sık metastaz yapan solid tümördür. Wilms tümörü ise aniridi, hemihipertrofi ve genitoüriner anomaliler gibi eşlik eden özelliklerle sorulur. Burkitt lenfoma da karında kitle yapıp kemik iliğine yayılabilir, ancak patolojide tipik yıldızlı gökyüzü görünümü vardır.", "not": "aciklamada OCR bozukluklari, yeniden yazildi", "zaman": "2026-09-25T20:21:46"}
+{"id": "9518f9f186b962b2", "karar": "duzelt", "aciklama": "Meme ultrasonografisi günümüzde yaygın kullanılan bir görüntüleme yöntemidir. Başlıca endikasyonları 30 yaş altı kadınlarda ve gebelerde memenin değerlendirilmesi, mammografi ile karar verilemeyen palpabl kitleler, nonpalpabl kitleler, asimetrik mammografik dansiteler, lokalize meme ağrısı ve hassasiyetinin değerlendirilmesi ve kitlelerin solid-kistik ayrımıdır. Memedeki kalsifikasyonlar ise mammografi ile değerlendirilir; ultrasonografi mikrokalsifikasyonları değerlendirmede yetersizdir.", "not": "aciklamaya Hashimoto sorusu karismis, yeniden yazildi", "zaman": "2026-09-25T20:21:46"}
+{"id": "046960a0bb2fff81", "karar": "duzelt", "govde": "Göz kapağında şişlik, kızarıklık izlenen 16 yaşındaki erkek hastanın kirpik diplerinde mukopürülan sekresyon izleniyor. Görme keskinliği normal olan hastada konjunktival hiperemi izlenmiyor. Tedavide sıcak pansuman uygulaması ile şikâyetler geriliyor. / I. Zeiss bezleri / II. Meibomius bezleri / III. Moll bezleri / Bu hastada etkilenmiş en olası salgı bezleri aşağıdakilerden hangisidir?", "siklar": {"A": "Yalnız I", "B": "Yalnız II", "C": "I-II", "D": "I-III", "E": "Yalnız III"}, "cevap": "D", "not": "govde numaralandirma; C ve D ayni gorunuyordu, aciklamaya gore D = I-III (Zeiss ve Moll)", "zaman": "2026-09-25T20:21:46"}
+{"id": "8d4032746d8d70fb", "karar": "duzelt", "aciklama": "Gastrointestinal sistem duvarında iki sinir pleksusu bulunur. Kas tabakaları arasındaki miyenterik (Auerbach) pleksus esas olarak gastrointestinal motiliteyi kontrol eder. Submukozadaki Meissner pleksusu ise lokal sekresyonu, emilimi ve muskularis mukozanın (submukozal düz kas) kasılmasını düzenler. Bu nedenle duodenumdaki submukozal Brunner bezlerinin salgısı ve submukozal kasın kasılması Meissner pleksusu aracılığıyla gerçekleşir.", "not": "aciklama yalnizca baslik iceriyordu, yeniden yazildi", "zaman": "2026-09-25T20:21:46"}
+{"id": "0f2d225a82ed0ed2", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "837f19af417a4545", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "8c05ede56f14026d", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "2cd9b8592f1daeaa", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "f56fbf9eec41e699", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "4ea86415779249fb", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "4a69d46f9ee9e1ae", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "25bf74898df7ae26", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "57d97010cfe006d0", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "c2b5d1a82854e523", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "f2c263ba3f48eb27", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "230b14497fb5f124", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "5bdec21ecc34e2f5", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "c2091f64085518cc", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "e2bdb6b4bb4c44f6", "karar": "ok", "zaman": "2026-09-25T20:21:46"}
+{"id": "ba056f59fdfa7e3d", "karar": "duzelt", "aciklama": "Tularemi, Francisella tularensis'in neden olduğu bir zoonozdur ve son yıllarda ülkemizde de salgınlar bildirilmektedir. Dünyada en sık karşılaşılan klinik form ülsero-glandüler formdur (%60-80): yüksek ateş, giriş yerinde ülser ve genellikle eller yoluyla bulaştığından aksiller lenfadenopati, apse ve fistülleşme ile giden akut süpüratif lenfadenit görülür. Glandüler form (%10-25) yalnızca süpüratif lenfadenitle seyreder. Diğer formlar orofaringeal, tifo benzeri (septik), okülo-glandüler form ve atipik pnömonidir. Ülkemizde ise sularla bulaşan orofaringeal form en sık görülen formdur.", "not": "aciklamaya ishal tablosu karismis, yeniden yazildi", "zaman": "2026-09-25T20:22:18"}
+{"id": "f8f855f45f0595aa", "karar": "duzelt", "siklar": {"A": "Erişkin T hücreli lenfoma", "B": "Büyük granüler lenfositik lösemi", "C": "Ekstranodal T/NK hücreli lenfoma", "D": "Mycosis fungoides", "E": "Anaplastik büyük hücreli lenfoma"}, "cevap": "E", "not": "A sikki OCR", "zaman": "2026-09-25T20:22:18"}
+{"id": "fcb0121bfe7901d4", "karar": "duzelt", "govde": "Bir hastada Treponema pallidum, Neisseria gonorrhoeae ve Chlamydia trachomatis'in neden olduğu veneryal bir hastalık tespit edilmiştir. / Bu hastada tek bir antibiyotik kullanılarak tedavi sağlanmak istenirse; aşağıdakilerden hangisi seçilmelidir?", "aciklama_paragraf": 3, "not": "govde yazim; aciklama sonundaki kopuk liste kesildi", "zaman": "2026-09-25T20:22:18"}
+{"id": "a0fc49b5295069a2", "karar": "duzelt", "aciklama": "Kaba hızlarda payda daima yıl ortası nüfustur. Kaba doğum hızı, bir yılda meydana gelen canlı doğum sayısının aynı toplumun yıl ortası nüfusuna bölünüp 1000 ile çarpılmasıyla hesaplanır; ölü doğumlar paya katılmaz. Bu kasabada kaba doğum hızı 312/12.800 x 1000'dir. Genel doğurganlık hızında ise payda 15-49 yaş kadın nüfusudur; A seçeneğinde genel doğurganlık hızı verilmiştir.", "not": "aciklamadaki formuller OCR bozuk, yeniden yazildi", "zaman": "2026-09-25T20:22:18"}
+{"id": "0909bb7227443057", "karar": "duzelt", "siklar": {"A": "6-7. ay", "B": "11-12. ay", "C": "14-15. ay", "D": "17-18. ay", "E": "23-24. ay"}, "cevap": "A", "not": "C ve D siklarinda OCR", "zaman": "2026-09-25T20:22:18"}
+{"id": "da30ac3df9ffe237", "karar": "duzelt", "aciklama": "Konjenital varisella sendromu, gebeliğin ilk 20 haftasında geçirilen maternal su çiçeği enfeksiyonu sonrasında gelişir. Tipik bulguları dermatomal dağılımlı skatrisyel deri lezyonları, ekstremite hipoplazisi, kortikal atrofi, mikrosefali, koriyoretinit, katarakt ve mikroftalmidir. Seçeneklerde en karakteristik ikili ekstremite hipoplazisi ve kortikal atrofidir. Serebral kalsifikasyon ve koriyoretinit birlikteliği ise daha çok konjenital toksoplazmoz ve CMV enfeksiyonunu düşündürür.", "not": "aciklamadaki tablo OCR ile bozuk, yeniden yazildi", "zaman": "2026-09-25T20:22:18"}
+{"id": "49d37b704ce5d30d", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "a2ccd5a00bfb1c2e", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "0a736b9eb181d22d", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "0675272e22a9e036", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "5ae52bb5551ca9c5", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "b4f9f7c75d9fa24d", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "5ca4b43a531379e4", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "f4efa74af07219e2", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "678b12e811c0d886", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "41f79075f7bdf373", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "604551c63d1a098b", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "354ce269a91d6543", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "2cb2a2e792cd66b6", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "df337086edd76e6d", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "62507a5bf8586de5", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "ecb9127ee497dbd5", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "39294a8fe183a51d", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "6dfd6dc164550e5e", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "b04cb778d50e85b3", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
