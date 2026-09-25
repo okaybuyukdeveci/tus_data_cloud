@@ -1,0 +1,7 @@
+# uretilen ciktilar - v3_uret.py her calistiginda yeniden olusur, depoda tutulmaz
+dataset_v3/sft/
+dataset_v3/elenen/
+dataset_v3/inceleme/kuyruk.json
+dataset_v3/inceleme/oncelik.txt
+__pycache__/
+*.pyc
