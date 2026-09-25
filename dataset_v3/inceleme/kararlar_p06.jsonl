@@ -648,3 +648,53 @@
 {"id": "dc34d638c6f3610a", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
 {"id": "05e5f94cebfceb76", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
 {"id": "fcbca55d9ec932e1", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "07ba19102fa0f02c", "karar": "duzelt", "aciklama_paragraf": "4-", "not": "baska soruya ait tiroid nodulu algoritmasi kesildi", "zaman": "2026-09-25T19:50:19"}
+{"id": "bc4a3c3283426b20", "karar": "duzelt", "siklar": {"A": "İmmünglobulin G", "B": "İmmünglobulin A", "C": "İmmünglobulin M", "D": "İmmünglobulin D", "E": "İmmünglobulin E"}, "cevap": "E", "aciklama": "İmmünglobulinlerin serum yarı ömürleri farklıdır: IgG yaklaşık 21-23 gün ile en uzun yarı ömre sahiptir; IgA yaklaşık 6 gün, IgM yaklaşık 5 gün, IgD yaklaşık 3 gün, IgE ise yaklaşık 2 gün yarı ömre sahiptir. Serumda en düşük konsantrasyonda bulunan ve en kısa yarı ömürlü antikor IgE'dir; ancak mast hücrelerine bağlı IgE haftalarca dokuda kalabilir.", "not": "soruyu yanitlamayan aciklama yeniden yazildi, sik yazim", "zaman": "2026-09-25T19:50:19"}
+{"id": "cbbde332dc348aeb", "karar": "duzelt", "govde": "Miyokard infarktüsünün en sık yerleşim yeri aşağıdakilerden hangisidir?", "siklar": {"A": "Sol ventrikül ön yüz", "B": "Sol ventrikül arka yüz", "C": "Sağ ventrikül ön yüz", "D": "Sol ventrikül dış yüz", "E": "Sol atriyum arka duvar"}, "cevap": "A", "not": "yapisik kelimeler", "zaman": "2026-09-25T19:50:19"}
+{"id": "77ab97c269e0cbe1", "karar": "duzelt", "govde": "Aşağıdaki histolojik komponentlerden hangisinin eklemlerdeki pannus reaksiyonunun histolojisinde yer alması beklenmez?", "aciklama": "Romatoid artritte sinovyal membranda gelişen pannus; sinovyal hücre proliferasyonu, lenfosit ve plazma hücrelerinden zengin kronik iltihap, damardan zengin granülasyon dokusu ve fibroblast proliferasyonundan oluşan inflamatuvar bir dokudur. Pannus eklem kıkırdağının üzerine yayılarak kıkırdağı ve subkondral kemiği tahrip eder; kıkırdak üremesi pannusun histolojik bileşenlerinden biri değildir.", "not": "govdeye karisan baska soru metni cikarildi; ilgisiz (biyotransformasyon) aciklama yerine aciklama yazildi", "zaman": "2026-09-25T19:50:19"}
+{"id": "363d7fe670f0638b", "karar": "duzelt", "govde": "İzoniazidin yavaş asetillenmesinde neden olarak en sık karşılaşılan hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T19:50:19"}
+{"id": "acda092b02279571", "karar": "duzelt", "aciklama_paragraf": 2, "not": "bos kalan liste basligi kesildi", "zaman": "2026-09-25T19:50:19"}
+{"id": "2e56c31c6a2e7c2a", "karar": "duzelt", "siklar": {"A": "Modifiye radikal mastektomi", "B": "Radyoterapi", "C": "Aromataz inhibitörleri", "D": "Neoadjuvan kemoterapi", "E": "Meme koruyucu cerrahi"}, "cevap": "D", "not": "E yazim", "zaman": "2026-09-25T19:50:19"}
+{"id": "6b62950a00f108bf", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "b4ddb0aa140a6db6", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "eb3702226d1dd6a0", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "8ebabef71ee96740", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "311f7da17b4dc0be", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "6a9b977ab25d8c1f", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "de174ef9924d512b", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "a1f280da42d912bc", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "39a6a3f9b5d33011", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "5a83424d7954a033", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "88a86b5c4f18cf00", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "8afd2cae1fb67c76", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "bef1dff57354ac43", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "37b448ffac0f0f72", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "eed0bbfcbd2cae10", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "28eecdd83ccc0bc4", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "328a0a1711f5796d", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "ad41f595c6edef77", "karar": "ok", "zaman": "2026-09-25T19:50:19"}
+{"id": "a89fb604c0412462", "karar": "duzelt", "govde": "Şiddetli astım atağında beklenmeyen bulgu aşağıdakilerden hangisidir?", "not": "govdeye karisan baska soru/aciklama metni cikarildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "4dc783dbc65572af", "karar": "at", "neden": "tekrar", "not": "e21b8bb46e7b3175 ile ayni soru ve aciklama", "zaman": "2026-09-25T19:51:03"}
+{"id": "424fc57f6f9eb5a1", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi Bordetella pertussis'in virülans faktörlerinden değildir?", "siklar": {"A": "Filamentöz hemaglütinin", "B": "Marsesin", "C": "Dermonekrotik toksin", "D": "Trakeal sitotoksin", "E": "Adenilat siklaz toksin"}, "cevap": "B", "aciklama": "Bordetella pertussis'in virülans faktörleri; solunum epiteline tutunmayı sağlayan filamentöz hemaglütinin, fimbriya ve pertaktin, siliyer hareketi durduran ve epitel hasarı yapan trakeal sitotoksin, lokal doku hasarı ve iskemiden sorumlu dermonekrotik toksin, hücre içi cAMP'yi artıran adenilat siklaz toksin ve pertussis toksinidir. Pertussis toksini Gi proteinini ADP-ribozillemesiyle inaktive ederek cAMP artışına, lenfositoz, hipoglisemi ve histamine duyarlılığa yol açar. Marsesin ise Serratia marcescens'e ait bir bakteriyosindir; pertussis'in virülans faktörü değildir.", "not": "govde/sik yazim; bozuk paragraf iceren aciklama yeniden yazildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "7d45bcd64b8edec1", "karar": "duzelt", "govde": "Poliarteritis nodosa hangi organın damarlarını en sık tutar?", "aciklama": "Poliarteritis nodosa orta ve küçük boy kas tipi arterlerin nekrotizan vaskülitidir; akciğerleri genellikle tutmaz. Sıklık sırasına göre en çok böbrek, ardından kalp, karaciğer, gastrointestinal sistem, periferik sinirler, iskelet kası ve deri damarları tutulur. Renal arter tutulumu hipertansiyon ve böbrek yetmezliğine yol açar; glomerülonefrit görülmez.", "not": "bozuk aciklama yeniden yazildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "a6b5e2c0ac7de467", "karar": "duzelt", "aciklama": "İntravenöz rejyonel anestezi (Bier bloğu), turnike uygulanmış ekstremitenin venöz sistemine lokal anestezik verilerek yapılır; bu amaçla en sık lidokain (ve prilokain) kullanılır. Bupivakain kardiyotoksisitesi nedeniyle bu yöntemde kullanılmaz. Kokain yalnızca topikal olarak kullanılır; prokain (novokain) ve pentokain (tetrakain) ise intravenöz rejyonel anestezide tercih edilmez.", "not": "yanlis ilac listesi iceren aciklama yeniden yazildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "80715ec194ecfdce", "karar": "duzelt", "govde": "Primer yara iyileşmesinde granülasyon dokusu ilk kez ne zaman oluşur?", "aciklama": "Primer yara iyileşmesinde ilk 24 saatte kan pıhtısı oluşur ve nötrofiller yara kenarlarına göç eder; 2. günde epitel hücreleri yara yüzeyini örter. 3. günde nötrofillerin yerini makrofajlar alır ve granülasyon dokusu insizyon boşluğunu doldurmaya başlar. Granülasyon dokusu; yeni oluşan kapiller damarlar, fibroblastlar ve mononükleer hücrelerden oluşur; yeni damarların geçirgenliği fazla olduğundan ödemlidir. 5. günde neovaskülarizasyon en üst düzeye ulaşır, kollajen lifleri insizyonu köprülemeye başlar.", "not": "bozuk paragraf iceren aciklama yeniden yazildi, govde yazim", "zaman": "2026-09-25T19:51:03"}
+{"id": "3c22403dfdfc8cb6", "karar": "duzelt", "aciklama_paragraf": 1, "not": "bozuk tablo kesildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "e75010434372ca1c", "karar": "at", "neden": "tekrar", "not": "beec0f04203c4db7 ile ayni soru (konjenital CMV); govdede baska soru artigi", "zaman": "2026-09-25T19:51:03"}
+{"id": "0a7e21f0f52660c4", "karar": "duzelt", "govde": "Aşağıdaki antiaritmik ilaçlardan hangisi A-V düğümünü etkileyerek refrakter periyodun uzamasına neden olmaz?", "not": "govde tire", "zaman": "2026-09-25T19:51:03"}
+{"id": "50f3d99f9636c54b", "karar": "duzelt", "aciklama_paragraf": 4, "not": "bozuk neden listesi kesildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "ca659482bf25020c", "karar": "duzelt", "aciklama": "Doğum eyleminin başlamasında fetal ve maternal faktörler birlikte rol oynar. Fetal hipotalamus-hipofiz-adrenal aksının aktivasyonuyla artan kortizol, plasentada progesteronun östrojene dönüşümünü artırır; progesteron etkisinin (fonksiyonel progesteron çekilmesi) azalması ve östrojenin artması miyometriyumda oksitosin reseptörleri ile gap junction'ların sayısını artırır. Prostaglandinler (PGF2α ve PGE2) serviksin olgunlaşmasını ve uterus kasılmalarını sağlar, oksitosin ise kasılmaları güçlendirir. Prolaktin laktasyonla ilişkili bir hormondur; doğum eyleminin başlamasında rolü yoktur.", "not": "baska soruya ait (transvers situs) aciklama yerine aciklama yazildi", "zaman": "2026-09-25T19:51:03"}
+{"id": "0cb123de24161287", "karar": "duzelt", "siklar": {"A": "Mycoplasma pneumoniae", "B": "Corynebacterium diphtheriae", "C": "Haemophilus influenzae tip b", "D": "Bordetella pertussis", "E": "Mycobacterium tuberculosis"}, "cevap": "C", "not": "tur adlari yazim", "zaman": "2026-09-25T19:51:03"}
+{"id": "5ff34e542bb8b5a3", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "3cce504ee566b89a", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "a574260f49fca6ec", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "b857f7f7e3dede8c", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "1f1a64d76f1605f6", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "db7d691f58e81d21", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "e1a846c64057d381", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "0f5626ababb679af", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "49d850fac2a465be", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "5563f7b1670318df", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "607783db7209d791", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "29b8846699e66eec", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "fb492723cf0d73dd", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
