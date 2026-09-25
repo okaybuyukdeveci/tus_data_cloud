@@ -1248,3 +1248,53 @@
 {"id": "c909bfd8b16e15af", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
 {"id": "a2e642a00b5479ea", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
 {"id": "add37edd684895e4", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "5f5662eee317253c", "karar": "duzelt", "aciklama_paragraf": 3, "not": "OCR ile bozulmus TLR listesi kesildi", "zaman": "2026-09-25T20:27:10"}
+{"id": "006c1bec47c27676", "karar": "duzelt", "aciklama": "Akciğerin difüzyon kapasitesi karbonmonoksit (DLCO) ile ölçülür. DLCO alveolokapiller membranın yüzey alanı ve pulmoner kapiller kan hacmi ile doğru, membran kalınlığı ile ters orantılıdır. Amfizem, interstisyel (restriktif) akciğer hastalıkları, pnömonektomi/lobektomi ve pulmoner hipertansiyonda DLCO azalır. Alveoler kanamada ise alveol içindeki eritrositlerin hemoglobini karbonmonoksiti bağladığından DLCO yalancı olarak artar; polisitemi, astım ve sol-sağ şant da DLCO'yu artırabilir.", "not": "aciklamaya ilgisiz listeler karismis ve 'arttigi' kismi kayip, yeniden yazildi", "zaman": "2026-09-25T20:27:10"}
+{"id": "24716daee1fb0d1d", "karar": "duzelt", "aciklama": "Hormon ve nörotransmitter reseptörleri hücre membranında ya da hücre içinde bulunabilir. Katekolaminler suda çözünen, hücre membranını geçemeyen moleküller olduklarından G proteinine bağlı hücre membranı reseptörleri (alfa ve beta adrenerjik reseptörler) üzerinden etki ederler. Testosteron, östrojen gibi steroid hormonlar, tiroid hormonları ve PPAR (peroksizom proliferatörleri ile aktive olan reseptörler) ise hücre içi (sitoplazmik/nükleer) reseptörler aracılığıyla gen transkripsiyonunu düzenler.", "not": "aciklama bos basliklardan ibaretti, yeniden yazildi", "zaman": "2026-09-25T20:27:10"}
+{"id": "0bdd1b525121c270", "karar": "duzelt", "aciklama": "İndirekt inguinal herniler processus vaginalisin tam kapanmaması sonucu gelişir ve derin inguinal halkadan girip inguinal kanal boyunca ilerler. Derin inguinal halka inferior epigastrik damarların lateralinde yer aldığından indirekt herniler inferior epigastrik damarların lateralinde bulunur. Hesselbach üçgeninden çıkan direkt herniler ise inferior epigastrik damarların medialindedir. Femoral herniler femoral venin medialinde yer alır.", "not": "aciklama OCR ile bozuk, yeniden yazildi", "zaman": "2026-09-25T20:27:10"}
+{"id": "0240a9293bcd5abe", "karar": "duzelt", "siklar": {"A": "Mide", "B": "İnce bağırsak", "C": "Kolon", "D": "Özofagus", "E": "Rektum"}, "cevap": "A", "aciklama": "Gastrointestinal stromal tümörler (GIST) gastrointestinal sistemin en sık görülen mezenkimal tümörleridir ve Cajal'in interstisyel hücrelerinden köken alırlar. En sık midede (%60), ikinci sıklıkta ince bağırsakta görülürler; kolon, rektum ve özofagus tutulumu daha nadirdir. Çoğunda c-KIT (CD117) mutasyonu bulunur ve tedavide imatinib kullanılır.", "not": "C sikki yazim; aciklama hatali ve yetersizdi, yeniden yazildi", "zaman": "2026-09-25T20:27:10"}
+{"id": "d065b69434646e2d", "karar": "duzelt", "aciklama_paragraf": 10, "not": "adenohipofiz paragrafi kesildi", "zaman": "2026-09-25T20:27:10"}
+{"id": "a205c2e2b2e2d8aa", "karar": "duzelt", "siklar": {"A": "Scheie", "B": "I-cell", "C": "Parkinson", "D": "Ehlers-Danlos", "E": "Sjögren"}, "cevap": "B", "not": "sik yazimlari", "zaman": "2026-09-25T20:27:10"}
+{"id": "7f9d4f0e2c1fa202", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "a7f80838b478d838", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "8bc721a98a50025c", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "4fa80b56a40465bd", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "348bfad20f5e920c", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "d9e646660eac6733", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "43bfc44bafeae176", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "b119430f05475d2c", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "79d7eb9fc45950f1", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "a75743dac668f46c", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "867f417a30ae0424", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "0bd4912670566e79", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "e8d178c8f911bcf8", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "39f8c2d9a4a9e219", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "a08ece2cd4a50c39", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "73cb6c72db0ab953", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "9b4862be342102d8", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "1ce412ae6d8048d6", "karar": "ok", "zaman": "2026-09-25T20:27:10"}
+{"id": "eaf86e1d471be806", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "nekroz tipleriyle ilgili ilgisiz paragraf kesildi", "zaman": "2026-09-25T20:27:45"}
+{"id": "e7d180f5c0d62bfc", "karar": "duzelt", "aciklama_paragraf": 13, "not": "kucuk fontanel/mikrosefali listesi ve ilgisiz IVK satiri kesildi", "zaman": "2026-09-25T20:27:45"}
+{"id": "48ef0a1525dddc23", "karar": "duzelt", "govde": "Otuzdokuz yaşında bayan hasta halsizlik, ateş ve sol üst kadranda ağrı şikayeti ile başvuruyor. Fizik muayenede dalak kosta kenarından 8 cm, karaciğer 3 cm palpabl, aksiller 4 adet 2x4 cm lenfadenopati bulunuyor. Laboratuvarda hemoglobin 11 g/dl, lökosit 130.000/mm3, trombosit 775.000/mm3 olarak saptanıyor. Periferik yaymada monositoz, eozinofili, myelosit, metamyelosit ve normoblastlar görülüyor. Lökosit alkalen fosfataz düzeyi düşük bulunuyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde OCR (11g/d|)", "zaman": "2026-09-25T20:27:45"}
+{"id": "d4bad41f77f04e6a", "karar": "at", "neden": "cevap_supheli", "not": "epinefrinin COMT ile yikim urunu metanefrindir (E); anahtar B (indikan), aciklama PT/aPTT'ye ait", "zaman": "2026-09-25T20:27:45"}
+{"id": "7abe735ed19ce571", "karar": "duzelt", "cevap": "D", "siklar": {"A": "Mycobacterium", "B": "Leptospira", "C": "Actinomyces", "D": "Mycoplasma", "E": "Bacillus"}, "aciklama_paragraf": 1, "not": "CEVAP DEGISTI B->D: kitabin aciklamasi kolesterol gereksiniminin Mycoplasma'ya ait oldugunu soyluyor; DNA polimeraz paragraflari kesildi", "zaman": "2026-09-25T20:27:45"}
+{"id": "6b0fbcc083743a08", "karar": "duzelt", "govde": "Aşağıdaki sempatomimetik maddelerden hangisi indirekt etkilidir?", "aciklama": "Direkt etkili sempatomimetikler adrenerjik reseptörleri doğrudan uyarır; katekolaminler (adrenalin, noradrenalin), fenilefrin, metoksamin ve midodrin bu gruptadır. İndirekt etkililer ise reseptörü doğrudan uyarmaz, sinaptik aralıktaki noradrenalin miktarını artırarak etki gösterir. Amfetamin ve tiramin veziküllerden noradrenalin salınımını artırır; kokain geri alımı inhibe eder; MAO ve COMT inhibitörleri noradrenalinin yıkımını azaltır. Efedrin ve metaraminol ise hem direkt hem indirekt etkili (mikst) sempatomimetiklerdir.", "not": "govdeye yorum cumlesi karismis; aciklamaya dopamin metni karismis, yeniden yazildi", "zaman": "2026-09-25T20:27:45"}
+{"id": "320ab8fda7ad90e4", "karar": "duzelt", "siklar": {"A": "Daptomisin", "B": "Vankomisin", "C": "Klaritromisin", "D": "Levofloksasin", "E": "Seftriakson"}, "cevap": "A", "not": "E sikki yazim", "zaman": "2026-09-25T20:27:45"}
+{"id": "304dc94574940a91", "karar": "duzelt", "siklar": {"A": "I, II, III, IV, V", "C": "IV, I, V, II, III", "D": "IV, II, I, V, III", "E": "I, IV, V, II, III"}, "cevap": "C", "not": "C sikki OCR (II->III), aciklamaya gore HMG-KoA > mevalonat > skualen > lanosterol > kolesterol; bozuk B sikki cikarildi", "zaman": "2026-09-25T20:27:45"}
+{"id": "1ad3548d65841b0d", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "41d947f7e3484561", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "5b27c75701e5cc3a", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "0dcb8cc59399b64e", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "fae71cd1792fd9b4", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "24d483f2e6a67084", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "2f208a75d2729880", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "c9dc95387527e8d0", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "27ae2cf501e04b37", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "df43d878e554e9f6", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "8b6489cfb87e647c", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "af260e54d8ae15d5", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "c3c1d7b737e74459", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "1117ee128e868aa9", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "96174f763d20d997", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "2397f568df498ece", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
+{"id": "4a53a43530caf3f1", "karar": "ok", "zaman": "2026-09-25T20:27:45"}
