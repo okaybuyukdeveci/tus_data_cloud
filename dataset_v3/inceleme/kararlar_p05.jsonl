@@ -1498,3 +1498,78 @@
 {"id": "a8a6f22e052b8189", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
 {"id": "97bf83dc2ea4b963", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
 {"id": "70f817a596a66ac9", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "824eb395ce5fa67f", "karar": "duzelt", "govde": "Aşağıdaki sitokinlerden hangisinin özellikle eozinofiller üzerine kemotaksi arttırıcı etkisi vardır?", "not": "Govdede kemotaksi yazim hatasi duzeltildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "1153c9f097c8cb29", "karar": "duzelt", "govde": "Pulmoner embolinin en iyi tanı yöntemi aşağıdakilerden hangisidir?", "not": "Govdede OCR harf hatasi duzeltildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "db3e50086a00d3d2", "karar": "duzelt", "siklar": {"A": "Dokularda gereğinden fazla ölü alanı azaltmak için", "B": "Abse ve enfekte cerrahi sahada drenajın sağlanması için", "C": "Bağırsak içeriği, idrar, kan gibi kaçakların erken saptanması için", "D": "Saptanmış fistül kaçağının kontrolü için", "E": "Yara iyileşmesini hızlandırmak için"}, "cevap": "E", "not": "B ve C siklarindaki satir kirilmalari birlestirildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "a97a2803335e0405", "karar": "duzelt", "govde": "Otuz sekiz yaşında kadın hasta son dört yıldır gittikçe artan nefes darlığı ve nonprodüktif öksürük ile kliniğe başvuruyor. Hastanın fizik muayenesinde TA: 120/80 mmHg, Nb: 74/dk, oksijen satürasyonu %96 (oda havasında) olarak tespit ediliyor. Hastanın çekilen akciğer grafisinde bilateral retikülonodüler görünüm tespit ediliyor. Hastada restriktif akciğer hastalığı düşünülüyor ve biyopsi yapılıyor. Biyopsi sonucunda idiopatik pulmoner fibrozis tanısı koyuluyor. / Bu hasta için aşağıdaki tedavilerden hangisi uygun değildir?", "not": "Govdedeki tire bolunmeleri duzeltildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "d97f5fd01c170ae9", "karar": "duzelt", "aciklama": "Glikolizin 10 basamağından yedisi geri dönüşümlüdür ve glukoneogenezde ters yönde aynı enzimlerle kullanılır. Fosfoheksoz izomeraz (glukoz-6-fosfat izomeraz), glukoz-6-fosfat ile fruktoz-6-fosfat arasındaki geri dönüşümlü reaksiyonu katalizlediği için her iki yolda ortaktır. Heksokinaz, fosfofruktokinaz-1 ve pirüvat kinaz glikolizin geri dönüşümsüz basamaklarını katalizler; glukoneogenezde bu basamaklar pirüvat karboksilaz, PEP karboksikinaz, fruktoz-1,6-bisfosfataz ve glukoz-6-fosfataz ile atlanır. Bu nedenle glukoz-6-fosfataz ve fruktoz-1,6-bisfosfataz yalnızca glukoneogeneze özgüdür.", "not": "Aciklama dogru cevabi aciklamiyordu (glukoz-6-fosfatazdan bahsediyordu), yeniden yazildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "34c9683db758bf3c", "karar": "duzelt", "govde": "Balkan endemik nefropatisi ve üreter tümörü ile ilişkili mikotoksin hangisidir?", "siklar": {"A": "Aflatoksin", "B": "Fumonizin", "C": "Sitrinin", "D": "Okratoksin A", "E": "Siklopiazonik asit"}, "cevap": "D", "not": "Govdede mikotoksin yazimi, C ve E siklarinda bozuk adlar duzeltildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "ce46cecb7ff39e86", "karar": "duzelt", "govde": "Kronik endometrit için tanı koydurucu hücreler aşağıdakilerden hangisidir?", "not": "Govdedeki tire bolunmesi duzeltildi", "zaman": "2026-09-25T18:54:37"}
+{"id": "0a4d95a610d505c9", "karar": "at", "neden": "baglam_gerekli", "not": "Yukarida bahsedilen hastaya diye onceki soruya bagli", "zaman": "2026-09-25T18:54:37"}
+{"id": "781538aa53f07a3d", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "793d7e34001284e1", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "2cfd3b727c03a1e0", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "2bfcab69f0a3f739", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "be6be2f77c22b1c9", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "240a4b5ada0c1b9a", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "22295de7117db04d", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "236a05eda5823def", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "ee12e1ac2f38b929", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "be7987333bbc71ad", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "55f56efb909ced1e", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "e902a3a46595eb43", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "b206aa234a77f4d8", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "4cb8999523f192ee", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "1607b50aba858773", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "3dff08890b6e30de", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "81e584fe1a653a0b", "karar": "ok", "zaman": "2026-09-25T18:54:38"}
+{"id": "5ff8c4c674624bcc", "karar": "at", "neden": "cevap_supheli", "not": "Aciklama yarim; IgA nefropatisinde en sik isik mikroskobu bulgusu genellikle mezangial proliferasyondur, anahtar A (normal glomerul) supheli", "zaman": "2026-09-25T18:55:05"}
+{"id": "2867ea6460e166a1", "karar": "duzelt", "aciklama": "Mast hücreleri uyarıldığında önce granüllerde hazır bulunan (preformed) mediyatörler salınır: histamin, heparin, kondroitin sülfat gibi proteoglikanlar, triptaz ve kimaz gibi nötral proteazlar, nötrofil ve eozinofil kemotaktik faktörler ve adenozin. Prostaglandin D2, lökotrien C4/D4/E4 ve trombosit aktive edici faktör ise granüllerde depolanmaz; uyarı sonrası membran fosfolipidlerinden araşidonik asit yoluyla yeni sentezlenir. Bu nedenle prostaglandin D2 erken dönemde salınan hazır mediyatörlerden değildir.", "not": "Aciklama antidiyabetik ilaclarla ilgiliydi (baska soru), yeniden yazildi", "zaman": "2026-09-25T18:55:05"}
+{"id": "2d0a2a48b4e8d6a7", "karar": "duzelt", "govde": "Dislipidemi tedavisinde kullanılan ilaçlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?", "not": "Govdedeki tire bolunmesi duzeltildi", "zaman": "2026-09-25T18:55:05"}
+{"id": "661c02d74fe60a04", "karar": "at", "neden": "cevap_supheli", "not": "Aciklama ozefagus tumorlerine ait; colyakta en spesifik test klasik olarak anti-endomisyum (B), anti-tTG (A) en duyarli kabul edilir, anahtar supheli", "zaman": "2026-09-25T18:55:05"}
+{"id": "78a44fd685816e6a", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "Demir emilimi paragraflari baska soruya ait, kesildi", "zaman": "2026-09-25T18:55:05"}
+{"id": "4399ce5915238fba", "karar": "at", "neden": "cevap_supheli", "not": "Vankomisine intrinsik direncli olan Erysipelothrix rhusiopathiae (C); anahtar B (S. pneumoniae) supheli, aciklama baska soruya ait", "zaman": "2026-09-25T18:55:05"}
+{"id": "9be122ed36d659de", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "6dea1a2b9583ffa8", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "9ad282964b79f2ea", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "0491febc84b9d953", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "579119bd38ceae71", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "375a0615d35b36fd", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "3d5d07864bd93faa", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "2d9f90962ec127c6", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "617c1a8ff172876a", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "beb9bcd3d2cd94a2", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "11b80ab5c8729872", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "e52510b5d42a1aa0", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "0e0bd2b62a89e3e9", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "27883d1de29da1a1", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "aec1b9e7b1320222", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "b0ba64d6d744095e", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "aadceadfcbd1fc82", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "3ff3a53f5bef4953", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "be54759d60bbdb22", "karar": "ok", "zaman": "2026-09-25T18:55:05"}
+{"id": "c95a186eec206b09", "karar": "at", "neden": "cevap_supheli", "not": "Anahtar A (malformasyon riski 2 kat) ama RIA ile gebelikte konjenital malformasyon riski artmaz (B); aciklama cogunlukla KOK hakkinda, anahtari desteklemiyor", "zaman": "2026-09-25T18:55:32"}
+{"id": "d2597801babda3eb", "karar": "at", "neden": "cevap_supheli", "not": "Anahtar D (mangan); kitabin tablosu DNA polimerazi cinkoyla eslestiriyor, bilinen kofaktor ise magnezyum; aciklama baska soru tablolarindan olusuyor", "zaman": "2026-09-25T18:55:32"}
+{"id": "67e77a6e5110f3ad", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "56189c32df3f4684", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "fd252a9af47302a6", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "0af6a7b786095729", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "0133b2b15e124665", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "20233165b5ddc623", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "bb54b2783da767b9", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "d94330dc41f312dd", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "532eeac21d4f561f", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "b640d7e5587fdb427", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "114c34d41eb23bac", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "759f92ae5a2eadc9", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "b30b89951f9fa3bd", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "f0b770b5231c28a2", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "a94f87e9eb9d151f", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "7c7e167f900dab7c", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "8950914c8c26aa13", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "307b91a4957460e9", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "f26714c687a2fa5a", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "2f6092ee6168eaab", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "01442a652218b90e", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "6cab009be48d2bd8", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "231da9d9c7cc31fd", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
