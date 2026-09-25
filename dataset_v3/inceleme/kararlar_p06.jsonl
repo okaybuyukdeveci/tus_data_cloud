@@ -1398,3 +1398,53 @@
 {"id": "740b2453c35bf9a1", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
 {"id": "2a95a54fe57e9935", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
 {"id": "b8d43f7abd4641d0", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "ed63f4f8e7f309e5", "karar": "duzelt", "siklar": {"A": "Telmisartan", "B": "İrbesartan", "C": "Kandesartan", "D": "Saralazin", "E": "Losartan"}, "cevap": "E", "not": "B sikki yazim", "zaman": "2026-09-25T20:30:11"}
+{"id": "a15fc5aaabaeabe4", "karar": "duzelt", "aciklama": "Yüksek rezolüsyonlu bilgisayarlı tomografi (YRBT), ince kesitler ve yüksek uzaysal çözünürlüklü rekonstrüksiyon ile akciğer parankimini ve interstisyumu ayrıntılı gösteren, kontrast madde kullanılmadan yapılan bir yöntemdir. Sarkoidoz, idiyopatik pulmoner fibrozis ve diğer interstisyel akciğer hastalıkları ile bronşiektazinin değerlendirilmesinde tercih edilir. Pulmoner emboli ve aort diseksiyonunun tanısında damarların görüntülenmesi gerektiğinden intravenöz iyotlu kontrast madde ile yapılan BT anjiyografi kullanılır; atelektazi-tümör ayrımı ve nodül karakterizasyonunda da kontrastlı BT'den yararlanılır.", "not": "aciklama baslikta kesiliyordu, yeniden yazildi", "zaman": "2026-09-25T20:30:11"}
+{"id": "c05aebbd715f8adf", "karar": "duzelt", "govde": "Sistemik lupus eritematozus tanısında ve takibinde kullanılan otoantikorlar aşağıdakilerin hangisinde birlikte (tanı antikoru - takip antikoru sırasıyla) verilmiştir?", "siklar": {"A": "Anti-Sm - Anti-Jo1", "B": "Antisentromer - Antihiston", "C": "Romatoid faktör - Anti-RNP", "D": "Anti-dsDNA - Antifosfolipid", "E": "Antimitokondriyal - Antisentromer"}, "cevap": "D", "aciklama_paragraf": "1-", "not": "iki sutunlu siklarin ikinci sutunu aciklamanin basina kaymisti, siklar birlestirildi", "zaman": "2026-09-25T20:30:11"}
+{"id": "eb5046531b7619c0", "karar": "duzelt", "govde": "Aktive T lenfositlerinde bulunan aşağıdaki moleküllerden hangisinin B7 ile etkileşimi sonucunda T lenfosit aktivasyonunun negatif regülasyonu (inhibisyonu) sonucu anerji ortaya çıkması beklenir?", "not": "govde yazim", "zaman": "2026-09-25T20:30:11"}
+{"id": "30f3229d2f787e3e", "karar": "duzelt", "govde": "Klasik olarak ağrısı NSAİİ'lere iyi yanıt veren, radyografide genellikle yoğun reaktif kemik ve radyolusen nidus içeren kemik tümörü aşağıdakilerden hangisidir?", "not": "govde yazim (yanır)", "zaman": "2026-09-25T20:30:11"}
+{"id": "63a23acddc278296", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "4a3120dd2e51f779", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "241438d73a5483bc", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "9b21a6fefacafd1f", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "d5e6433f1f792e33", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "b2c9c89fcdf84c9f", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "0e6ca777946e3e99", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "b1d06160911ca2d6", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "ac18007bf4340972", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "a0316a649e2b13ce", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "2a91bcbe2db109a6", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "7656587da4d4589b", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "5be21228ffffb6b9", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "f100b793e8e749f7", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "99c1315d8336258f", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "03774e3b95fda948", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "076ffcf20391c40b", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "f7784ccc2d4f6f6b", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "025f9088abf12727", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "f69dc2480a54b762", "karar": "ok", "zaman": "2026-09-25T20:30:11"}
+{"id": "898947feebea394c", "karar": "duzelt", "siklar": {"A": "Shigella", "B": "Aeromonas", "C": "Plesiomonas", "D": "Vibrio", "E": "Campylobacter"}, "cevap": "B", "not": "C sikki yazim", "zaman": "2026-09-25T20:30:42"}
+{"id": "964f89183769727e", "karar": "duzelt", "cevap": "A", "siklar": {"A": "Endometrium kanseri", "B": "Anal kanser", "C": "Serviks kanseri", "D": "Vulva kanseri", "E": "Vajen kanseri"}, "not": "CEVAP DEGISTI B->A: kitabin aciklamasi HPV'nin endometrium kanseri etiyolojisinde yer almadigini soyluyor; anal kanser HPV ile iliskili", "zaman": "2026-09-25T20:30:42"}
+{"id": "b0cad734a2010fc6", "karar": "duzelt", "cevap": "A", "siklar": {"A": "Tuberositas glutea", "B": "Tuber ischiadicum", "C": "Linea arcuata", "D": "Spina ischiadica", "E": "Foramen obturatum"}, "aciklama": "Tuberositas glutea, femurun arka yüzünde yer alan ve musculus gluteus maximusun bir kısım liflerinin sonlandığı kabarıklıktır; os coxae'ya ait değildir. Tuber ischiadicum ve spina ischiadica os ischii'nin, linea arcuata os ilii'nin iç yüzünün yapılarıdır; foramen obturatum ise os pubis ve os ischii tarafından sınırlanır. Bu yapıların hepsi os coxae'da bulunur.", "not": "CEVAP DEGISTI C->A: kitabin aciklamasi tuberositas glutea'nin femurda oldugunu ve diger yapilarin os coxae'da bulundugunu soyluyor; aciklamaya karisan mediasten metni atildi", "zaman": "2026-09-25T20:30:42"}
+{"id": "bc95361779d81a8d", "karar": "duzelt", "govde": "Aşağıdaki hormonlardan hangisi depolanmadan, hücre dışına doğrudan (basit difüzyonla) salgılanır?", "aciklama_paragraf": "6-", "not": "govde bozuk cumle; folik asit paragraflari kesildi", "zaman": "2026-09-25T20:30:42"}
+{"id": "13722f840c65e958", "karar": "duzelt", "aciklama_paragraf": 1, "not": "ilgisiz submukoza paragrafi kesildi", "zaman": "2026-09-25T20:30:42"}
+{"id": "a263b0cf335166bb", "karar": "duzelt", "aciklama_paragraf": "4-", "not": "Parkinson ilaclari paragraflari kesildi", "zaman": "2026-09-25T20:30:42"}
+{"id": "b49c8033e43c4274", "karar": "duzelt", "aciklama_paragraf": 9, "not": "anserin/karnozin paragrafi kesildi", "zaman": "2026-09-25T20:30:42"}
+{"id": "775a17c89e7d27b3", "karar": "duzelt", "govde": "Çocukluğunda damdan düşme hikayesi olan ve üç defa menenjit geçiren 24 yaşındaki bir erkek hastanın BOS'unda mum alevi şeklinde gram pozitif diplokoklar görülüyor. / Aşağıdakilerden hangisi bu bakteriye ait özelliklerden biri değildir?", "aciklama_paragraf": "4-", "not": "govde yazim; VRE ilaclari paragraflari kesildi", "zaman": "2026-09-25T20:30:42"}
+{"id": "78100dc8da48f224", "karar": "at", "neden": "cevap_supheli", "not": "Mallory-Weiss yirtiklari en sik ozofagogastrik bileskede/kardiada olur; anahtar B (proksimal ozofagus) supheli, aciklama GIST'e ait", "zaman": "2026-09-25T20:30:42"}
+{"id": "92ede1b82e9468e5", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "111f531e30dbe3ff", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "2cc3f7aad7a88ea0", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "5aaba6b2ca911c26", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "c79ada07c7234205", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "791c6b287786397a", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "f4cd18f085caba8c", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "64757cd401b8f315", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "cd32499056abcc49", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "460973f2139f9fd6", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "ea982490697295fc", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "9d5088428564caab", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "a764316b9cc91f0a", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "3dadbb82aa49b0a4", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "25568b0d2d657fc7", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
+{"id": "5debec4f7819d2cf", "karar": "ok", "zaman": "2026-09-25T20:30:42"}
