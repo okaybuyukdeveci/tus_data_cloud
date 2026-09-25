@@ -1348,3 +1348,53 @@
 {"id": "15a47ef28018b0bc", "karar": "ok", "zaman": "2026-09-25T20:28:38"}
 {"id": "e8133874af84fe68", "karar": "ok", "zaman": "2026-09-25T20:28:38"}
 {"id": "646aa270b7076fe4", "karar": "ok", "zaman": "2026-09-25T20:28:38"}
+{"id": "61fe09d987515bee", "karar": "duzelt", "siklar": {"A": "Dronabinol, kannabinoid reseptörlerini aktive eder.", "B": "Aprepitant, substans P NK1 reseptörlerini bloke eder.", "C": "Deksametazon, 5-HT3 antagonistlerinin etkisini güçlendirmek ve uzatmak için kullanılır.", "D": "Domperidon, metoklopramide kıyasla daha fazla ekstrapiramidal yan tesir yapar.", "E": "Skopolamin taşıt tutmalarında oldukça etkilidir."}, "cevap": "D", "not": "B ve C siklarinda OCR", "zaman": "2026-09-25T20:29:12"}
+{"id": "962eb6031c8475ee", "karar": "duzelt", "aciklama": "Troponinler miyokard hasarının en duyarlı ve özgül belirteçleri olsa da kanda 7-10 gün (troponin T için 14 güne kadar) yüksek kalırlar. Bu nedenle ilk infarktüsten birkaç gün sonra gelişen yeni bir infarktüsü (reinfarktüs) troponinle ayırt etmek güçtür. CK-MB ise 3-12 saatte yükselir, 24 saatte pik yapar ve 48-72 saatte normale döner. Bu yüzden MI'dan sonraki 4. günde tekrarlayan göğüs ağrısında reinfarktüsün değerlendirilmesinde en uygun belirteç CK-MB'dir. Miyoglobin çok erken yükselir ancak kardiyak özgüllüğü düşüktür; AST ve LDH ise artık kullanılmamaktadır.", "not": "aciklama tamponad tablosuna aitti, yeniden yazildi", "zaman": "2026-09-25T20:29:12"}
+{"id": "3aaf7697155a7406", "karar": "duzelt", "aciklama": "Üst motor nöron lezyonlarında kas gücünde azalma ile birlikte spastisite, derin tendon reflekslerinde artma, klonus, Babinski (ekstansör taban derisi yanıtı) ve Hoffmann işareti gibi patolojik refleksler görülür; atrofi belirgin değildir ve fasikülasyon olmaz. Spastisite, pasif harekete karşı hıza bağlı, 'çakı bıçağı' tarzında artan dirençtir. Rijidite ise hareketin her yönünde ve her hızda sabit olan 'kurşun boru' veya 'dişli çark' tarzı dirençtir ve ekstrapiramidal (bazal gangliyon) lezyonlarının, örneğin Parkinson hastalığının bulgusudur.", "not": "aciklama tinea capitis sorusuna aitti, yeniden yazildi", "zaman": "2026-09-25T20:29:12"}
+{"id": "83396567d4fcd922", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "kordon prolapsusu paragrafi ve sekle atif kesildi", "zaman": "2026-09-25T20:29:12"}
+{"id": "108f55e160e82576", "karar": "duzelt", "govde": "Daha önce sağlıklı olan on dört aylık erkek bebek solukluk nedeniyle başvuruyor. Öyküsünde 2 hafta önce viral ÜSYE geçirdiği öğreniliyor. Fizik muayenesinde solukluk dışında özellik yok. Laboratuvarında eritrosit sayısı 3x10⁶/mm3, hemoglobin 7 g/dl, hematokrit %20, MCV 80 fL, RDW 14, lökosit sayısı 7200/mm3, trombosit sayısı 550.000/mm3 saptanıyor. / Bu çocukta aneminin en olası nedeni aşağıdakilerden hangisidir?", "not": "govde OCR", "zaman": "2026-09-25T20:29:12"}
+{"id": "6bc7dd5e4d9f5384", "karar": "at", "neden": "soru_bozuk", "not": "govde meme kanseri/TNM metnine ait, siklar ve aciklama tiroid cerrahisi komplikasyonlarina ait", "zaman": "2026-09-25T20:29:12"}
+{"id": "f5f6b065cadea9e8", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "253d6b12263ad711", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "da7bf96ae9776ab3", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "6d234b0aaad17486", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "bcffc7759dd5dfb2", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "ae5fc0884539861b", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "facf62a58448236e", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "3f8f683c415680f0", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "9368bf4d1625abe7", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "cc0e09a1f0725c70", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "3fc9ed9d5e50bb0d", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "d0d59acf4f7b43e4", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "4bb4a5e6751f33f2", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "a6c5502efdc0ca1a", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "912f75c21f19f455", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "83b83484ee1125fd", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "e00d65aa5436772a", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "fe591d63f89ff48d", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "29eda1827e749318", "karar": "ok", "zaman": "2026-09-25T20:29:12"}
+{"id": "e12077e201be8bb8", "karar": "duzelt", "siklar": {"A": "(10+8) / (10+308)", "B": "10 / (10+308)", "C": "(10+8) / 308", "D": "(8+15+56) / 308", "E": "(10+8+15) / 308"}, "cevap": "A", "not": "kesir cizgileri kayipti, siklar pay/payda olarak yazildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "70061fb846fa7fee", "karar": "duzelt", "aciklama_paragraf": 5, "not": "faringeal arkus paragraflari kesildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "520e06f3106c8a67", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "basta kopuk parca kesildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "eb37b27f2715ab38", "karar": "duzelt", "siklar": {"A": "Glukokortikoid", "B": "Amiodaron", "C": "İopanoik asit", "D": "Metimazol", "E": "Propranolol"}, "cevap": "D", "aciklama_paragraf": 14, "not": "sik yazimlari; Coombs/hemoliz testleri paragraflari kesildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "93f4735aaafbbebf", "karar": "duzelt", "aciklama": "Yenidoğan döneminde ağır hipotoni, dilde fasikülasyon, derin tendon reflekslerinin alınamaması ve EMG'de ön boynuz hastalığı bulguları spinal musküler atrofiyi (SMA) düşündürür. SMA, spinal kordun ön boynuz hücrelerinin kaybı sonucu progresif kas güçsüzlüğüyle seyreden, otozomal resesif geçişli (SMN1 geni, 5q) bir hastalıktır. Tip I (Werdnig-Hoffmann) formunda semptomlar doğumda veya ilk aylarda başlar; bebekler hiçbir zaman desteksiz oturamaz, emme ve yutma bozuktur, kas güçsüzlüğü simetriktir, oküler kaslar ve diyafragma korunur, zeka normaldir. Kreatin kinaz normal veya hafif yüksektir; musküler distrofilerde ise CK belirgin yüksektir ve dilde fasikülasyon görülmez.", "not": "aciklamaya mutasyon turleri metni karismis, yeniden yazildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "d83c7eb912bbb6f7", "karar": "duzelt", "aciklama": "Akut poststreptokoksik glomerülonefrit çoğunlukla kendini sınırlayan bir immün kompleks hastalığıdır ve tipik olgularda biyopsi gerekmez. Biyopsi; streptokok enfeksiyonu kanıtının bulunmaması, nefrotik sendrom tablosu, BUN ve kreatininde progresif artış (hızlı ilerleyen böbrek yetmezliği), 8 haftadan uzun süren hipokomplementemi, uzamış makroskopik hematüri veya hipertansiyon gibi atipik seyirlerde endikedir. Mikroskopik hematüri ise iyileşme döneminde 1-2 yıla kadar devam edebilir ve tek başına biyopsi endikasyonu değildir.", "not": "aciklama kesikti, yeniden yazildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "379da36a47d2ae1c", "karar": "duzelt", "aciklama_paragraf": 2, "not": "cerrahi alan enfeksiyonu tablosu kesildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "2d5d272739c313d9", "karar": "duzelt", "aciklama_paragraf": 4, "not": "invajinasyon paragraflari kesildi", "zaman": "2026-09-25T20:29:41"}
+{"id": "af60fd98277de8b4", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "3cf1ccdc5f92b089", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "c1d51140a3616588", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "4706c4c44bc08263", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "9f72d84c1737bb72", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "debf239806db9444", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "5affb1ad98fcc25a", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "f62ef57c7787f232", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "378fbe8106465a60", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "58ea784a0a366050", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "a01d51c12599afba", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "4cc9975152c3bb10", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "8fac42fc30feb27e", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "1a32d29c9e95e2f4", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "740b2453c35bf9a1", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "2a95a54fe57e9935", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
+{"id": "b8d43f7abd4641d0", "karar": "ok", "zaman": "2026-09-25T20:29:41"}
