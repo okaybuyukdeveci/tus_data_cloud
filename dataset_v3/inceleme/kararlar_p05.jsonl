@@ -598,3 +598,103 @@
 {"id": "5ae419c67e25480e", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
 {"id": "46782f741dc54a02", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
 {"id": "14216335d537a84d", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "053b5bd71beed620", "karar": "duzelt", "govde": "Seronegatif spondiloartropatiler ile ilgili aşağıdakilerden hangisi yanlıştır?", "aciklama": "Seronegatif spondiloartropatiler (ankilozan spondilit, psoriatik artrit, reaktif artrit/Reiter sendromu ve enteropatik artrit) romatoid faktör negatifliği ve romatoid nodül yokluğu, spondilitle birlikte ya da tek başına sakroileit, entesopati ve HLA-B27 ile ilişki gösterir. Periferik eklem tutulumu tipik olarak alt ekstremite ağırlıklı, asimetrik ve oligoartiküler karakterdedir; simetrik poliartiküler tutulum romatoid artriti düşündürür.", "not": "aciklama yarim liste idi; govde sonundaki artik temizlendi", "zaman": "2026-09-25T18:37:52"}
+{"id": "07022fe58e970116", "karar": "duzelt", "govde": "Yumuşak doku infeksiyonlarında risk faktörleri ve en olası etken eşlemelerinden hangisi yanlıştır?", "siklar": {"A": "Deniz suyu teması - Vibrio vulnificus", "B": "Bukkal selülit - Haemophilus influenzae", "C": "Kedi ısırığı - Bartonella henselae", "D": "Akvaryum suyu teması - Mycobacterium marinum", "E": "Hayvan teması - Erysipelothrix rhusiopathiae"}, "cevap": "C", "not": "sutun basligi govdeden cikarildi, eslemeler ayrildi", "zaman": "2026-09-25T18:37:52"}
+{"id": "27cc45ce9a86be84", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "ilk iki paragraf hormona duyarli lipaz sorusuna ait", "zaman": "2026-09-25T18:37:52"}
+{"id": "af41e2a1bfb6996c", "karar": "at", "neden": "tekrar", "not": "e5e880f7028dc49b ile ayni soru", "zaman": "2026-09-25T18:37:52"}
+{"id": "ae334acdf0683e49", "karar": "duzelt", "govde": "Akut pankreatitte aşağıdakilerden hangisi prognostik kriterlerden biri değildir?", "aciklama": "Serum amilaz ve lipaz akut pankreatit tanısında yararlıdır ancak düzeyleri hastalığın ağırlığı ile ilişkili değildir ve prognostik değer taşımaz. C-reaktif protein, IL-6, α2-makroglobulin ve idrarda tripsinojen aktivasyon peptidi ise klasik Ranson kriterleri dışında kullanılan prognostik belirteçlerdir.", "not": "govde ve aciklamaya apendektomi notu karismisti", "zaman": "2026-09-25T18:37:52"}
+{"id": "2688d223fc53750b", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "70a1884b4519e44b", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "b0e7fb6dc49f15cb", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "a578a9ad34a2a664", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "600edec956a1eb76", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "5dca4d33a9afc9ae", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "3ffcf394c7ce9138", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "3564ba3e05e9ed46", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "6d51a41a0bd7ddac", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "dc75b404aee76489", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "05a60ddaa66dbee3", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "47c4b43e1fe313a9", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "f5961c09d5b13a5e", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "d51a45f72a31748a", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "59f736996e614ead", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "579dc33b65e370e1", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "57f704c1ef3e1b03", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "1a077481db5d1de6", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "cd2a07d06c8552c9", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "79ed4c13b9ae05bf", "karar": "ok", "zaman": "2026-09-25T18:37:53"}
+{"id": "b7c6a911574f06e0", "karar": "duzelt", "siklar": {"A": "Tüberküloz peritonit", "B": "Portal ven trombozu", "C": "Budd - Chiari sendromu", "D": "Sağ kalp yetmezliği", "E": "Karaciğer sirozu"}, "cevap": "A", "aciklama_paragraf": 2, "not": "A sikki 'perikardit' olarak bozulmustu (perikardit yuksek SAAG yapar); aciklamaya gore dusuk SAAG = tuberkuloz peritonit; bozuk tablolar kesildi", "zaman": "2026-09-25T18:38:14"}
+{"id": "5f09527d77567bca", "karar": "duzelt", "govde": "Aşağıdaki bakteri ve doğal dirençli olduğu antibiyotik eşlemelerinden hangisi yanlıştır?", "siklar": {"A": "Enterococcus faecium - Seftriakson", "B": "Pseudomonas aeruginosa - Vankomisin", "C": "Listeria monocytogenes - Seftriakson", "D": "Chlamydia trachomatis - Ampisilin", "E": "Staphylococcus aureus - Penisilin G"}, "cevap": "E", "aciklama_paragraf": "1-", "not": "antibiyotik sutunu aciklamaya kaymisti, eslemeler geri kondu", "zaman": "2026-09-25T18:38:14"}
+{"id": "25800503dd2cf8fe", "karar": "duzelt", "govde": "Aşağıdaki seçeneklerde aminoasit ve karbon iskeletinin sitrik asit siklusunda yıkıldığı ürünlerin eşleştirmeleri verilmiştir. Bunlardan hangi eşleştirme hatalıdır?", "siklar": {"A": "Alanin - Pirüvat", "B": "Lösin - Alfa ketoglutarat", "C": "Aspartat - Oksaloasetat", "D": "Glutamat - Alfa ketoglutarat", "E": "Metiyonin - Süksinil KoA"}, "cevap": "B", "aciklama_paragraf": "1-", "not": "urun sutunu aciklamaya kaymisti, eslemeler geri kondu", "zaman": "2026-09-25T18:38:14"}
+{"id": "a4ea07ada7abd59e", "karar": "duzelt", "aciklama_paragraf": 3, "not": "ilgisiz bobrek fizyolojisi paragraflari kesildi", "zaman": "2026-09-25T18:38:14"}
+{"id": "ae288d7d77088ea2", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "f2f9c9a27bca1838", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "d90b072e8ed352e0", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "6ef756a7c0826701", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "2cf307903182752f", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "2a45583dc8114aec", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "12a5109abd62a7b4", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "945a62ec25c4112c", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "f1619986404f8d7d", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "e99c73e0554e797c", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "f911b526a9cbc006", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "6c01ba69c5a921b2", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "ff6035fc41329006", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "9b619a91a5508d43", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "1e93a97657e48276", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "ed6780a802c74538", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "dffabdcaf26abe5e", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "a0896ac61d4017c8", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "f18e63f8a08d2ff2", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "91110618b9015a53", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "7f9c200bfbd7f676", "karar": "ok", "zaman": "2026-09-25T18:38:14"}
+{"id": "2a8cde6da362ee3b", "karar": "duzelt", "aciklama_paragraf": 2, "not": "sekil atfi kesildi", "zaman": "2026-09-25T18:38:35"}
+{"id": "675c4bf0d8737c58", "karar": "duzelt", "siklar": {"A": "Nervus abducens", "B": "Nervus oculomotorius", "C": "Nervus facialis", "D": "Nervus trigeminus", "E": "Nervus glossopharyngeus"}, "cevap": "B", "not": "D sikkindaki artik harf temizlendi", "zaman": "2026-09-25T18:38:35"}
+{"id": "ceec68e41fc2055e", "karar": "duzelt", "aciklama_paragraf": 2, "not": "bakteri tanimlama listesi baska konuya ait, kesildi", "zaman": "2026-09-25T18:38:35"}
+{"id": "d54cf3b01f68ae1a", "karar": "duzelt", "aciklama": "İlaç metabolizmasında faz I reaksiyonları oksidasyon, redüksiyon ve hidrolizdir; deaminasyon, S-demetilasyon, S-oksidasyon ve sülfoksit oluşumu mikrozomal oksidasyon örnekleridir. N-asetilasyon ise glukuronidasyon, sülfatlama ve metilasyon gibi bir faz II (konjugasyon) reaksiyonudur; oksidasyon değildir.", "not": "aciklama meduller karsinom sorusuna aitti", "zaman": "2026-09-25T18:38:35"}
+{"id": "c2f5ea901f965e40", "karar": "at", "neden": "soru_bozuk", "not": "govde (tiazid zehirlenmesi) ile siklar/aciklama (kalsiyum kanal blokeri kullanim alanlari) farkli sorulara ait, soru koku eksik", "zaman": "2026-09-25T18:38:35"}
+{"id": "effabbef03aa9250", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "2a940b66b5abe2d6", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "5f738bb45e72a9be", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "a793571c0f9e3be9", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "743774310b6b0f50", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "399fd00f6e9e6ec4", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "554ed8159c71596c", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "7d2f46ceffce697b", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "35cdb905e117cacd", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "1467848e8caea922", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "4e96a9d7034cc43f", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "322cb65e35a8106e", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "b8c7c7b1c72cf4b9", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "8a8f1eb21cab9235", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "716a72fb8e361108", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "d6ac26889dda6d07", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "142800cb6ee1bff5", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "0334d4e592a04478", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "8e80e9fc69b170fb", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "e66436c309bd1f4c", "karar": "ok", "zaman": "2026-09-25T18:38:35"}
+{"id": "8b8af0bcd438fd75", "karar": "duzelt", "aciklama": "ARDS, doğrudan (pnömoni, aspirasyon) ya da dolaylı (sepsis, travma, pankreatit) akciğer hasarına bağlı olarak alveolo-kapiller membran geçirgenliğinin artmasıyla gelişen nonkardiyojenik akciğer ödemidir. Pulmoner kapiller kama basıncı normaldir (≤18 mmHg); bu özellik onu sol kalp yetmezliğine bağlı kardiyojenik ödemden ayırır. Onkotik basınç azalması ARDS'nin mekanizması değildir; geçirgenlik ise azalmaz, artar.", "not": "aciklama bilgi icermiyordu", "zaman": "2026-09-25T18:39:04"}
+{"id": "74a2ca856b7ba5a5", "karar": "duzelt", "siklar": {"A": "İmmünohistokimya", "B": "Histokimya", "C": "PCR", "D": "Northern blot", "E": "İn situ hibridizasyon"}, "cevap": "A", "aciklama": "İmmünohistokimya, dokudaki antijenlerin işaretli antikorlarla gösterilmesini sağlayan yöntemdir. Tümör tiplendirmesinde lenfomalarda LCA, karsinomlarda sitokeratin ve EMA, sarkomlarda vimentin, melanomda HMB-45 ve S-100, nöroendokrin tümörlerde kromogranin ve sinaptofizin, kas tümörlerinde desmin bu yöntemle araştırılır. Histokimya kimyasal maddeleri; PCR, Northern blot ve in situ hibridizasyon ise nükleik asitleri gösterir.", "not": "D ve E siklari OCR bozuk; aciklama iki sutunu kopmus tablodan yeniden yazildi", "zaman": "2026-09-25T18:39:04"}
+{"id": "2c69f24ec2befa4c", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "ilk paragraf OCR bozuk", "zaman": "2026-09-25T18:39:04"}
+{"id": "155d34d52ccc4c45", "karar": "duzelt", "aciklama": "Hem, retiküloendotelyal sistemde hem oksijenaz ile biliverdine, biliverdin de biliverdin redüktaz ile bilirubine dönüştürülür; bilirubin hem katabolizmasının son ürünüdür. Albumine bağlanarak karaciğere taşınan indirekt bilirubin, burada glukuronik asitle konjuge edilerek direkt bilirubine çevrilir. Uroporfirinojen ve koproporfirinojen ise hem sentezinin ara ürünleridir.", "not": "aciklama OCR bozuk", "zaman": "2026-09-25T18:39:04"}
+{"id": "b6d0eafdeee003bb", "karar": "duzelt", "aciklama_paragraf": "5-", "not": "spatium axillare metni baska soruya ait", "zaman": "2026-09-25T18:39:04"}
+{"id": "1c979a8dac273dd9", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "a13bb43d53cb7b34", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "68c42c570b309494", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "53aa92560253df9d", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "4f1ade433955f024", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "593f7f117c010833", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "9aa9c98a4d7a4326", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "8eea294c51f5af8c", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "b666b591fc7f782c", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "78c48caa42938539", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "9fb6432f9e163a18", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "4a6555bde1134051", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "c7c8e0f314437fcc", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "470b1c6917c20594", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "a4471c2ab349ae3d", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "63657f44a8cf73ac", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "04de98a9ba8ec4fb", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "7a52bd83df6879cd", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "83383952717f41bd", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
+{"id": "5506e025c7b70d28", "karar": "ok", "zaman": "2026-09-25T18:39:04"}
