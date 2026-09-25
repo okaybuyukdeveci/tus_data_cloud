@@ -1698,3 +1698,53 @@
 {"id": "d39c1d4b82d81476", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
 {"id": "17728cbb233db432", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
 {"id": "1448a4ee6207c97a", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "febb75ca0ec0904e", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "ilgisiz ilk satir kesildi", "zaman": "2026-09-25T20:36:30"}
+{"id": "eb94277ee4344c7c", "karar": "at", "neden": "cevap_supheli", "not": "guncel onerilere gore 21 yasindan once Pap smear gerekmez (D); anahtar A (13), aciklama plasenta yapisma anomalilerine ait", "zaman": "2026-09-25T20:36:30"}
+{"id": "8a7c36b04647fcb6", "karar": "duzelt", "siklar": {"A": "Annenin ≥35 yaş olması", "B": "Babanın ≥40 yaş olması", "C": "Kardeşinde metabolik hastalık öyküsü olması", "D": "Ebeveynlerinde akraba evliliğinin olması", "E": "Teratojenik madde maruziyetinin olması"}, "cevap": "B", "aciklama_paragraf": "1-", "not": "A sikki OCR (235 -> ≥35); aciklamanin OCR bozuk ilk cumlesi kesildi", "zaman": "2026-09-25T20:36:30"}
+{"id": "f89712639531fc21", "karar": "duzelt", "siklar": {"A": "Diffüz astrositom - Pilositik astrositom", "B": "Oligodendrogliom - Pilositik astrositom", "C": "Diffüz astrositom - Oligodendrogliom", "D": "Kraniyofaringioma - Medulloblastom", "E": "Pilositik astrositom - Hemanjiyoblastom"}, "cevap": "E", "not": "C sikki yazim", "zaman": "2026-09-25T20:36:30"}
+{"id": "02980f510b3ec24d", "karar": "at", "neden": "soru_bozuk", "not": "govde crista musculi supinatorii'ye ait, siklar ve aciklama kemik-foramen eslestirmesine ait", "zaman": "2026-09-25T20:36:30"}
+{"id": "c550fe785dc53024", "karar": "at", "neden": "cevap_supheli", "not": "fruktoz 1,6-bisfosfat piruvat kinazi feed-forward aktive eder (aciklama da boyle diyor); siklarda piruvat kinaz yok, anahtar E (aldoz reduktaz) yanlis", "zaman": "2026-09-25T20:36:30"}
+{"id": "acb3ff961ee1e4a6", "karar": "duzelt", "aciklama": "Malign melanomun en sık görülen tipi yüzeyel yayılan melanomdur (%70). Bu tipte tümör uzun süre radyal büyüme fazında kalır; atipik melanositler epidermis içinde tek tek ya da küçük gruplar halinde yukarı doğru, tüm epidermis katlarına dağılır. Bu yayılım paternine pagetoid yayılım denir ve Paget hastalığındaki tümör hücrelerinin yayılımına benzer. Lentigo maligna melanomda atipik melanositler daha çok bazal tabaka boyunca lentiginöz tarzda dizilir; nodüler melanom ise radyal büyüme fazı olmaksızın doğrudan vertikal büyüme gösterir.", "not": "aciklama primer biliyer siroza aitti, yeniden yazildi", "zaman": "2026-09-25T20:36:30"}
+{"id": "11a3947c3758e593", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "caa16a8d56ae93c3", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "34a2f55eb8c796a0", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "a288a97260daffdb", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "e27e82f7222bb435", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "305b4c885dd2886f", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "62fb3b216254d4b9", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "1613c3f30551543e", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "65ef70a7b2aeeb8a", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "9156a1a806f17389", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "e4aa4cb338e202a8", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "794d0b3c1b988ecb", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "ed7c5a3ca2a3cd68", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "e4ae46e07e6b938c", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "42dd88adf500ca22", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "ed886435869cb961", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "597cfd2508130a23", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "5d55641461f9f607", "karar": "ok", "zaman": "2026-09-25T20:36:30"}
+{"id": "1d92902fd932ad5f", "karar": "duzelt", "aciklama_paragraf": 6, "not": "sondaki yayinevi adi kesildi", "zaman": "2026-09-25T20:37:01"}
+{"id": "c699c1c6c60ff0b5", "karar": "duzelt", "siklar": {"A": "Staphylococcus aureus", "B": "Staphylococcus epidermidis", "C": "Staphylococcus saprophyticus", "D": "Staphylococcus lugdunensis", "E": "Staphylococcus intermedius"}, "cevap": "D", "not": "sik yazimlari", "zaman": "2026-09-25T20:37:01"}
+{"id": "d8c0e11f5cf3791b", "karar": "duzelt", "aciklama_paragraf": 7, "not": "sondaki yayinevi adi kesildi", "zaman": "2026-09-25T20:37:01"}
+{"id": "1129e4399ac592ad", "karar": "duzelt", "siklar": {"A": "C. albicans", "B": "C. dubliniensis", "C": "C. lusitaniae", "D": "C. glabrata", "E": "C. krusei"}, "cevap": "C", "aciklama_paragraf": "1-7", "not": "sik yazimlari; anlamsiz ilk satir ve amino asit paragraflari kesildi", "zaman": "2026-09-25T20:37:01"}
+{"id": "4db41225980289ee", "karar": "at", "neden": "cevap_supheli", "not": "DNA'da sitozin metilasyonu gen ifadesini baskilar; anahtar D (ve aciklamasi) hatali, siklarda gen ifadesini artiran net bir secenek yok", "zaman": "2026-09-25T20:37:01"}
+{"id": "409be3e76a0d9e9b", "karar": "at", "neden": "cevap_supheli", "not": "liken planus zaten enfeksiyoz olmayan bir hastaliktir; D ifadesi dogru gorunuyor, anahtar supheli", "zaman": "2026-09-25T20:37:01"}
+{"id": "4d335a3fdec68780", "karar": "duzelt", "aciklama": "Anaerop bakteriler gazlı gangren (Clostridium perfringens), tetanoz (Clostridium tetani), batın içi apseler ve beyin apselerinde önemli etkenlerdir; batın içi ve beyin apseleri genellikle anaeropların da yer aldığı polimikrobiyal enfeksiyonlardır. Primer (spontan bakteriyel) peritonit ise sekonder peritonitten farklı olarak monomikrobiyaldir ve en sık etkenler E. coli, Klebsiella gibi aerop gram negatif basiller ile pnömokoklardır; anaeroplar nadiren etkendir. Tanı asit sıvısında nötrofil sayısının 250/mm³'ün üzerinde olması ile konur.", "not": "aciklama OCR ile bozuk, yeniden yazildi", "zaman": "2026-09-25T20:37:01"}
+{"id": "720277c0d02a819c", "karar": "duzelt", "govde": "Kapsülünü kaybettiğinde kolaylıkla fagosite edilen ve avirülan hale geçen bakteri aşağıdakilerden hangisidir?", "aciklama_paragraf": 1, "not": "govde yazim; OCR bozuk devam paragraflari kesildi", "zaman": "2026-09-25T20:37:01"}
+{"id": "d6c78e5f05021ff6", "karar": "duzelt", "govde": "Aşağıdaki bakteriyel etkenlerden hangisinin enfeksiyonundan yıllar sonra kanser gelişebilir?", "not": "govde yazim ve OCR artigi", "zaman": "2026-09-25T20:37:01"}
+{"id": "6edd88ca3b44f5ec", "karar": "duzelt", "aciklama_paragraf": 1, "not": "OCR bozuk ve ilgisiz satirlar kesildi", "zaman": "2026-09-25T20:37:01"}
+{"id": "0b46be6b565ec65e", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "09f4e6ee800a402b", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "5b1cc62503ead7c2", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "f3c2ee9a527bbb83", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "586c3d6d8336ae13", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "5d07a24b8316df79", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "7e2ad2ea22e68b0f", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "aae01c5bcf977979", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "6f79ea737cfa13e5", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "a56c811238cb4e9e", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "e5bee9026397c4d4", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "6b09a68bec9869ea", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "e0a7d84ff7b3bda1", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "77699b58643e918d", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "a7b17440a1b329bd", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
