@@ -1807,3 +1807,213 @@
 {"id": "b09aa6f7745b52e6", "karar": "duzelt", "govde": "Disfonksiyonel uterus kanamasının en sık nedeni aşağıdakilerden hangisidir?", "siklar": {"A": "Endometrial polip", "B": "Adenomiyozis", "C": "Kronik endometrit", "D": "Anovulatuvar siklus", "E": "Endometrial hiperplazi"}, "cevap": "D", "aciklama_paragraf": 1, "zaman": "2026-09-25T15:08:41"}
 {"id": "782df78800212bbb", "karar": "duzelt", "cevap": "C", "not": "Cevap anahtarı A→C: açıklamadaki tabloya göre rifampin warfarin etkinliğini azaltır, ketokonazol ise mikrozomal enzimleri inhibe ederek etkinliği artırır; azaltmayan ilaç ketokonazoldür.", "zaman": "2026-09-25T15:08:41"}
 {"id": "204dcca9acb253a7", "karar": "ok", "zaman": "2026-09-25T15:08:41"}
+{"id": "f78f7b69c07f792e", "karar": "duzelt", "siklar": {"A": "Serinin glisine dönüşmesi", "B": "Histidin katabolizması", "C": "Metiyonin sentezi", "D": "Metilmalonil KoA'nın süksinil KoA'ya dönüşmesi", "E": "Timidilat sentezi"}, "cevap": "D", "zaman": "2026-09-25T15:09:31"}
+{"id": "abfd00c29aea1d14", "karar": "duzelt", "siklar": {"A": "Kreatinin", "B": "Arjinin", "C": "Glisin", "D": "ATP", "E": "S-adenozil metiyonin"}, "cevap": "A", "zaman": "2026-09-25T15:09:31"}
+{"id": "b2167cfcd54b632a", "karar": "duzelt", "govde": "Hücre içi kalsiyum depolarının sitoplazmaya salınımını arttıran bir hormon, fosfolipaz C'yi aktive ettikten sonra aşağıdakilerden hangisini hücre içi haberci olarak kullanır?", "siklar": {"A": "İnozitol trifosfat", "B": "cAMP", "C": "cGMP", "D": "Tirozin kinaz", "E": "Nitrik oksit"}, "cevap": "A", "zaman": "2026-09-25T15:09:31"}
+{"id": "f025d9e04d4184b6", "karar": "ok", "zaman": "2026-09-25T15:09:31"}
+{"id": "2f99eb86fa3be48c", "karar": "at", "neden": "cevap_supheli", "not": "C (idrarda demir(III) klorür testi) ve E (idrarda fenilpirüvik asit artışı) aynı bulguyu ölçer; ilk 24 saatte ikisi de beklenmez. Gövde ve şıklar da bozuk yazılmış.", "zaman": "2026-09-25T15:09:31"}
+{"id": "d311d2357268a925", "karar": "duzelt", "govde": "Fenilketonüride kesin tanıyı nasıl koyarsınız?", "siklar": {"A": "Kan fenilalanin düzeyi", "B": "Fenilalanin hidroksilaz enzim düzeyi", "C": "İdrarda demir(III) klorür testi", "D": "Fenilalanin alımının kontrolü", "E": "Zekâ geriliği derecesinin tespiti"}, "cevap": "A", "aciklama_paragraf": "1-", "zaman": "2026-09-25T15:09:31"}
+{"id": "7c9028391e6eddfa", "karar": "duzelt", "govde": "Ökaryotik hücre zarı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?", "siklar": {"A": "Seçici geçirgendir", "B": "Çift tabaka lipid içerir", "C": "Dinamiktir", "D": "30 °C altındaki sıcaklıklarda akışkan değildir", "E": "Biyomoleküller asimetrik yerleşimlidir"}, "cevap": "D", "zaman": "2026-09-25T15:09:31"}
+{"id": "b62d2aa8fde75aa6", "karar": "duzelt", "govde": "Glutamat dehidrogenaz enzimi organellerden hangisinde kullanılır?", "zaman": "2026-09-25T15:09:31"}
+{"id": "d4e9938f87e0542d", "karar": "duzelt", "govde": "Hangi organ normalde keton cisimlerini ve yağ asitlerini kullanmayıp, diyabette ve uzun süren açlıkta keton cisimlerini kullanır?", "zaman": "2026-09-25T15:09:31"}
+{"id": "83d4269f86624e5e", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi yağ asidi sentezinde hız kısıtlayıcı enzimdir?", "siklar": {"A": "Açil-KoA sentetaz", "B": "Asetil-KoA sentetaz", "C": "Asetil-KoA karboksilaz", "D": "Metilmalonil-KoA karboksilaz", "E": "HMG-KoA sentaz"}, "cevap": "C", "aciklama_paragraf": 1, "zaman": "2026-09-25T15:09:31"}
+{"id": "3a6e86bc6ce85cbb", "karar": "at", "neden": "cevap_supheli", "not": "Açlıkta keton cisimleri (B) kadar serbest yağ asitleri (E) de artar; açıklama da yağ dokusunda yağ yıkımının arttığını söylüyor. İki doğru seçenek.", "zaman": "2026-09-25T15:09:31"}
+{"id": "aaea9e67f8a2ce91", "karar": "duzelt", "govde": "Şilomikronlar için aşağıdakilerden hangisi yanlıştır?", "siklar": {"A": "Yoğunluğu en düşük lipoproteindir", "B": "Karaciğer hücrelerinde yapılır", "C": "Trigliserid oranı yüksek, proteini düşüktür", "D": "Lipoprotein lipazla yıkılırlar", "E": "Açlıkta yapımı durur"}, "cevap": "B", "aciklama": "Şilomikronlar, diyetle alınan lipidleri taşımak üzere ince bağırsak epitel hücrelerinde (enterositlerde) sentezlenir; karaciğerde yapılmaz. Trigliserid oranı en yüksek, protein oranı ve yoğunluğu en düşük lipoproteinlerdir. Dolaşımda kapiller endoteldeki lipoprotein lipaz tarafından trigliseridleri yıkılır ve kalıntıları karaciğere alınır. Açlıkta bağırsaktan lipid emilimi olmadığı için yapımları durur.", "zaman": "2026-09-25T15:09:31"}
+{"id": "6b3b5ee7a84fff12", "karar": "duzelt", "govde": "Eliminasyon yarı ömrü dört saat olan bir ilaç, oral yoldan tekrarlanan dozlarda kullanılmaya başlandığında kararlı durum konsantrasyonuna en erken kaç saat sonra erişilebilir?", "aciklama": "Tekrarlanan dozlarda ilaç verildiğinde kararlı durum konsantrasyonuna yaklaşık 4-5 eliminasyon yarı ömrü sonunda ulaşılır. Bu sürede kararlı durum düzeyinin yaklaşık %94-97'sine erişilir. Eliminasyon yarı ömrü 4 saat olan bir ilaç için bu süre yaklaşık 5 × 4 = 20 saattir. Yükleme dozu uygulanmadıkça bu süre doz miktarından ve doz aralığından bağımsızdır.", "not": "Orijinal açıklama başka konuya (otonom sinir sistemi) aitti; yeniden yazıldı.", "zaman": "2026-09-25T15:09:31"}
+{"id": "9e8e1c9d2e8cf5b6", "karar": "at", "neden": "cevap_supheli", "not": "Düşük risk göstergesi sorulmuş; kadın cinsiyet (B) düşük risk faktörüdür, işaretli E (tiroid dışı yayılım) yüksek risk faktörü. Açıklama da başka soruya ait.", "zaman": "2026-09-25T15:09:31"}
+{"id": "bf69b1048c8b53a8", "karar": "duzelt", "govde": "Kalp röntgenindeki kabarıntılara bakarak hangi yapı hakkında fikir sahibi olamayız?", "zaman": "2026-09-25T15:09:31"}
+{"id": "a19bdb764a6dedd8", "karar": "duzelt", "govde": "Aşağıdaki kas çiftlerinden hangisi karşıdaki bir cisme uzanmaya yarar?", "siklar": {"A": "M. serratus anterior – m. trapezius", "B": "M. levator scapulae – m. trapezius", "C": "M. pectoralis minor – m. serratus anterior", "D": "Mm. rhomboidei – m. trapezius", "E": "Mm. rhomboidei – m. levator scapulae"}, "cevap": "C", "aciklama_paragraf": 5, "zaman": "2026-09-25T15:09:31"}
+{"id": "6a028f0b18a2e0ca", "karar": "ok", "zaman": "2026-09-25T15:09:31"}
+{"id": "6805aebb248dc936", "karar": "ok", "zaman": "2026-09-25T15:09:31"}
+{"id": "3fcbd53213002e84", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi fossa poplitea'da en medialde ve en derindedir?", "siklar": {"A": "A. poplitea", "B": "V. poplitea", "C": "A. femoralis", "D": "N. ischiadicus", "E": "N. saphenus"}, "cevap": "A", "zaman": "2026-09-25T15:09:31"}
+{"id": "e453fb7b13a7fc74", "karar": "ok", "zaman": "2026-09-25T15:09:31"}
+{"id": "3a0eba5a35aad9cc", "karar": "duzelt", "govde": "Gövdenin alt bölümünden şuursuz propriosepsiyonu taşıyan yol aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:10:06"}
+{"id": "dc13063860642b23", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi veya hangileri processus coracoideus'tan başlar? / I. M. biceps brachii caput breve / II. M. pectoralis minor / III. M. coracobrachialis", "siklar": {"A": "Yalnız II", "B": "I ve II", "C": "I ve III", "D": "I, II ve III", "E": "Yalnız III"}, "cevap": "C", "zaman": "2026-09-25T15:10:06"}
+{"id": "89d6150584a85e35", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "449f32186ec92a29", "karar": "at", "neden": "cevap_supheli", "not": "Kalın bağırsakta sodyum ve su geri emilimi yapılır; E doğru bir ifade. Diğer şıklar da doğru, yanlış seçenek yok. Açıklama başka soruya (colon transversum komşulukları) ait.", "zaman": "2026-09-25T15:10:06"}
+{"id": "9c8b7a23024c3272", "karar": "duzelt", "govde": "Meckel divertikülü (diverticulum ilei) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?", "siklar": {"A": "Diverticulum ilei, ductus vitellointestinalis (ductus omphalomesentericus)'in bir artığıdır.", "B": "Valva iliocaecalis'in yaklaşık 80-100 cm proksimalinde bulunur.", "C": "Yaklaşık 5 cm uzunluğundadır.", "D": "İleum'da bulunur ve ileus nedenlerinden birisidir.", "E": "İnsanların %15'inde bulunabilir."}, "cevap": "E", "zaman": "2026-09-25T15:10:06"}
+{"id": "bf1aac9df1dd0c92", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "d95a5e6a4343d8a7", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "2db42288c158f257", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "b4286c1e3fbad877", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "14198f3ee863c5df", "karar": "duzelt", "cevap": "D", "aciklama": "Suprahyoid kaslar, hyoid kemiğin üst tarafında yer alan m. digastricus, m. stylohyoideus, m. mylohyoideus ve m. geniohyoideus'tur. M. omohyoideus ise m. sternohyoideus, m. sternothyroideus ve m. thyrohyoideus ile birlikte infrahyoid kas grubunda yer alır. Bu nedenle seçeneklerden suprahyoid kas olmayan m. omohyoideus'tur.", "not": "Cevap anahtarı C→D: m. stylohyoideus suprahyoid kastır, m. omohyoideus infrahyoiddir; bitişik harf kayması. Orijinal açıklama başka soruya (fascia cremasterica) aitti.", "zaman": "2026-09-25T15:10:06"}
+{"id": "64aef5712535a394", "karar": "duzelt", "govde": "Elli dokuz yaşında bir kadın hasta 1 gün önce başlayan, giderek şiddetlenen ve ağırlıklı olarak sağ skapulaya yayılan karın ağrısı, bulantı ve kusma şikâyetleriyle başvuruyor. Laboratuvar incelemelerinde lökosit sayısı 15.000/mm3, serum glukoz düzeyi 197 mg/dl, serum amilaz düzeyi 300 U/L, laktat dehidrogenaz düzeyi 312 U/L ve AST düzeyi 350 U/L olarak saptanıyor. / Aşağıdakilerden hangisi bu hasta için en olası tanıdır?", "zaman": "2026-09-25T15:10:06"}
+{"id": "8be3c76232176aab", "karar": "duzelt", "siklar": {"A": "Protein C", "B": "Tümör nekrozis faktör-alfa", "C": "C-reaktif protein", "D": "İnterlökin-6", "E": "İnterlökin-11"}, "cevap": "A", "zaman": "2026-09-25T15:10:06"}
+{"id": "b9db3c8124af1346", "karar": "duzelt", "govde": "Meme kanserinin nüks olabileceğinin en önemli göstergesi aşağıdakilerden hangisidir?", "siklar": {"A": "Aksillada metastatik lenf düğümü sayısı", "B": "Tümörün çapı", "C": "Hasta yaşı", "D": "Tümörün histolojik farklılaşma derecesi", "E": "Ameliyatta pektoral fasyaya yakınlığı"}, "cevap": "A", "zaman": "2026-09-25T15:10:06"}
+{"id": "d03808d5ad084a5c", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "c12e6b7f4c063e97", "karar": "duzelt", "siklar": {"A": "Streptococcus pneumoniae", "B": "Streptococcus pyogenes", "C": "Streptococcus agalactiae", "D": "Streptococcus mutans", "E": "Enterococcus faecalis"}, "cevap": "D", "zaman": "2026-09-25T15:10:06"}
+{"id": "625a340c38032a07", "karar": "ok", "zaman": "2026-09-25T15:10:06"}
+{"id": "c1c30dfc15dd88da", "karar": "duzelt", "govde": "Tümör lizis sendromu, t(8;14) translokasyonu ve yıldızlı gökyüzü manzarasının tipik olarak görüldüğü lenfoma aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:10:06"}
+{"id": "f32e106a3a1cd72a", "karar": "duzelt", "siklar": {"A": "VHL", "B": "RB", "C": "APC", "D": "WT-1", "E": "NF-2"}, "cevap": "E", "zaman": "2026-09-25T15:10:06"}
+{"id": "f21d4502b6990475", "karar": "duzelt", "siklar": {"A": "Son elektron alıcısı olarak oksijeni kullanırlar", "B": "Anaerop ortamda fermentasyon yaparak ürerler", "C": "Süperoksit dismutaz enzimi var; fakat katalaz enzimi yoktur", "D": "Jelatin besiyerine ekildiğinde dipte ürerler", "E": "Ortamda yeterli oksijen bulunmaması halinde fermentasyonla ATP üretebilirler"}, "cevap": "A", "zaman": "2026-09-25T15:10:06"}
+{"id": "1365d83c902ac0c4", "karar": "duzelt", "siklar": {"A": "Süksinat dehidrogenaz", "B": "Laktat dehidrogenaz", "C": "Katalaz", "D": "Asit maltaz", "E": "Ca-ATPaz"}, "cevap": "B", "zaman": "2026-09-25T15:10:06"}
+{"id": "7e768c3505979556", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "c165b6cea1ebe1ad", "karar": "duzelt", "siklar": {"A": "Metilaz", "B": "Glukuronil transferaz", "C": "Beta-laktamaz", "D": "Asetil transferaz", "E": "Adenilaz"}, "cevap": "D", "zaman": "2026-09-25T15:11:45"}
+{"id": "3776112cfb42568b", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "78eb735d4c452d4a", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "93e4dc20fb32c6bf", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "03187b522a75fca2", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "2b897fb719ffe5d7", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "603df6653dafbb31", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "b6ad3fe424c014be", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "d67f0b398b555f94", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "fdceb93377bb2d2e", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "f2a0cb90555766ce", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "d879e75b669a053b", "karar": "duzelt", "siklar": {"A": "Grey Turner belirtisi", "B": "Cullen belirtisi", "C": "Rovsing belirtisi", "D": "Murphy belirtisi", "E": "Courvoisier belirtisi"}, "cevap": "C", "zaman": "2026-09-25T15:11:45"}
+{"id": "cffcb69652c8e834", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "26c9395924782b92", "karar": "duzelt", "aciklama_paragraf": "1-", "zaman": "2026-09-25T15:11:45"}
+{"id": "1f4251164061b0ea", "karar": "duzelt", "aciklama_paragraf": "1-", "zaman": "2026-09-25T15:11:45"}
+{"id": "92fe858a8162f0ab", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "e4043772c12f4ef6", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "7ac8284b08988c1f", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "432c2f06624da02f", "karar": "ok", "zaman": "2026-09-25T15:11:45"}
+{"id": "7f259f70b6f4ca46", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "a6105159f4c2c1b3", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "089c57a3ae29b3b3", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "25fb4a77a516b776", "karar": "duzelt", "aciklama_paragraf": "1-", "zaman": "2026-09-25T15:12:10"}
+{"id": "4e4fb756b5eb0023", "karar": "duzelt", "aciklama": "Kolesistektomi temiz-kontamine yara grubundadır: safra yolu kontrollü koşullarda ve belirgin bir kontaminasyon olmadan açılır. Fıtık ve meme cerrahisi temiz yaradır; hiçbir lümen açılmaz ve inflamasyon yoktur. Travmatik kalın bağırsak perforasyonu ve divertikül perforasyonu ise kirli (enfekte) yara grubuna girer; burada yerleşmiş enfeksiyon ve fekal kontaminasyon vardır.", "zaman": "2026-09-25T15:12:10"}
+{"id": "c641449606bbdf4d", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "583834904456cbca", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "e8d4b6d8f57f72b8", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "83d87e5f7ebbc98b", "karar": "duzelt", "siklar": {"A": "Propionil-KoA", "B": "Malonil-KoA", "C": "Asetoasetil-KoA", "D": "Stearil-KoA", "E": "Süksinil-KoA"}, "cevap": "A", "zaman": "2026-09-25T15:12:10"}
+{"id": "3334caf4b2a01e10", "karar": "duzelt", "siklar": {"A": "Adenilat kinaz", "B": "Nükleozit monofosfat kinaz", "C": "Ribonükleotid redüktaz", "D": "IMP dehidrogenaz", "E": "5'-nükleotidaz"}, "cevap": "C", "zaman": "2026-09-25T15:12:10"}
+{"id": "4960d1cb8ba1f0e3", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "4909c860f895b26c", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "43ca6175e7752dc5", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "af051dc8ace3e61f", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "05252585cecff4bc", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "21478d7c19257aca", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "370b0fbdbaace55a", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "09ee0b30641453e5", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "9bb295f82acb7d71", "karar": "duzelt", "siklar": {"A": "İnsülin duyarlılığının azalmasıyla beraber hiperglisemiye eğilimde artış", "B": "Yağ dokularının mobilizasyonunda ve utilizasyonunda yavaşlama", "C": "Böbrekler tarafından su ekskresyonunda artma", "D": "Enfeksiyon ve şoka dirençte azalma", "E": "Depresyon gibi psikolojik değişiklikler"}, "cevap": "A", "zaman": "2026-09-25T15:12:10"}
+{"id": "d969d369572962dd", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "c204552aa4522c76", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "7a09ffa8cd05f293", "karar": "duzelt", "govde": "Böbrek transplantasyonu yapılan bir hastada rejeksiyon reaksiyonu ve pnömoni gelişiyor. Kanda eozinofili ve dışkı incelemesinde rabditiform larvaların varlığı saptanıyor.\nBu hastada en olası etken aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:12:10"}
+{"id": "59046b2a5ae36026", "karar": "duzelt", "siklar": {"A": "Kostoklaviküler sendrom - McMurray testi", "B": "Karpal tünel sendromu - Tinel testi", "C": "De Quervain hastalığı - Finkelstein testi", "D": "Diz çapraz bağları - Lachman testi", "E": "Ankilozan spondilit - Schober testi"}, "cevap": "A", "zaman": "2026-09-25T15:12:10"}
+{"id": "3806fbff0be03322", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "e203d33a8838eb1c", "karar": "ok", "zaman": "2026-09-25T15:12:10"}
+{"id": "95476ddb3c349d95", "karar": "duzelt", "govde": "Aşağıdakilerden hangisinde bronşiektazi görülmez?", "zaman": "2026-09-25T15:12:33"}
+{"id": "f1bdaa6af9fefeca", "karar": "duzelt", "govde": "I. Miyozis\nII. Burun tıkanıklığı\nIII. Apokrin ter bezlerinin salgısında artış\nIV. Ejakülasyon inhibisyonu\nV. Bradikardi\nYukarıdakilerden hangileri α-adrenerjik reseptör blokörlerinin etkilerinden değildir?", "zaman": "2026-09-25T15:12:33"}
+{"id": "21f995806036afd7", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "db27c820ef178852", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "b2a0d29630225ea4", "karar": "duzelt", "siklar": {"A": "Faz 0'da etkili olan ilaçlar Na+ kanal blokerleridir.", "B": "K+ kanal blokerleri faz 3'te repolarizasyonu uzatırlar.", "C": "Ca++ kanal blokerleri faz 4'te etkilidirler.", "D": "Sınıf II antiaritmik ilaçlar β blokerlerdir.", "E": "Sınıf I'lerin lokal anestezik etkileri vardır."}, "cevap": "C", "zaman": "2026-09-25T15:12:33"}
+{"id": "d6b7fa677ea3ba7a", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "17fb35268843cb7b", "karar": "duzelt", "govde": "Aşağıdaki bakterilerden hangisi %6,5'lik NaCl içinde ürer?", "zaman": "2026-09-25T15:12:33"}
+{"id": "f86673073f20d930", "karar": "duzelt", "siklar": {"A": "İlk artan hormon epinefrindir.", "B": "Travmaya endokrin yanıtta insülin hormonu sadece azalır.", "C": "Kortizolün yükselmesiyle glukoneogenez artar ve hiperglisemi görülür.", "D": "Katekolaminlere bağlı olarak taşikardi gözlenir.", "E": "Travmaya bağlı endokrin yanıtta seks steroidleri diyabetojenik etki oluşturmaz."}, "cevap": "B", "zaman": "2026-09-25T15:12:33"}
+{"id": "72c90256fecbb322", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "f80329ce12f24bd9", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "6c947b183aa7439f", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "85639612e29cfa59", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "9b85f0bfe5953497", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "8c8e821942118330", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi 5α-redüktaz inhibitörüdür?", "zaman": "2026-09-25T15:12:33"}
+{"id": "fd9d967ac51c8a50", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "b587c448edaa6c99", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "38ddbbe5bc6c3f0a", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "8e211b1d01e092a4", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "5a9a735acc2df49f", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "929365cbe777acaa", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "b0b1bcc50f89265b", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "b60a51e88d77cb1b", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "39173d9e3c1daf28", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "cd60298e229cb0e7", "karar": "ok", "zaman": "2026-09-25T15:12:33"}
+{"id": "859cd93be9c80b33", "karar": "duzelt", "siklar": {"A": "Ketokonazol", "B": "İtrakonazol", "C": "Flukonazol", "D": "Flusitozin", "E": "Kaspofungin"}, "cevap": "C", "zaman": "2026-09-25T15:12:33"}
+{"id": "5fad2cf08b0dd5b6", "karar": "duzelt", "govde": "Kırk beş yaşında kadın hasta ani başlayan şiddetli baş ağrısı ve kusma sonrası şuur kaybı ile acil servise getiriliyor. Fizik muayenesinde ense sertliği ve meningeal irritasyon bulguları saptanan hastanın ateşi 37 °C olarak ölçülüyor.\nBu hastada istenecek ilk tetkik aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:08"}
+{"id": "d35e41eb39f83b49", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "eeaee12bbe8e370f", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "a1f52640a7b84403", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "50345f3df710319c", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "774eb8618582696b", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "29092a2a0dc84f66", "karar": "duzelt", "govde": "Çocukluk çağında serebellumun hemisferlerine yerleşen ve sıklıkla kistik karakterde olan, Rosenthal fibrillerinin görülmesi ile karakterize düşük dereceli tümör aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:08"}
+{"id": "d142d2badcfd798c", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "1d881d581e6856a6", "karar": "duzelt", "govde": "Yalnızca tek bir hücre tipine farklanabilen kök hücre aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:08"}
+{"id": "96ac8771f64b9dee", "karar": "duzelt", "govde": "Kadınlarda en sık izlenen genital organ malignitesinde aşağıdaki tümör süpresör genlerinden hangisine ait mutasyon en sık gözlenir?", "siklar": {"A": "p53", "B": "BRCA1", "C": "BRCA2", "D": "MLH1", "E": "PTEN"}, "cevap": "E", "zaman": "2026-09-25T15:13:08"}
+{"id": "f5a6838c06e2cce9", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "5d4e1ce338a2b030", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "6e749ac32c9c57c9", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "e98d09f5488c829e", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "1b4857246eaa7cfd", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "802c9dff4a8fdd21", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "b06055e5a2d8e218", "karar": "duzelt", "govde": "Gelişme geriliği, şiddetli kusma, steatore, abdominal distansiyon, hepatosplenomegali, sürrenal kalsifikasyon olan, fovea üzerinde Japon bayrağı görülebilen ve asit lipaz eksikliğine bağlı olarak ortaya çıkan lipidoz aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:08"}
+{"id": "703e887dd3a6dce7", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "d73338480219489e", "karar": "duzelt", "aciklama": "Prolin alfa-heliks yapısını bozan ('heliks kırıcı') amino asittir. Amino grubu halkalı yapıya katıldığı için heliksi bir arada tutan hidrojen bağını kuracak amid hidrojeni yoktur; ayrıca katı halkalı yan zinciri omurgada yaklaşık 30 derecelik bir bükülme yaratır. Bu nedenle prolin genellikle heliks uçlarında ve dönüşlerde bulunur. Glisin de yan zinciri çok küçük ve esnek olduğu için heliksi destabilize eder. Alfa-heliks proteinin ikincil yapısıdır; hidrojen bağı bir peptidin amid hidrojeni ile dört kalıntı ötesindeki karbonil oksijeni arasında kurulur ve her dönüşte 3,6 amino asit bulunur.", "zaman": "2026-09-25T15:13:08"}
+{"id": "e34599b9d16ae925", "karar": "duzelt", "govde": "Akut poststreptokokal glomerülonefrit (APSGN) ile uyumlu olmayan aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:08"}
+{"id": "e2fd7200737cbf47", "karar": "duzelt", "govde": "Papiller tiroid karsinomu için aşağıdakilerden hangisi yanlıştır?", "siklar": {"A": "En sık görülen tiroid malignite tipidir", "B": "En iyi prognozlu varyant okült sklerozan varyanttır", "C": "En sık eşlik eden genetik bozukluk RET onkogenidir", "D": "En kötü prognozlu varyant tall cell varyanttır", "E": "En sık eşlik eden genetik bozukluk MET onkogenidir"}, "cevap": "E", "zaman": "2026-09-25T15:13:08"}
+{"id": "73d1ee853ceb1a97", "karar": "duzelt", "govde": "On beş yaşında erkek hasta bir ÜSYE'den 10 gün kadar sonra idrar renginde koyulaşma, idrar miktarında azalma, göz kapaklarında belirgin şişlik ve baş ağrısı şikayeti ile acile başvuruyor. Fizik muayenede KB 160/100 mmHg saptanıyor. Diğer fizik muayene bulgularında önemli bir özellik saptanmıyor. Laboratuvar incelemelerinde; rutin idrar tetkikinde 1+ proteinüri, bol eritrosit ve eritrosit silendirleri saptanıyor. Kan tetkiklerinde BUN: 42 mg/dL, kreatinin: 2,4 mg/dL, Na: 130 mEq/L bulunuyor.\nBu hastada en olası tanı aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:08"}
+{"id": "0b1aeed671257516", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "fa7b7418dcf213e0", "karar": "ok", "zaman": "2026-09-25T15:13:08"}
+{"id": "c416901717515378", "karar": "duzelt", "siklar": {"A": "Şok", "B": "Karaciğer yetmezliği", "C": "Metanol intoksikasyonu", "D": "Üreterosigmoidostomi", "E": "Diyabetik ketoasidoz"}, "cevap": "D", "zaman": "2026-09-25T15:13:08"}
+{"id": "ac85fe641f47b9ab", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "854ef7777f98f567", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "50a47111c6a7d787", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "8fd75e7c4ee83d57", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "5f483e34d7313b19", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "a9f4d499b893d96a", "karar": "duzelt", "govde": "Aşağıdaki ilaçlardan hangisinin antikoagülan etkisini gösterebilmesi için antitrombin III'e gereksinimi yoktur?", "zaman": "2026-09-25T15:13:32"}
+{"id": "a7037b84fa6fdcde", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "e6a38ac49a0bc29f", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "505d23812388ffe3", "karar": "duzelt", "govde": "Aşağıdakilerden hangisinde hücre içi katyonlar yüksek konsantrasyondan düşük konsantrasyona doğru doğru şekilde sıralanmıştır?", "siklar": {"A": "Sodyum, kalsiyum, potasyum", "B": "Klor, bikarbonat, sodyum", "C": "Sodyum, bikarbonat, potasyum", "D": "Potasyum, magnezyum, klor", "E": "Potasyum, sodyum, kalsiyum"}, "cevap": "E", "zaman": "2026-09-25T15:13:32"}
+{"id": "a8d64f6bdab61948", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "f91635fa5f48516f", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "266e1b64f3eb3299", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "cc0c117a76910cf6", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "fa5ae1cfd0bd90b8", "karar": "duzelt", "govde": "Aşağıdaki bakteri - üretildiği kültür ortamı eşleştirmelerinden hangisi yanlıştır?", "siklar": {"A": "Bordetella pertussis - Thayer-Martin besiyeri", "B": "Haemophilus influenzae - Çikolatamsı agar", "C": "Corynebacterium diphtheriae - Tellüritli agar", "D": "Escherichia coli - MacConkey agar", "E": "Mycoplasma pneumoniae - PPLO besiyeri"}, "cevap": "A", "zaman": "2026-09-25T15:13:32"}
+{"id": "a9a9c90c63dde8df", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "7d2ac1f26c8b1853", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "1376cfe8dd06dd14", "karar": "duzelt", "govde": "Küçük gram pozitif kokobasil şeklinde, 22 °C'de takla atma benzeri hareketler yapan, soğuk ortamda üreyebilen, kanlı agarda beta hemoliz yapan ve kültürü tereyağı kokan bakteri aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:32"}
+{"id": "5bbad3774bc0b711", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "daa7b8e2a9c5381f", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "2d4554a643f85e1c", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "845b6d631324c679", "karar": "duzelt", "govde": "Aşağıdaki mikroorganizmalardan hangisi karaciğer apselerinden en çok izole edilir?", "siklar": {"A": "E. coli", "B": "P. aeruginosa", "C": "A. baumannii", "D": "S. aureus", "E": "S. epidermidis"}, "cevap": "A", "zaman": "2026-09-25T15:13:32"}
+{"id": "35eb6d7fbf94c86e", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "23d4a57e6d871f55", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "4f1b5f06e709c208", "karar": "ok", "zaman": "2026-09-25T15:13:32"}
+{"id": "a070786ea0ead1b4", "karar": "duzelt", "govde": "Yirmi beş yaşındaki kadın hasta araç içi trafik kazası nedeni ile acil serviste gözlem altına alınıyor. PA akciğer grafisinde sol 9. ve 10. kot kırığı olan hastanın vital bulguları ve hemoglobin takipleri stabil seyrediyor ve hasta 24 saat sonra taburcu ediliyor. 3 hafta sonra ani gelişen senkop nedeni ile acil servise getirilen hastanın KB: 60/40 mmHg, nabız: 128/dk.\nEn olası tanı nedir?", "siklar": {"A": "Tansiyon pnömotoraks", "B": "Gözden kaçırılmış karaciğer laserasyonu", "C": "Travmatik aort rüptürü", "D": "Gecikmiş dalak rüptürü", "E": "Abdominal aorta yaralanması"}, "cevap": "D", "zaman": "2026-09-25T15:13:32"}
+{"id": "a2ab5f7dd8f07d4b", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "f40381588fb5cf2a", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "b8e179df182f3b98", "karar": "duzelt", "siklar": {"A": "Hipersensitivite pnömonisi", "B": "Lenfoid interstisyel pnömoni", "C": "İdiyopatik pulmoner fibroz", "D": "Langerhans hücreli histiyositoz", "E": "Deskuamatif interstisyel pnömoni"}, "cevap": "C", "zaman": "2026-09-25T15:13:55"}
+{"id": "0c241e16addb5003", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "6f618520dfe99aca", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "aa94fcf054707069", "karar": "duzelt", "govde": "Şokta resüsitasyonun hedefine ulaştığını gösteren doku parametresi aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:55"}
+{"id": "705a11696b7caf93", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "150b3f19c6d31be1", "karar": "duzelt", "siklar": {"A": "40 haftalık ve 2400 g ağırlığında doğan yenidoğan", "B": "36 haftalık ve 2400 g ağırlığında doğan yenidoğan", "C": "42 haftalık ve 4500 g ağırlığında doğan yenidoğan", "D": "35 haftalık ve 3600 g ağırlığında doğan yenidoğan", "E": "38 haftalık ve 3000 g ağırlığında doğan yenidoğan"}, "cevap": "E", "zaman": "2026-09-25T15:13:55"}
+{"id": "2723a34d98f4c644", "karar": "duzelt", "govde": "Erken mide kanseri için yanlış olan ifade aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:55"}
+{"id": "b1c671002823d123", "karar": "duzelt", "govde": "Yirmi beş yaşındaki intern yaklaşık üç gündür boyunda hassasiyet ve ağrı şikayeti ile servisteki asistana başvuruyor. Yapılan muayenede tiroid bezi grade 2 ele geliyor ve palpasyonu ağrılı olarak tespit ediliyor. Radyoaktif iyot alımında azalma, sedimentasyon 110 mm/saat, serbest T4 ve T3 yüksekliği saptanıyor.\nBu hastada en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Riedel tiroiditi", "B": "Subakut granülomatöz tiroidit", "C": "Hashimoto tiroiditi", "D": "Graves hastalığı", "E": "Toksik multinodüler guatr"}, "cevap": "B", "zaman": "2026-09-25T15:13:55"}
+{"id": "ec41cdb64f7ef292", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "091f28b05c46d5a4", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "dd6bf75a6ee7c47e", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "12c9b54e15076e37", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "1893aad15336181e", "karar": "duzelt", "siklar": {"A": "Dehidratasyon", "B": "Sistemik lupus eritematozus", "C": "Polio aşılaması", "D": "Akut piyelonefrit", "E": "Üriner tüberküloz"}, "cevap": "D", "zaman": "2026-09-25T15:13:55"}
+{"id": "025746068007e120", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "1376796f113a741b", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "49179339f47155ef", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "e5c19d2c68557334", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "31594f654df47d93", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "13c8a7ed4e1d7c32", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "027a4b6b0761fd94", "karar": "duzelt", "siklar": {"A": "Non-hemolitik transfüzyona bağlı ateş", "B": "Post-transfüzyon purpura", "C": "Transfüzyonel hemosiderozis", "D": "Transfüzyon ilişkili akut akciğer hasarı", "E": "Graft-versus-host hastalığı"}, "cevap": "C", "zaman": "2026-09-25T15:13:55"}
+{"id": "669be6974aa09d32", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "00ecbe1a7719dc56", "karar": "duzelt", "govde": "25 yaşındaki kadın hastada sol memede tek, solid, 6 cm çaplı, ağrısız ve mobil bir kitle saptanıyor.\nEn uygun yaklaşım aşağıdakilerden hangisidir?", "zaman": "2026-09-25T15:13:55"}
+{"id": "de99b7df338d40f3", "karar": "ok", "zaman": "2026-09-25T15:13:55"}
+{"id": "25d108308229de9c", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "7925006700a11278", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "56f7eca98026d023", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "2e29f88569cf80d7", "karar": "duzelt", "siklar": {"A": "Hemoglobinüri", "B": "RTA", "C": "Serbest hemoglobin miktarının haptoglobin bağlanma kapasitesini aşması durumunda methemoglobinemi", "D": "İndirekt hiperbilirubinemi", "E": "DIC"}, "cevap": "C", "zaman": "2026-09-25T15:14:22"}
+{"id": "ee94546839edd43e", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "6a560822b286fc8a", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "951656f1843cc4cb", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "7727969f3e1d9c81", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "40551d61d08fa21f", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "ce288900cf1ece7e", "karar": "duzelt", "govde": "Elli beş yaşında erkek hastaya tanısal amaçlı üst gastrointestinal endoskopi yapıldıktan sonra şiddetli göğüs ağrısı gelişiyor. Fizik muayenede boyunda krepitasyon tespit ediliyor.\nBu hastada bundan sonraki aşamada ilk yapılması gereken aşağıdakilerden hangisidir?", "siklar": {"A": "Endoskopinin tekrar edilmesi", "B": "Acil boyun eksplorasyonu, drenaj ve perforasyonun onarımı", "C": "Suda çözünen kontrast madde ile özofagus grafisi", "D": "EKG çekilmesi", "E": "Hastanın yoğun bakım ünitesine alınıp gözlem altında tutulması"}, "cevap": "C", "zaman": "2026-09-25T15:14:22"}
+{"id": "5982ee2e7aa5fec8", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "11837276fb59e361", "karar": "duzelt", "govde": "Aşağıdaki amino asitlerden hangisi melatonin ve niasini meydana getirir?", "zaman": "2026-09-25T15:14:22"}
+{"id": "913598d3aa8d27c8", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "6f9ce1013e791531", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "141f55f079493c97", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "59e28912a4ce66a2", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "64999b1429d31091", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "d357f6bef07f123e", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "ce6f36d7ec1814fe", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "63b960526a90f08f", "karar": "duzelt", "siklar": {"A": "SGLT-1", "B": "SGLT-2", "C": "GLUT-1", "D": "GLUT-2", "E": "GLUT-4"}, "cevap": "C", "zaman": "2026-09-25T15:14:22"}
+{"id": "d40293792101df79", "karar": "duzelt", "siklar": {"A": "Kistik fibrozis", "B": "Migren", "C": "Sigara", "D": "Bruton hastalığı", "E": "Gastroözofageal reflü"}, "cevap": "B", "zaman": "2026-09-25T15:14:22"}
+{"id": "c63076c92c679711", "karar": "ok", "zaman": "2026-09-25T15:14:22"}
+{"id": "2ea50fd6dd3e4b83", "karar": "duzelt", "govde": "Yirmi yaşında adrenal yetmezlik tanısıyla izlenen bir hastanın takibinde serum Ca seviyesinde düşme tespit edilmektedir.\nBu hasta için en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Amiloidoz", "B": "Psödohipoparatiroidi", "C": "Wilson hastalığı", "D": "İdiyopatik hipoparatiroidi", "E": "Multiglandüler endokrin yetmezlik sendromu"}, "cevap": "E", "zaman": "2026-09-25T15:14:22"}
+{"id": "3ea8a1aa1c5002d5", "karar": "duzelt", "siklar": {"A": "Uterus düz kas hücrelerinde hücresel adaptasyon mekanizmalarından sadece hipertrofi görülür.", "B": "Uterus düz kas hücrelerinde görülen hipertrofinin esas nedeni artmış iş yüküdür.", "C": "Uterus boyutlarının büyümesinde esas hücresel adaptasyon mekanizması hipertrofidir.", "D": "Gebelikte uterus düz kas hücrelerinde metaplazi sıklıkla hiperplaziye eşlik eder.", "E": "Uterus büyümesinin esas nedeni hemodinamik aşırı yüktür."}, "cevap": "C", "zaman": "2026-09-25T15:14:22"}
+{"id": "6e823d005ecf208b", "karar": "duzelt", "siklar": {"A": "Glomerül kapilleri", "B": "İntraglomerüler mezangiyal hücreler", "C": "Jukstaglomerüler hücre", "D": "Makula densa", "E": "Henle kulpu"}, "cevap": "C", "zaman": "2026-09-25T15:14:22"}
