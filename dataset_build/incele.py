@@ -19,7 +19,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from v3_uret import (GIRDI, V3, aciklama_temizle, cop_orani, cop_temizle,  # noqa: E402
-                     gomulu_kes, soru_temizle, turkce_yap, BAGIMLI)
+                     gomulu_kes, soru_temizle, turkce_yap, yapisik_ayir, BAGIMLI)
 
 IN = V3 / "inceleme"
 YAZ = IN / os.environ.get("KARAR_DOSYA", "kararlar.jsonl")
@@ -82,8 +82,10 @@ def hazirla(r):
     m = re.search(r"<think>\n?(.*?)\n?</think>\s*Doğru cevap:\s*([A-E])\s*$", a0, re.S)
     soru, esleme, onarim, sorun, sinav, govde, siklar = soru_temizle(u0)
     elle = bool((r.get("meta") or {}).get("onarim"))
-    acik = aciklama_temizle(m.group(1)); kes = ""
-    acik = turkce_yap(acik, vurgu_kucult=True) if elle else turkce_yap(acik, temkinli=True)
+    # SIRA ONEMLI: once Turkcelestir, sonra yapisik ayir (v3_uret.main ile birebir ayni).
+    # Ters sirada sozluk ASCII kelimeyi bulamiyor ve sahte bolme yapiyor: yaklasik -> "ya klasik"
+    acik = aciklama_temizle(m.group(1), ayir=False); kes = ""
+    acik = turkce_yap(acik, vurgu_kucult=True) if elle else yapisik_ayir(turkce_yap(acik, temkinli=True))
     if not elle:
         acik, kes = gomulu_kes(acik); acik, _ = cop_temizle(acik)
     return dict(govde=turkce_yap(govde, temkinli=True), siklar=siklar, h0=m.group(2), esleme=esleme,
