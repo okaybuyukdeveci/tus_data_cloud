@@ -598,3 +598,53 @@
 {"id": "dba53d526c58132a", "karar": "ok", "zaman": "2026-09-25T19:48:42"}
 {"id": "b7b2f38352f47ce1", "karar": "ok", "zaman": "2026-09-25T19:48:42"}
 {"id": "a05f370d77a45041", "karar": "ok", "zaman": "2026-09-25T19:48:42"}
+{"id": "b3d015ace1dc4bb1", "karar": "duzelt", "aciklama_paragraf": 6, "not": "yarim kalan 'Klinik:' basligi kesildi", "zaman": "2026-09-25T19:49:13"}
+{"id": "529fcfd7b73d6e12", "karar": "duzelt", "aciklama_paragraf": 7, "not": "baska soruya ait fizyolojik sarilik kriterleri kesildi", "zaman": "2026-09-25T19:49:13"}
+{"id": "d34b15c3e95ffa65", "karar": "duzelt", "siklar": {"A": "Hastada faktör IX miktarında da düşme olmuştur.", "B": "F VIII konsantrelerine karşı antikor gelişmiştir.", "C": "F VIII konsantrelerinin vWF'yi düşürücü etkisi vardır.", "D": "Hemofili A'da trombositopeni gelişmiş olabilir.", "E": "Trombosit fonksiyonları bozulmuştur."}, "cevap": "B", "not": "roma rakami OCR", "zaman": "2026-09-25T19:49:13"}
+{"id": "33f2e9b5056c554e", "karar": "at", "neden": "cevap_supheli", "not": "siprofloksasin (florokinolon) de QT uzatabilir; A ve C", "zaman": "2026-09-25T19:49:13"}
+{"id": "cd6af1ef025ab740", "karar": "duzelt", "aciklama_paragraf": 4, "not": "yarim kalan son satirlar kesildi", "zaman": "2026-09-25T19:49:13"}
+{"id": "f44ea372df7ada59", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi çocukluk çağı akut miyeloblastik lösemilerindeki iyi prognoz kriterlerinden biri değildir?", "not": "govde yazim", "zaman": "2026-09-25T19:49:13"}
+{"id": "4f91da523c7c8429", "karar": "duzelt", "siklar": {"A": "Heinz cisimciği - Glukoz-6-fosfat dehidrogenaz eksikliği", "B": "Pelger-Huet anomalisi - Miyelodisplastik sendrom", "C": "Akantositoz - Kronik böbrek yetmezliği", "D": "Pappenheimer granülleri - Sideroblastik anemi", "E": "Auer cisimciği - Akut miyeloblastik lösemi"}, "cevap": "C", "not": "sik yazim", "zaman": "2026-09-25T19:49:13"}
+{"id": "1288e254dcce960a", "karar": "at", "neden": "cevap_supheli", "not": "kronik hastalik anemisi de SLE tani kriteri degil (hemolitik anemi kriterdir); C ve E", "zaman": "2026-09-25T19:49:13"}
+{"id": "6321e722c7ae46fe", "karar": "duzelt", "govde": "Kavga sırasında yüzüne ve kafasına çekiç darbesi alan hastada tek taraflı proptozis, ekzoftalmus, kemozis ve venöz pulsasyon tespit ediliyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T19:49:13"}
+{"id": "df2875f8cfd54958", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "ac58da5e9d9b963e", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "fc2b0cc918ed41b7", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "bb6e4dc0efa2e248", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "c0fc03f2f251021e", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "b875745d5c2caf59", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "92ffc42025d29019", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "5d75cefbf871113e", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "cc1cbff524e8c13f", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "0a1a5089c41ab410", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "9d427c1e9cc2018b", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "add155c706ba8055", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "6c99c1ce1893ddb0", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "fe3b30bb0088627b", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "2685c08ea9d520ce", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "940b424108a044bc", "karar": "ok", "zaman": "2026-09-25T19:49:13"}
+{"id": "8a6d06245ca425f3", "karar": "duzelt", "siklar": {"A": "Glutamatın NMDA reseptörlerini geri dönüşümsüz inhibe etme", "B": "Santral α2 reseptörleri aktive etme", "C": "Çizgili kaslardaki nikotinik reseptörlere antagonistik etki yapma", "D": "Presinaptik GABA-B reseptörlerine agonistik etki gösterme", "E": "Sarkoplazmik retikulumdan kalsiyum salınımını inhibe etme"}, "cevap": "E", "aciklama": "Dantrolen, iskelet kasında sarkoplazmik retikulumdaki riyanodin reseptörlerini (RyR1) bloke ederek kalsiyum salınımını ve dolayısıyla kas kasılmasını önler; bu nedenle malign hipertermi ve nöroleptik malign sendromun tedavisinde kullanılır. Riluzol glutamat salınımını ve NMDA reseptörlerini inhibe ederek ALS'de kullanılır. Tizanidin santral α2 reseptör agonistidir, baklofen ise presinaptik GABA-B agonistidir; her ikisi de spastisitede kullanılır. Nikotinik reseptör antagonistleri ise nöromüsküler blokörlerdir.", "not": "B sikki alfa OCR; aciklama OCR artiklari nedeniyle yeniden yazildi", "zaman": "2026-09-25T19:49:46"}
+{"id": "ee4c1198df38473c", "karar": "duzelt", "siklar": {"A": "Perseküsyon sanrıları", "B": "Mikromanik sanrılar", "C": "Nihilistik sanrılar", "D": "Somatik sanrılar", "E": "Depersonalizasyon sanrıları"}, "cevap": "C", "not": "C yazim", "zaman": "2026-09-25T19:49:46"}
+{"id": "41af3a382deecaa1", "karar": "duzelt", "govde": "Akut eklem romatizması atağı geçiren 6 yaşında bir çocukta nabız 96/dakika, kan basıncı 100/60 mmHg; dinlemekle apekste 3/6 şiddetinde sistolik üfürüm ve telekardiyografide kardiyomegali saptanıyor. / Bu çocuk için en uygun tedavi yaklaşımı ne olmalıdır?", "not": "kan basinci OCR", "zaman": "2026-09-25T19:49:46"}
+{"id": "59eef6111406a583", "karar": "duzelt", "siklar": {"A": "İmmobilizasyon", "B": "Presinaptik vezikül blokajı yapan otoantikorlar", "C": "Postsinaptik reseptör blokajı yapan otoantikorlar", "D": "Tümör nekrotizan faktör alfa salınımı", "E": "Malnütrisyon"}, "cevap": "D", "not": "B yazim", "zaman": "2026-09-25T19:49:46"}
+{"id": "b78b4aa506503415", "karar": "duzelt", "aciklama": "Enjeksiyonluk influenza aşısı inaktive (ölü, split veya subünit) bir aşıdır. BCG, kızamık, kabakulak ve sarı humma aşıları ise canlı atenüe aşılardır; bu nedenle gebelerde ve ağır immün yetmezliği olanlarda kontrendikedir.", "not": "tek cumlelik aciklama genisletildi", "zaman": "2026-09-25T19:49:46"}
+{"id": "98a87c1f38574f5c", "karar": "duzelt", "govde": "Aşağıdaki testlerden hangisi mukopolisakkaridoz grubu hastalıkların araştırmasında kullanılan bir idrar tarama testidir?", "siklar": {"A": "Guthrie testi", "B": "FeCl3 testi", "C": "Setil trimetil amonyum bromür (CTAB) testi", "D": "2,4-dinitrofenilhidrazin testi", "E": "Sodyum nitroprussid testi"}, "cevap": "C", "aciklama": "Setil trimetil amonyum bromür (CTAB) testi, idrarda glikozaminoglikan atılımını göstererek mukopolisakkaridozların taramasında kullanılır. Guthrie ve FeCl3 testleri fenilketonüride, 2,4-dinitrofenilhidrazin testi akçaağaç şurubu idrar hastalığında, sodyum nitroprussid testi ise homosistinüri ve sistinüride tarama amacıyla kullanılır.", "not": "test adlari OCR duzeltildi", "zaman": "2026-09-25T19:49:46"}
+{"id": "4bb20434c0f9497e", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "678324647f3eab34", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "ac93f57848d36507", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "db13b3e6849a9374", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "103303d2e86e5317", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "f4ed8d7372d688b8", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "d8d1bca4b19c3995", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "0ab0364d790a61aa", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "08d00df381f9a5aa", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "661b754ec2c666df", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "b61d4a2a814b9080", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "024e9fb4d456f324", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "4a641d7e32c6cd85", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "34aabc715be996a0", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "ae1b2f985048f59e", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "e3a956522bac03f5", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "dc34d638c6f3610a", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "05e5f94cebfceb76", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
+{"id": "fcbca55d9ec932e1", "karar": "ok", "zaman": "2026-09-25T19:49:46"}
