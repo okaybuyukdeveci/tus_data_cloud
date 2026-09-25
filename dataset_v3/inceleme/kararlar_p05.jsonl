@@ -1848,3 +1848,53 @@
 {"id": "4b6155864f50cbd3", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
 {"id": "694267e7808500c9", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
 {"id": "3f440cec25b3aaca", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "8edb9fdc1bb33cef", "karar": "duzelt", "siklar": {"A": "Streptococcus pneumoniae", "B": "Moraxella catarrhalis", "C": "Pseudomonas aeruginosa", "D": "Staphylococcus aureus", "E": "Chlamydia trachomatis"}, "cevap": "D", "not": "Siklarda bakteri adlarinin yazim hatalari duzeltildi", "zaman": "2026-09-25T19:01:08"}
+{"id": "500e10077dbc5824", "karar": "duzelt", "siklar": {"A": "Klasik fenilketonüride serbest proteinli diyet ile kan fenilalanin düzeyi ≥20 mg/dL'dir.", "B": "Fenilketonürili bebeğin intrauterin etkilenmesinin bulguları düşük doğum ağırlığı ve konjenital mikrosefalidir.", "C": "Atılan metabolit nedeni ile karakteristik idrar kokusu vardır.", "D": "Tetrahidrobiyopterin (BH4) metabolizması bozukluklarına bağlı tipinde ek nörolojik bulgular vardır.", "E": "Hasta annenin kan fenilalanin düzeyinin yüksekliği fetüste etkilenmeye yol açar."}, "cevap": "B", "not": "A sikkinda bozuk birim gosterimi duzeltildi", "zaman": "2026-09-25T19:01:08"}
+{"id": "6c72b41c0ed109db", "karar": "duzelt", "siklar": {"A": "Adenovirüs", "B": "Kuduz virüsü", "C": "HIV", "D": "HBV", "E": "Çiçek virüsü"}, "cevap": "D", "not": "E sikkinda yazim duzeltildi", "zaman": "2026-09-25T19:01:08"}
+{"id": "bf8c1ee1db0c7ab3", "karar": "duzelt", "govde": "Duodenumda alkalen sekresyon yapan submukozal bez aşağıdakilerden hangisidir?", "not": "Govdede yazim hatasi duzeltildi", "zaman": "2026-09-25T19:01:08"}
+{"id": "47a2a1c215682aea", "karar": "duzelt", "govde": "Hemoglobin yıkımındaki atık ürün aşağıdakilerden hangisidir?", "siklar": {"A": "Globüler proteinler", "B": "Glikolipidler", "C": "Bilirubin", "D": "Kolesterol", "E": "Hemosiderin"}, "cevap": "C", "not": "Govdeye karisan bolum basligi ve A sikkindaki simge temizlendi", "zaman": "2026-09-25T19:01:08"}
+{"id": "52f6b192e0efc62e", "karar": "duzelt", "siklar": {"A": "G1P0A1; nedeni belirlenemeyen 11 haftalık intrauterin fetal kayıp öyküsü", "B": "G2P1A1; nedeni belirlenemeyen 18 haftalık intrauterin fetal kayıp öyküsü", "C": "G1P1; plasental yetmezliğe bağlı fetal büyüme kısıtlılığı nedeniyle 28. haftada preterm doğum öyküsü", "D": "G2P1 Ektopik1; şiddetli preeklampsi nedeniyle 30. haftada preterm doğum ve sonrasında tubal ektopik gebelik öyküsü", "E": "G1P0A1; nedeni belirlenemeyen 8 haftalık spontan düşük öyküsü"}, "cevap": "E", "not": "C sikkindaki bozuk kelime duzeltildi", "zaman": "2026-09-25T19:01:08"}
+{"id": "4493ddded5b63f1c", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "9e57c8ed3e184d46", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "cdbae15aff2398b2", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "c53a2fa29f928922", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "509019493a173d19", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "4fb82f850385007f", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "c0af24b845e4886a", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "e8b0e1af43e9520a", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "3d47e16abdb3ba46", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "0a0d96a98af92b98", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "3c25b49bca5b8930", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "ce8ea4a7e7c0bdd4", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "5545f3d46bd4f750", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "182213c8c78fd92c", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "02bfdfad2ccba7ea", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "3970f0d2dea3b7ca", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "3679e8136e99b739", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "d629c17f18abdb53", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "9913435df49683f2", "karar": "ok", "zaman": "2026-09-25T19:01:09"}
+{"id": "87345500a8f1eeca", "karar": "duzelt", "govde": "Aort darlığı için aşağıdakilerden hangisi yanlıştır?", "not": "Govdede yeri karismis kelime parcasi duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "294ded9e36590141", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi daha çok serotonin geri alımını inhibe ederek etkiyen, sedatif etkisi oldukça fazla olan antidepresandır?", "not": "Govdedeki tire bolunmesi duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "8065905cd8f89550", "karar": "duzelt", "siklar": {"A": "Ascaris lumbricoides", "B": "Trichinella spiralis", "C": "Trichuris trichiura", "D": "Trypanosoma cruzi", "E": "Loa loa"}, "cevap": "D", "not": "C sikkinda yazim hatasi duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "54eb213f0f7788fc", "karar": "duzelt", "siklar": {"A": "Perikardit gelişimi", "B": "Hiperpotasemi", "C": "BUN >100 mg/dL", "D": "Kreatinin >3.0 mg/dL", "E": "Ensefalopati gelişimi"}, "cevap": "D", "not": "C ve D siklarinda bozuk birim gosterimi duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "403460bb736736bd", "karar": "duzelt", "siklar": {"A": "Etken herpes virüs grubunda yer alan EBV virüstür.", "B": "Eksüdatif tonsillit, lenfadenopatiler, splenomegali görülür", "C": "Küçük çocuklar hastalığı asemptomatik geçirirler", "D": "EBV virüs T hücreleri enfekte eder", "E": "Periferik kan sayımında lenfositoz hakimdir"}, "cevap": "D", "not": "B sikkindaki tire bolunmesi ve bozuk kelime duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "8b02b7fd4ea50811", "karar": "duzelt", "siklar": {"A": "Bronkioloalveolar karsinom", "B": "Skuamöz hücreli karsinom", "C": "Küçük hücreli karsinom", "D": "Büyük hücreli karsinom", "E": "Yulaf hücreli karsinom"}, "cevap": "A", "not": "E sikkinda eksik harf duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "d2b4301fd8b4cc0e", "karar": "duzelt", "siklar": {"A": "HBeAg - HBV DNA", "B": "HBeAg - Anti-HBc IgM", "C": "HBV DNA - Anti-HBe", "D": "HBsAg - Anti-HBc IgG", "E": "Anti-HBe - Anti-HBc IgG"}, "cevap": "A", "not": "Siklarda bozuk belirtec adlari (lgM/lgG) duzeltildi", "zaman": "2026-09-25T19:01:31"}
+{"id": "016ff7c87d298241", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "7eec3f6d3e9908fc", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "e462df9e3985f07a", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "5a6b0bb3eecdaed5", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "2b5b54bdd32670d2", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "6fef41aa22c01e46", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "ed606a311795429f", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "a5f6cbd5ba73fbe7", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "1fca2a25f5933cff", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "fb82ef87fc8cb18f", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "4a24fcf75494a543", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "a36f9d3aa8608020", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "426f7fe60eada9ed", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "9d007a9003af245b", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "30be169587b80abc", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "85859a18848dbfae", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "fbc41caa6c96e8e4", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
+{"id": "2aecc418165babce", "karar": "ok", "zaman": "2026-09-25T19:01:31"}
