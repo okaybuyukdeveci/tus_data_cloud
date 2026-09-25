@@ -1423,3 +1423,78 @@
 {"id": "0fb5b114db8139eb", "karar": "ok", "zaman": "2026-09-25T18:52:54"}
 {"id": "f5bcd66883113a9c", "karar": "ok", "zaman": "2026-09-25T18:52:54"}
 {"id": "f499bdff3875c29b", "karar": "ok", "zaman": "2026-09-25T18:52:54"}
+{"id": "b8c2ced94ecfc5b5", "karar": "duzelt", "aciklama": "Gram negatif bakterilerin dış membranındaki lipopolisakkarit (endotoksin) üç bölümden oluşur: toksik etkiden sorumlu lipid A, çekirdek (kor) polisakkarit ve en dışta yer alan O somatik antijeni. Lipid A ve kor bölgesi enterik bakterilerin çoğunda benzer yapıdadır. O antijeni ise tekrarlayan şeker birimlerinden oluşur ve türler, hatta suşlar arasında büyük farklılık gösterir. Bu nedenle enterik bakterilerin (örneğin Salmonella, E. coli) serolojik olarak gruplandırılması O somatik antijenine göre yapılır.", "not": "Aciklama kesikti, yeniden yazildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "2cfa50096732720a", "karar": "at", "neden": "cevap_supheli", "not": "Anahtar D (sasilik) ama kitabin aciklamasi en sik nedenin anizometropi oldugunu soyluyor; kaynaklar arasinda ikisi de en sik neden olarak gecebiliyor", "zaman": "2026-09-25T18:53:31"}
+{"id": "1c4dd38ba0ad8f09", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Bobrekle ilgili kesik ilk paragraf baska soruya ait, atildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "b1fce936791816f0", "karar": "duzelt", "aciklama": "Serum protein elektroforezinde albümin, alfa-1, alfa-2, beta ve gama globülin bantları izlenir. Alfa-2 bandında başlıca alfa-2 makroglobülin, haptoglobin ve seruloplazmin bulunur. Nefrotik sendromda albümin gibi küçük proteinler idrarla kaybedilirken büyük molekül ağırlıklı alfa-2 makroglobülin idrarla kaybedilemez ve karaciğerdeki sentez artışıyla birlikte serumda birikir; bu nedenle alfa-2 bandı belirgin olarak artar. Alfa-1 antitripsin eksikliği ve buna bağlı amfizemde alfa-1 bandı azalır, lenfoma ve sirozda ise daha çok gama bandında değişiklikler görülür.", "not": "Aciklama kesikti ve cevabi aciklamiyordu, yeniden yazildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "6073a5787716d3fc", "karar": "duzelt", "siklar": {"A": "Serum histamin düzeyi", "B": "C4 düzeyi", "C": "C1 esteraz inhibitör düzeyi", "D": "Plazma triptaz düzeyi", "E": "Spesifik IgE tayini"}, "cevap": "C", "not": "C sikkinda kayip C harfi duzeltildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "198c61c8af13f4eb", "karar": "duzelt", "cevap": "E", "not": "Kitabin aciklamasindaki tabloda makrofaj dogal bagisiklikta, plazma hucreleri kazanilmis bagisiklikta yer aliyor; anahtar B aciklamayla celisiyor, E yapildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "a54dbb979f9d16d2", "karar": "duzelt", "siklar": {"A": "Homozigot ataksi telenjiektazili bireyler radyasyonun kanserojenik etkilerine daha açıktır.", "B": "Yaşlılar radyasyonun kanserojenik etkilerine gençlere oranla daha açıktır.", "C": "Kseroderma pigmentozumlu bireylerde güneş ışığı sonrası deri kanserleri daha sık izlenir.", "D": "Primer kanser nedeniyle RT alan hastalarda ikincil malignitelerin görülme olasılığı artar.", "E": "Fetal dönemde diagnostik radyasyona maruz kalan hastalarda çocukluk çağı maligniteleri daha sık görülür."}, "cevap": "B", "not": "Siklarda OCR harf bozukluklari duzeltildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "989b634c8fe9add9", "karar": "duzelt", "govde": "Kırk üç yaşında bayan hasta halsizlik ve kaşıntı ile başvuruyor. Fizik muayenesinde özellik saptanmıyor. Laboratuvar tetkiklerinde ALT: 60 IU/L, GGT: 240 IU/L, ALP: 810 IU/L saptanıyor. Yapılan karaciğer ultrasonografisi normal izleniyor. Hepatit paneline ait viral markerlar da negatif olarak bulunuyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "Govdede birim ve kelime bozukluklari duzeltildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "a6d2496f9efcfd2a", "karar": "duzelt", "govde": "Otuz iki yaşında bayan hasta ellerde ve ciltte kalınlaşma ve soğuğa çıkınca ellerinde morarma yakınması ile başvuruyor. Öyküsünde son bir haftadır yutma güçlüğü çektiği de öğreniliyor. / Bu hasta için aşağıda verilen ifadelerden hangisi yanlıştır?", "not": "Govdede eksik harf duzeltildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "367f2928a6016a39", "karar": "duzelt", "siklar": {"A": "Salgısal IgA", "B": "Antistafilokokkal faktör", "C": "Lizozim", "D": "Laktoperoksidaz", "E": "Hepsidin"}, "cevap": "E", "not": "A sikkinda yazim bozuklugu duzeltildi", "zaman": "2026-09-25T18:53:31"}
+{"id": "9be9019e5258fb2b", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "54d154afb050788a", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "c5854c391f883fe5", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "385282277c7909a9", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "5d92026c026cb251", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "0533c20ab590eb3b", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "0a8efceef8c288de", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "de99206cc562f0f3", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "f77fabb622af99da", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "76ebe9963beea192", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "a9ba9009ba3eb5e7", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "dfe2df257e53e63b", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "64f514310b620144", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "b28e38f9be03a241", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "6c30a07c86d020a3", "karar": "ok", "zaman": "2026-09-25T18:53:31"}
+{"id": "fae11d8a62219652", "karar": "duzelt", "aciklama_paragraf": "1-1", "not": "Osteopetroz ve membranoz GN cumleleri baska sorulara ait, kesildi", "zaman": "2026-09-25T18:53:49"}
+{"id": "42abdbaf463816b3", "karar": "duzelt", "govde": "Miyokardiyal canlılığı değerlendirmek için aşağıdaki tetkiklerden hangisi altın standarttır?", "siklar": {"A": "Spiral tomografi", "B": "Kardiyak MR", "C": "Talyumlu miyokard sintigrafisi", "D": "Dobutaminli ekokardiyografi", "E": "Pozitron emisyon tomografisi"}, "cevap": "E", "not": "Govdede bolunmus kelime ve E sikkinda pozitron yazimi duzeltildi", "zaman": "2026-09-25T18:53:49"}
+{"id": "c60cc3aa662b5fc3", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "106f371792ddf42b", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "5f1ba8891f8150f8", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "af06340a30cf639b", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "57decf3987fb29d7", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "59d3fcdf7003cdb3", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "41efadddfed4a9e3", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "aa98ea9988b3d072", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "03e4a2bda4d6c662", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "798628f844f1e81a", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "dcc1cbbccd3e599a", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "23b82a945e22a31c", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "6691402e6ffa752d", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "18031befb325de5b", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "4ad6b090f5f8873a", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "8f912ea81cce1153", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "5bc20a0d69bbe04f", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "5b78b47ce2988de7", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "9b32f39c941e62d9", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "da129515b0a96476", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "2d16d7273c5f7c0d", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "4f4702edee4abfb6", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "42439a75e30955da", "karar": "ok", "zaman": "2026-09-25T18:53:49"}
+{"id": "a09f5fe8427ce38f", "karar": "duzelt", "govde": "Aşağıdaki lenf trunkuslarından hangisinin lenfi angulus venosus sinister'e boşalmaz?", "not": "Govdede kayip harf duzeltildi", "zaman": "2026-09-25T18:54:09"}
+{"id": "9986ade99c824d1b", "karar": "duzelt", "aciklama_paragraf": 2, "not": "Yarim kalan hormon siniflama listesi kesildi", "zaman": "2026-09-25T18:54:09"}
+{"id": "a190678d1c6f5072", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Kesik ilk parca atildi", "zaman": "2026-09-25T18:54:09"}
+{"id": "2918584533c4263c", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Kesik ilk parca atildi", "zaman": "2026-09-25T18:54:09"}
+{"id": "75a1fdf3991d30e8", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "a5fa86bc341bc31d", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "4ade5f3b502027a7", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "b4c658fd45fb87bd", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "77f9909dc611004c", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "40f8b12e0eb537f2", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "8c00e79638dbb08e", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "94cd661eb07c491d", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "afc4a2fa69d9001e", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "045bca8cfb197f43", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "93f86ab34676291a", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "77d0489ef6e9f3dc", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "0506426642044f67", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "31ab4da9e1b7dd67", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "4106d1b11b390179", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "48ad8be21e360366", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "7723b9a29740b07e", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "bd5c62cac46d274f", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "a8a6f22e052b8189", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "97bf83dc2ea4b963", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
+{"id": "70f817a596a66ac9", "karar": "ok", "zaman": "2026-09-25T18:54:09"}
