@@ -1748,3 +1748,53 @@
 {"id": "e0a7d84ff7b3bda1", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
 {"id": "77699b58643e918d", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
 {"id": "a7b17440a1b329bd", "karar": "ok", "zaman": "2026-09-25T20:37:01"}
+{"id": "e192655f0e3ec545", "karar": "duzelt", "govde": "Total histerektomi yapılan birinde yanlışlıkla bağlanabilen ve üreteri çaprazlayan arter hangisidir?", "not": "govde OCR", "zaman": "2026-09-25T20:37:32"}
+{"id": "59a274181bd560df", "karar": "duzelt", "siklar": {"A": "Methemoglobin", "B": "Fetal hemoglobin", "C": "Hemoglobin A1C", "D": "Oksihemoglobin", "E": "Hemoglobin S"}, "cevap": "B", "not": "sik OCR (AfC)", "zaman": "2026-09-25T20:37:32"}
+{"id": "569cf5576c209b42", "karar": "duzelt", "aciklama_paragraf": 3, "not": "sondaki baslik kesildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "fb06aefd7469fbcf", "karar": "duzelt", "aciklama_paragraf": 8, "not": "sondaki OCR artigi kesildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "131d88c7a12720ed", "karar": "duzelt", "siklar": {"A": "Glikozidik bağlar", "B": "Hidrojen bağları", "C": "Disülfid bağları", "D": "İyonik bağlar"}, "cevap": "B", "aciklama_paragraf": 6, "not": "E sikki kayip (cevap degil); D yazim; sondaki baslik kesildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "506d5b1855a0bc4d", "karar": "duzelt", "aciklama_paragraf": 1, "not": "sondaki baslik kesildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "05d9d36a330ce01d", "karar": "duzelt", "siklar": {"A": "Hemolitik anemi", "B": "Demir eksikliği anemisi", "C": "Vitamin B12 eksikliği", "D": "Kronik hastalık anemisi", "E": "Talasemi minör"}, "cevap": "C", "aciklama": "Nötrofillerde hipersegmentasyon (5 veya daha fazla loblu nötrofil) megaloblastik anemi için tipik bir periferik yayma bulgusudur. Vitamin B12 ve folat eksikliğinde DNA sentezi bozulduğu için hücre çekirdeğinin olgunlaşması gecikir; eritrositlerde makrositoz, nötrofillerde hipersegmentasyon görülür. Vitamin B12 eksikliğinin en sık nedeni pernisiyöz anemidir.", "not": "sik OCR (Bi2); aciklamadaki OCR hatasi duzeltildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "b50638a917eecd90", "karar": "duzelt", "aciklama_paragraf": 13, "not": "sondaki OCR artigi kesildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "9c7f89d90837d445", "karar": "at", "neden": "baglam_gerekli", "not": "onceki (27 numarali) soruya atif; siklarin arasina tablo metni de karismis", "zaman": "2026-09-25T20:37:32"}
+{"id": "af6a3cab1a21ec3f", "karar": "duzelt", "govde": "Ailesinde diabetes mellitus öyküsü olan 38 yaşındaki kadın hastanın vücut kitle indeksi 28 kg/m2'dir. İki kez bakılan açlık plazma glukozu 119 mg/dL ve 120 mg/dL olarak ölçülmüştür. Oral glukoz tolerans testinde 2. saat plazma glukozu 135 mg/dL'dir. / Bu hastanın metabolik durumu aşağıdakilerden hangisine uymaktadır?", "not": "govde yazim", "zaman": "2026-09-25T20:37:32"}
+{"id": "1a8bd10cbf2bee0f", "karar": "duzelt", "aciklama_paragraf": 1, "not": "kopuk tablo kesildi", "zaman": "2026-09-25T20:37:32"}
+{"id": "716fff3c8a826bf6", "karar": "duzelt", "govde": "Hepatotoksik olmayan antitüberküloz ilaç aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T20:37:32"}
+{"id": "78c422531ca01dcc", "karar": "duzelt", "cevap": "B", "siklar": {"A": "Oksitetrasiklin", "B": "Doksisiklin", "C": "Tetrasiklin", "D": "Demeklosiklin", "E": "Klortetrasiklin"}, "not": "CEVAP DEGISTI D->B: kitabin aciklamasi 'bu sorunun cevabi seçenekler dahilinde doksisiklindir' diyor", "zaman": "2026-09-25T20:37:32"}
+{"id": "e5db857837fd4778", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "d3ec8ef10a05d4b5", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "f08a44fe3fb9d2b1", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "202ef8390cd15df2", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "cb37136bfd518e77", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "ecad25a44ce110f4", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "409b6b115d7645d5", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "a755147ecfa36fae", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "5c2c317d80d1588b", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "b07224ae114dbade", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "6f55f5c820be719f", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "5375c43bfaf078e7", "karar": "ok", "zaman": "2026-09-25T20:37:32"}
+{"id": "05eecf9b20462039", "karar": "duzelt", "siklar": {"A": "Propofol", "B": "Enfluran", "C": "Droperidol", "D": "Ketamin", "E": "Halotan"}, "cevap": "D", "not": "C sikki OCR", "zaman": "2026-09-25T20:38:00"}
+{"id": "aa8b95f2ba4808e1", "karar": "duzelt", "govde": "Elli altı yaşındaki bir erkek hasta, son 3 aydır devam eden yürüme güçlüğü şikayetiyle başvuruyor. Nörolojik muayenede sol alt ekstremitede pozisyon duyusunda azalma saptanıyor. Romberg testi pozitif olan hastanın öyküsünden 2 yıl önce peptik ülser nedeniyle gastrektomi ameliyatı geçirdiği öğreniliyor. / Bu hasta için en olası tanı aşağıdakilerden hangisidir?", "not": "govde OCR", "zaman": "2026-09-25T20:38:00"}
+{"id": "4c83c627a709c102", "karar": "duzelt", "aciklama_paragraf": 4, "not": "uzun antiviral tablo kesildi", "zaman": "2026-09-25T20:38:00"}
+{"id": "58f0aaad4c3033ea", "karar": "duzelt", "aciklama_paragraf": 9, "not": "HBV serolojisi paragraflari kesildi", "zaman": "2026-09-25T20:38:00"}
+{"id": "c585317da00bc01e", "karar": "duzelt", "aciklama_paragraf": 10, "not": "OCR bozuk karsilastirma tablosu kesildi", "zaman": "2026-09-25T20:38:00"}
+{"id": "05faba4897c31a79", "karar": "duzelt", "aciklama": "Karaciğerin kök (stem) hücreleri oval hücrelerdir. Bu hücreler Hering kanallarında (kanaliküllerin safra duktuslarına açıldığı bölgede) bulunur ve hem hepatositlere hem de safra kanalı epitel hücrelerine farklanabilen bipotent progenitör hücrelerdir. Normalde hepatosit kaybı, kalan hepatositlerin çoğalmasıyla yerine konur; ancak hepatositlerin proliferasyon yeteneği baskılandığında (ağır ve kronik karaciğer hasarı, fulminan hepatit gibi) oval hücreler aktive olarak rejenerasyona katılır. Hepatik stellat (Ito) hücreleri ise A vitamini depolayan ve fibrozis gelişiminde rol oynayan hücrelerdir.", "not": "aciklama baska konulara (portal granulom, siroz) aitti, yeniden yazildi", "zaman": "2026-09-25T20:38:00"}
+{"id": "4daabf840081e15e", "karar": "duzelt", "siklar": {"A": "Fenobarbital", "B": "Rifampin", "C": "Eritromisin", "D": "Griseofulvin", "E": "Karbamazepin"}, "cevap": "C", "aciklama_paragraf": 1, "not": "D ve E yapismisti, ayrildi; aciklamaya karisan diger sorular kesildi", "zaman": "2026-09-25T20:38:00"}
+{"id": "096c67a8c0272f3f", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "e5150ff9f26693ef", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "594f3f23ae61e86f", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "dd19de46f74c2107", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "5b877efa4871a81c", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "2f7209a4c6a2d480", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "515198294cd3f353", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "fdc02f1595f25d87", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "5b807a992a56581c", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "ca2ca2fd67c557fe", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "fe90df1dde4d9445", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "a833057c0467d883", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "0a41bac6ec2b9edb", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "c9fc4eb80a8616dc", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "d10c5dd9a212b073", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "9e5705a06a1de775", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "8ed306cab44aac84", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
+{"id": "764d450773f1ce32", "karar": "ok", "zaman": "2026-09-25T20:38:00"}
