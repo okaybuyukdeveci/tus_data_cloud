@@ -348,3 +348,53 @@
 {"id": "555b0771407fca9e", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
 {"id": "fe752020d15d1bea", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
 {"id": "b98e4c3e93b1feab", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "86c58598627adbb9", "karar": "duzelt", "govde": "Fonksiyonel elektrik stimülasyonu aşağıdaki durumlardan hangisine uygulanır?", "siklar": {"A": "Üst motor nöron arazı", "B": "Ön boynuz hasarı", "C": "Periferik sinir yaralanması", "D": "Dejeneratif artrit", "E": "Ankilozan spondilit"}, "cevap": "A", "aciklama": "Fonksiyonel elektrik stimülasyonu (FES), üst motor nöron lezyonu olan ancak alt motor nöronu sağlam hastalarda felçli kasları uyararak yürüme, kavrama gibi fonksiyonel hareketleri sağlamak amacıyla kullanılan bir fizik tedavi modalitesidir. Kasın uyarılabilmesi için alt motor nöronun sağlam olması gerektiğinden ön boynuz hasarı ve periferik sinir yaralanmasında etkili değildir. Dejeneratif artrit ve ankilozan spondilitte ise sıcak uygulamalar, ultrason ve TENS gibi modaliteler tercih edilir.", "not": "govde/sik yazim; uzun ilgisiz modalite listesi yerine aciklama yazildi", "zaman": "2026-09-25T19:43:17"}
+{"id": "678489c983d4501a", "karar": "duzelt", "cevap": "B", "aciklama_paragraf": 14, "not": "CEVAP DEGISTI A->B: kitabin aciklamasi riski en cok artiran durumu gecirilmis ektopik gebelik (x10; PIH x2.5) olarak veriyor; ektopik yerlesim tablosu kesildi", "zaman": "2026-09-25T19:43:17"}
+{"id": "1708f7c2843f1f76", "karar": "duzelt", "aciklama_paragraf": 1, "not": "ilgisiz amino asit turevleri listesi kesildi", "zaman": "2026-09-25T19:43:17"}
+{"id": "dc93be8afca2d8f0", "karar": "duzelt", "siklar": {"A": "Propranolol - Asimetrik septal hipertrofi", "B": "Alkol alışkanlığı - Pulmoner stenoz", "C": "Lityum - Ebstein anomalisi", "D": "Maternal diyabet - Büyük damarların transpozisyonu", "E": "Maternal SLE - Patent duktus arteriosus"}, "cevap": "E", "aciklama": "Maternal sistemik lupus eritematozusta anti-Ro (SS-A) ve anti-La (SS-B) antikorlarının plasentadan geçmesiyle yenidoğanda konjenital tam kalp bloğu gelişir; patent duktus arteriosus ile ilişkili değildir (PDA daha çok konjenital rubella ve prematüriteyle ilişkilidir). Lityum Ebstein anomalisine, maternal diyabet büyük damarların transpozisyonu ve asimetrik septal hipertrofiye, fetal alkol sendromu ise septal defektler ve pulmoner stenoz gibi kardiyak anomalilere yol açabilir.", "not": "sik ayiraclari/yazim; ilgisiz ilac tablosu yerine aciklama yazildi", "zaman": "2026-09-25T19:43:17"}
+{"id": "4323d7e0bbfe9ccf", "karar": "duzelt", "aciklama": "Sistemik skleroz, deri ve birçok iç organda aşırı fibröz doku birikimi ile karakterize, kadınlarda daha sık görülen kronik bir hastalıktır. Deri lezyonları ekstremitelerin distalinden proksimale doğru ilerler; renal vasküler lezyonlar skleroderma renal krizine yol açabilir. Diffüz formda anti-Scl-70 (topoizomeraz I), sınırlı formda (CREST) ise antisentromer antikorları yüksek bulunur. Anti-Jo-1 antikoru ise polimiyozit/dermatomiyozit (antisentetaz sendromu) ile ilişkilidir; sistemik skleroz tanısında kullanılmaz.", "not": "yarim kalan aciklama yeniden yazildi", "zaman": "2026-09-25T19:43:17"}
+{"id": "f7a0c6a955df2e21", "karar": "at", "neden": "tekrar", "not": "4666080832912e1c ile ayni soru ve aciklama", "zaman": "2026-09-25T19:43:17"}
+{"id": "d82359cea865a15a", "karar": "duzelt", "siklar": {"A": "Multifokal atriyal taşikardi", "B": "Atriyal flutter", "C": "Atriyal fibrilasyon", "D": "Paroksismal supraventriküler taşikardi", "E": "Ventrikül taşikardisi"}, "cevap": "C", "not": "B yazim", "zaman": "2026-09-25T19:43:17"}
+{"id": "af710eb0769c92a4", "karar": "duzelt", "siklar": {"A": "S. pneumoniae", "B": "P. aeruginosa", "C": "S. aureus", "D": "L. pneumophila", "E": "M. pneumoniae"}, "cevap": "C", "not": "tur adlari yazim", "zaman": "2026-09-25T19:43:17"}
+{"id": "9560e37745d2331c", "karar": "duzelt", "siklar": {"A": "HTLV tip 2 - Saçlı hücreli lösemi", "B": "Human papilloma virüs - Skuamöz hücreli kanser", "C": "Epstein-Barr virüs - Timus karsinomu", "D": "BK virüs - Nazofarinks kanseri", "E": "Hepatit C virüs - Karaciğer kanseri"}, "cevap": "D", "not": "sik yazim", "zaman": "2026-09-25T19:43:17"}
+{"id": "5ae0f5dd3758ea6f", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "88e1177b95277144", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "2dadec0ef5f9ba78", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "7833a47204ee08be", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "3b0f9250229d69a5", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "afe38331f6971e17", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "dc7232532abc9695", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "99920f60f7eea2df", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "73c697c37f1ee294", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "beec0f04203c4db7", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "641c1b3b64b4fb8b", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "e168bbc49fe2da42", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "e41db5c619bae0ea", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "924ddfa558a21cff", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "f96d2b1b7ccc3fb4", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "425c9060a0f6c066", "karar": "ok", "zaman": "2026-09-25T19:43:17"}
+{"id": "8a4664a0a2cfdd50", "karar": "duzelt", "govde": "Görmede azalma, fundus bakısında unilateral papil ödem ve hemoraji olan hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T19:43:54"}
+{"id": "c26c3d20c9886d68", "karar": "duzelt", "siklar": {"A": "V. lumbalis ascendens dextra - V. lumbalis ascendens sinistra", "B": "V. lumbalis ascendens dextra - V. subcostalis dextra", "C": "V. lumbalis ascendens sinistra - V. subcostalis sinistra", "D": "V. hemiazygos - V. hemiazygos accessoria", "E": "V. subcostalis dextra - V. subcostalis sinistra"}, "cevap": "B", "not": "sik ciftleri ayiraci", "zaman": "2026-09-25T19:43:54"}
+{"id": "ceb822e15ea0e574", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi apoptozisi ekstrensek (hücre membranı aracılıklı) yoldan aktive eden faktördür?", "aciklama_paragraf": "2-", "not": "bozuk OCR paragrafi kesildi, govde yazim", "zaman": "2026-09-25T19:43:54"}
+{"id": "6f5d6dac41109ab1", "karar": "duzelt", "siklar": {"A": "Alzheimer hastalığı", "B": "Huntington hastalığı", "C": "Parkinson hastalığı", "D": "Nörofibromatozis", "E": "Pick hastalığı"}, "cevap": "C", "not": "B yazim", "zaman": "2026-09-25T19:43:54"}
+{"id": "1bd02b3452a13a06", "karar": "duzelt", "siklar": {"A": "Campylobacter jejuni - E. coli O157:H7", "B": "E. coli O157:H7 - Shigella dysenteriae", "C": "Shigella dysenteriae - Enteroinvaziv E. coli", "D": "Shigella dysenteriae - Salmonella", "E": "Campylobacter jejuni - Enterotoksijenik E. coli"}, "cevap": "B", "not": "sik ayiraclari", "zaman": "2026-09-25T19:43:54"}
+{"id": "5fbad7546d63e11f", "karar": "duzelt", "siklar": {"A": "İmmünglobulinler düşük olduğunda replasman için", "B": "Hemofililerde kronik artropati profilaksisinde", "C": "Kronik karaciğer hastalarında profilaksi amacı ile", "D": "Protein enerji malnütrisyonunda protein desteği için", "E": "Masif transfüzyon yapılmış ise"}, "cevap": "E", "not": "sik yazim", "zaman": "2026-09-25T19:43:54"}
+{"id": "a5952d126407a061", "karar": "duzelt", "aciklama": "Fallot tetralojisi; VSD, pulmoner stenoz (sağ ventrikül çıkış yolu darlığı), sağ ventrikül hipertrofisi ve aortanın ata biner tarzda dekstropozisyonu ile karakterizedir. Hipoksik (hipersiyanotik) atak sırasında infundibuler spazm nedeniyle pulmoner akım azalır; derin hipoksi, ağır siyanoz ve üfürümde azalma olur, en sık 2-4 aylık bebeklerde görülür. Tedavide diz-göğüs pozisyonu, oksijen, morfin, sıvı, bikarbonat ve fenilefrin kullanılır. Propranolol infundibuler spazmı çözerek hem atağın tedavisinde (intravenöz) hem de önlenmesinde (oral) kullanılabilir.", "not": "yarim kalan aciklama tamamlandi", "zaman": "2026-09-25T19:43:54"}
+{"id": "a13cf738c53027d2", "karar": "duzelt", "govde": "Mide operasyonlarından sonra görülen dumping sendromu için aşağıdakilerden hangisi yanlıştır?", "not": "govde yazim", "zaman": "2026-09-25T19:43:54"}
+{"id": "1fd521bc2d0ecc3b", "karar": "duzelt", "govde": "Aşağıda verilen hastalık - eksik enzim eşleştirmelerinden hangisi yanlıştır?", "siklar": {"A": "Akut intermitan porfiri - Üroporfirinojen I sentaz", "B": "Varyegat porfiri - Protoporfirinojen oksidaz", "C": "Porfiria kutanea tarda - Üroporfirinojen karboksilaz", "D": "Protoporfiri - Ferroşelataz", "E": "Konjenital eritropoetik porfiri - Üroporfirinojen III kosentaz"}, "cevap": "C", "aciklama_paragraf": 1, "not": "govde artiklari, sik yazim; ilgisiz elektrolit bolumu kesildi", "zaman": "2026-09-25T19:43:54"}
+{"id": "95170b9fc4afdd67", "karar": "duzelt", "siklar": {"A": "Teikoplanin", "B": "Sefazolin", "C": "Aztreonam", "D": "Klaritromisin", "E": "Ofloksasin"}, "cevap": "D", "not": "C yazim", "zaman": "2026-09-25T19:43:54"}
+{"id": "2263e0dc56e376c2", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "02e1ef93d1b92fc8", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "32447e530325232c", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "c4beb2e07c121178", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "9536fa246017d83c", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "4769c02c06fbfba6", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "f8727921690d35ab", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "3aa52851b35e8962", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "7c35d958c4dcc945", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "d9e674335b2d93dd", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "43868e0ac203798f", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "9fb06f55c5172b2c", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "f5b06a586b935ed4", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "a5782d9444a020b3", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "b5bb47410fd1a3c4", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
