@@ -2098,3 +2098,52 @@
 {"id": "5915c71afad66058", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
 {"id": "f63df3bb22b54fe3", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
 {"id": "7367bc6b8160fdfb", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "87377dbeeedc0611", "karar": "duzelt", "siklar": {"A": "Peutz-Jeghers sendromu (19p13)", "B": "Herediter pankreatit (PRSS1 geni)", "C": "Familyal atipik multipl mol melanom sendromu (p16 geni)", "D": "Herediter meme ve over kanseri (BRCA2 geni)", "E": "Cowden sendromu (PTEN geni)"}, "cevap": "E", "not": "A ve C siklarinda ek/bitisiklik hatalari duzeltildi", "zaman": "2026-09-25T19:05:08"}
+{"id": "a27e1269f791407f", "karar": "duzelt", "siklar": {"A": "İki ortalama arasındaki farkın önemlilik testi", "B": "İki eş arasındaki farkın önemlilik testi", "C": "Mann-Whitney U testi", "D": "Wilcoxon testi", "E": "McNemar testi"}, "cevap": "C", "not": "D ve E siklarinda test adi yazim hatalari duzeltildi", "zaman": "2026-09-25T19:05:08"}
+{"id": "2a14a6b3e63085b6", "karar": "duzelt", "siklar": {"A": "Glukoz-6-fosfataz eksikliği", "B": "HGPRT eksikliği", "C": "PRPP sentetaz artışı", "D": "Ksantin oksidaz eksikliği", "E": "Pirazinamid toksisitesi"}, "cevap": "D", "not": "E sikkinda ilac adi yazim hatasi duzeltildi", "zaman": "2026-09-25T19:05:08"}
+{"id": "7d0103d0868ba748", "karar": "duzelt", "siklar": {"A": "Depolarizasyon", "B": "Hiperpolarizasyon", "C": "İstirahat membran potansiyeli", "D": "Postsinaptik eksitasyon", "E": "Uzun süreli potansiyalizasyon"}, "cevap": "B", "not": "C sikkinda yazim hatasi duzeltildi", "zaman": "2026-09-25T19:05:08"}
+{"id": "2f52b16ecb7af711", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "5368b74f7252c344", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "1884f03df6314eb5", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "d3d822146065bd4d", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "8ca035abfcbf7bb8", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "9c71761810e2011f", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "d7d71e267d1940c8", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "8c882eb95960ac54", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "a56194a9ea0fbf55", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "634d96af2ff2b2e4", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "57fc9731ec6d4462", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "656fedf8ef3c92c3", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "7d681cc7b64e01f8", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "b151b2bae67d83a9", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "6fc4bbd0ef999a40", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "e9e89ad2e34c7706", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "8aa267f9045c44b9", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "312450b9a64746a0", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "9e91b65ef2710265", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "e7ed741de9b85572", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "45b3bfb4f203685e", "karar": "ok", "zaman": "2026-09-25T19:05:08"}
+{"id": "0926f81146a6a82c", "karar": "duzelt", "siklar": {"A": "Kolinin presinaptik uca geri alınmasını inhibe eder", "B": "Presinaptik membrandaki voltaja bağlı kalsiyum kanallarını kapatır", "C": "Nikotinik reseptörlere bağlanarak asetilkolinin bağlanmasını engeller", "D": "Asetilkolin veziküllerinin sinaptik aralığa ekzositozunu engeller", "E": "Asetilkolinesteraz enzimini inhibe eder"}, "cevap": "D", "not": "C sikkindaki tire bolunmesi duzeltildi", "zaman": "2026-09-25T19:05:26"}
+{"id": "6d20b2bcf51f2fc4", "karar": "duzelt", "siklar": {"A": "İmmünreaktif tripsinojen ve ter testi", "B": "Ter testi ve DNA çalışmaları", "C": "İmmünreaktif tripsinojen ve DNA çalışmaları", "D": "Ter testi ve DNA çalışmaları", "E": "Ter testi ve nazal potansiyel fark ölçümü"}, "cevap": "C", "not": "A sikkinda yazim hatasi duzeltildi (B ve D kaynakta ayni; cevabi etkilemiyor)", "zaman": "2026-09-25T19:05:26"}
+{"id": "4bc2143f0b790470", "karar": "duzelt", "siklar": {"A": "Erken diyastolik üfürüm", "B": "Middiyastolik üfürüm", "C": "Geç diyastolik üfürüm", "D": "Devamlı üfürüm", "E": "Midsistolik üfürüm"}, "cevap": "A", "not": "C sikkinda ek hatasi duzeltildi", "zaman": "2026-09-25T19:05:26"}
+{"id": "9bb3f27212941a57", "karar": "duzelt", "siklar": {"A": "Antitrombin III'ün etkinliğini artırarak", "B": "Glutamat rezidülerinin gama-karboksilasyonunu inhibe ederek", "C": "Trombositlerde ADP reseptörlerini bloke ederek", "D": "Plazminojen-plazmin dönüşümünü artırarak", "E": "Glikoprotein IIb/IIIa reseptörlerini bloke ederek"}, "cevap": "D", "not": "E sikkinda bozuk Roma rakamlari duzeltildi", "zaman": "2026-09-25T19:05:26"}
+{"id": "ffcab34b45b5a581", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "22a7d86ec2fe219f", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "fd8ca4c4f2f7708e", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "a16986941335d3f9", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "f7912dcedfc420f0", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "c4645dc962e466e0", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "c6367fd1a343dd4e", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "2a05ba221e810a14", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "7b2e4b2ead5c6d87", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "92d32f935b6f181c", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "e00d922946843b35", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "98e80e94d12255ca", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "9112859d1da40a33", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "f964fd29be931e43", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "13b0a3916b33de2b", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "e4f99936222eb5b7", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "b71016dd340f1c6d", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "6096ca7c2f15fc3b", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "2a5daaa40b65398f", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
+{"id": "9ec215ab4339be38", "karar": "ok", "zaman": "2026-09-25T19:05:26"}
