@@ -1610,3 +1610,103 @@
 {"id": "efd86df31c8a6f98", "karar": "ok", "zaman": "2026-09-25T16:29:57"}
 {"id": "8dcb1a33f3d8c1d0", "karar": "ok", "zaman": "2026-09-25T16:29:57"}
 {"id": "8d5b1e29e1263be8", "karar": "ok", "zaman": "2026-09-25T16:29:57"}
+{"id": "a1f396a482f589a2", "karar": "duzelt", "aciklama": "Melatonin serotoninden N-asetilasyon ve O-metilasyon ile sentezlenen pineal bez hormonudur (V doğru). Karanlıkta salınır, aydınlıkta salınımı durur (II doğru). GnRH pulsasyonunu baskılayarak puberteyi geciktirir (I doğru); bu nedenle hayvanlarda pineal bezin çıkarılması pubertenin gecikmesine değil erken başlamasına yol açar (IV yanlış). Melatonin emziren annede süte geçerek bebeğin uyku ritminin anneninkiyle uyumlanmasına katkıda bulunur (III doğru). Doğru öncüller I-II-III-V'tir.", "not": "açıklama öncülleri tek tek gerekçelendirmiyordu, IV'ün neden yanlış olduğu eklenerek yeniden yazıldı", "zaman": "2026-09-25T16:30:51"}
+{"id": "c7383a197a0623be", "karar": "duzelt", "aciklama": "Kolesterol, membrandaki fosfolipidlerin yağ asidi zincirleri arasına yerleşerek zincirlerin hareketini kısıtlar ve fizyolojik sıcaklıkta membran akışkanlığını azaltır; ayrıca flip-flop hareketini de azaltır. Kısa zincirli yağ asitleri ise akışkanlığı artırır. Triaçilgliserol gibi hidrofobik bileşikler membran yapısında yer almaz.", "not": "açıklama dağınıktı ve akışkanlık etkisini açıklamıyordu, yeniden yazıldı", "zaman": "2026-09-25T16:30:51"}
+{"id": "f766afeae3c494ea", "karar": "duzelt", "aciklama": "4-15 yaş arası çocuklarda kemik büyümesine bağlı olarak serum ALP düzeyi fizyolojik olarak yüksektir; bu nedenle ALP yüksekliğinin kolestaza bağlı olduğunu göstermek için kolestazda artan diğer enzimlere bakılır. Kolestazı gösteren testler ALP, GGT, 5'-nükleotidaz ve lösin aminopeptidazdır. ALT ve AST hepatosellüler hasarı, CK ve LDH ise kas ve doku yıkımını yansıtır; kolestazda ALP yüksekliğine eşlik etmesi beklenen enzim lösin aminopeptidazdır.", "not": "açıklama kolestaz tanımı ve nedenlerinden ibaretti, çocukta kemik ALP'si bağlantısı eklenerek yeniden yazıldı", "zaman": "2026-09-25T16:30:51"}
+{"id": "ab954c121aa2d702", "karar": "duzelt", "siklar": {"A": "Sitagliptin", "B": "Pramlintid", "C": "Eksenatid", "D": "Kanagliflozin", "E": "Klorpropamid"}, "cevap": "A", "not": "A şıkkındaki ilaç adı yazım hatası düzeltildi", "zaman": "2026-09-25T16:30:51"}
+{"id": "02a84e481e673e20", "karar": "at", "neden": "cevap_supheli", "not": "Wegener granülomatozu da nekrotizan granülomatöz inflamasyon ve kapillaritle alveoler hemoraji yapar; iki şık doğru", "zaman": "2026-09-25T16:30:51"}
+{"id": "a4b06ecdff09ece6", "karar": "duzelt", "cevap": "B", "aciklama": "Prematüre retinopatisi önemli bir körlük nedenidir. Tarama, postnatal 4. haftada ya da postmenstrüel 31-32. haftada yapılmalıdır. Yirmi sekizinci gebelik haftasında doğan bir bebekte postnatal 4. hafta, 32. haftaya karşılık gelir; bu nedenle bebek 32. haftada değerlendirilmelidir.", "not": "anahtar C (36) idi; kaynak açıklama postnatal 4. haftayı (28+4=32) belirtiyor, cevap B yapıldı ve açıklama tamamlandı", "zaman": "2026-09-25T16:30:51"}
+{"id": "4e4fcbb171cb0ae9", "karar": "duzelt", "aciklama": "Sağ kolon (çekum) tümörleri genellikle ülsere tipte olup lümen geniş ve içerik sıvı olduğu için geç dönemde obstrüksiyon yapar. Bu nedenle gaitada gizli kan, demir eksikliği anemisi, güçsüzlük, kilo kaybı ve palpabl abdominal kitle ile başvururlar. Sol kolon tümörleri skiröz ve anüler yapıda olup obstrüksiyonla, rektum tümörleri ise kanama ve tenezmle kendini gösterir.", "not": "açıklama başlık listesiydi, kaynak içeriğiyle yeniden yazıldı", "zaman": "2026-09-25T16:30:51"}
+{"id": "f2c04ee9224f4e14", "karar": "duzelt", "aciklama_paragraf": 4, "not": "bozuk tablo kesildi", "zaman": "2026-09-25T16:30:51"}
+{"id": "41a50ca45d9461a9", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "7b0bacd7648b3859", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "31c4acde08b05157", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "4f1f3be9c8146400", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "d4bf386493f8527c", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "1763d8bb1707614c", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "306480a2622169d5", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "3bf0e8b2760c7b8e", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "189e0d1315e9507d", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "9e45dfcd6b393a53", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "a575d5748bb2b245", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "e0115c8dbe8a13a8", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "c5675405f4887fbf", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "47fb540461148895", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "9ca618b19d9ea85a", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "e7c8f1d121fa8a79", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "d0cf06ae6f9c848a", "karar": "ok", "zaman": "2026-09-25T16:30:51"}
+{"id": "c192ae504d5ac1f3", "karar": "duzelt", "aciklama": "Muskarinik reseptör agonistleri glokomda (pilokarpin), ağız kuruluğunda (pilokarpin, sevimelin), nörojenik mesanede ve ileus/diyabetik gastroparezide (betanekol) kullanılır. Fosforlu insektisid (organofosfat) zehirlenmesinde ise asetilkolinesteraz inhibisyonuna bağlı aşırı muskarinik uyarı vardır ve tedavide muskarinik antagonist atropin kullanılır. Bu nedenle organofosfat zehirlenmesi muskarinik agonistlerin endikasyonu değildir.", "not": "açıklama yalnızca endikasyon tablosuydu, D şıkkının neden dışarıda kaldığı eklenerek yeniden yazıldı", "zaman": "2026-09-25T16:31:37"}
+{"id": "decf9d25016686f9", "karar": "duzelt", "aciklama": "Kronik bronşit zemininde gelişen akut hiperkapnik solunum yetmezliğinde (pH 7,16, pCO2 70 mmHg) temel sorun alveoler hipoventilasyondur. Bilinci açık bu hastada CO2 basıncını azaltmada en etkili yaklaşım pozitif basınçlı (noninvaziv) ventilasyondur; alveoler ventilasyonu artırarak pCO2'yi düşürür ve entübasyon ihtiyacını azaltır. Maske ile oksijen hipoksemiyi düzeltir ancak CO2 retansiyonunu artırabilir; bronkodilatörler ve steroidler ise pCO2'yi doğrudan düşürmez.", "not": "açıklama yarım kalmıştı ve cevabı gerekçelendirmiyordu, yeniden yazıldı", "zaman": "2026-09-25T16:31:37"}
+{"id": "69976a78744d5a0a", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "baştaki alakasız antibiyotik metni atıldı", "zaman": "2026-09-25T16:31:37"}
+{"id": "d2239beebe371ed8", "karar": "duzelt", "govde": "İki yaşında tekrarlayan pnömoni nedeniyle araştırılan hastanın sağ akciğerinde normal akciğer dokusu ile bir arada hamartomatöz yapı tespit ediliyor. Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "gövdedeki bozuk ifade düzeltildi", "zaman": "2026-09-25T16:31:37"}
+{"id": "b5010db8e07eacae", "karar": "duzelt", "aciklama": "Kalp hızını artıran faktörler arasında baroreseptör uyarımının azalması, atriyal gerim reseptörlerinin uyarılması (Bainbridge refleksi), nefes alma, ağrı, hipoksi, egzersiz, adrenalin, tiroid hormonları ve ateş sayılır. Nefes verme, baroreseptör uyarımının artması, hipotermi ve kafa içi basınç artışı ise kalp hızını azaltır. Bu nedenle soluk verme kalp hızını artıran bir faktör değildir.", "not": "liste formatındaki açıklama yeniden yazıldı; kaynakta norepinefrinin kalp hızını yavaşlatan faktörlere yazılması hatası çıkarıldı", "zaman": "2026-09-25T16:31:37"}
+{"id": "8144fbfc137e57a0", "karar": "duzelt", "govde": "De novo pürin biyosentezinin hücresel lokalizasyonu ve bu sentezde oluşan ilk intakt pürin nükleotidi hangi seçenekte birlikte doğru verilmiştir?", "siklar": {"A": "Sitoplazma – AMP", "B": "Mitokondri – GMP", "C": "Peroksizom – Ksantin monofosfat", "D": "Sitoplazma – IMP", "E": "Sitoplazma – UMP"}, "cevap": "D", "aciklama": "De novo pürin sentezi sitoplazmada gerçekleşir ve bu yolda oluşan ilk intakt pürin nükleotidi inozin monofosfattır (IMP). AMP ve GMP daha sonra IMP'den sentezlenir; UMP ise bir pirimidin nükleotididir.", "not": "gövdeye karışan sütun başlıkları temizlendi, şıklar eşleştirme biçiminde düzenlendi; tek cümlelik açıklama lokalizasyonu da kapsayacak şekilde tamamlandı", "zaman": "2026-09-25T16:31:37"}
+{"id": "e921f478331ebe6e", "karar": "duzelt", "aciklama_paragraf": 1, "not": "S. aureus faktör tablosu taşması kesildi", "zaman": "2026-09-25T16:31:37"}
+{"id": "9d0875af51669236", "karar": "duzelt", "aciklama": "Puberte döneminde kadın memesinde östrojen başta olmak üzere hormonal uyarıya bağlı olarak duktus ve lobül epitel hücrelerinin sayısı artar. Hormonal uyarıyla ihtiyaç halinde organdaki hücre sayısının artmasına hormonal (fizyolojik) hiperplazi denir; puberte ve laktasyonda meme bezinin büyümesi bunun örneğidir. Patolojik hiperplazi ise aşırı hormonal uyarıya bağlı endometrial hiperplazi gibi durumları tanımlar.", "not": "hiperplazi konu anlatımı yerine soruya odaklı yeniden yazıldı", "zaman": "2026-09-25T16:31:37"}
+{"id": "ccdff454c3fb1ded", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "a2de78999d6eae0a", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "1b8f44382096c87c", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "e76f0b025f17aa19", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "3d74ee6d57c5392d", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "d9b4ce4fad67e318", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "e9c9b739d64b74df", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "59fa1998a6a72825", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "b0d29f953d578e94", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "704dbf914278ad2c", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "808b76e514e5d8a1", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "100d70723cf1ee9f", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "50ccd1af4fd98398", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "c3e7ab700d3d5eca", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "bf6d06acc4d81024", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "7d9bb53c69719b5c", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "cc518f7608b455ad", "karar": "ok", "zaman": "2026-09-25T16:31:37"}
+{"id": "ba59ec3fd811315a", "karar": "duzelt", "aciklama_paragraf": 2, "not": "farmakolojik etkiler konu anlatımı taşması kesildi", "zaman": "2026-09-25T16:32:09"}
+{"id": "59c42d0f67c85c4d", "karar": "at", "neden": "cevap_supheli", "not": "Sarkoidozda granülom oluşumunda Th1 kaynaklı IFN-gama da majör sitokin olarak kabul edilir; A ve B ayrıştırılamıyor, açıklama tek cümle", "zaman": "2026-09-25T16:32:09"}
+{"id": "4bc5992922b9bbdf", "karar": "duzelt", "aciklama": "Kawasaki hastalığı tanısı için en az 5 gün süren ateşe ek olarak şu bulgulardan en az 4'ü aranır: iki taraflı eksüdasız konjonktival konjesyon, dudak ve ağız mukozasında değişiklikler (çilek dili, dudaklarda çatlama), el ve ayaklarda değişiklikler (avuç içi ve tabanlarda kızarıklık, ödem, ardından parmak uçlarında deskuamasyon), polimorf döküntü ve genellikle tek taraflı servikal lenfadenopati. Kalpte üfürüm duyulması klasik tanı kriterleri arasında yer almaz; kardiyak tutulum koroner arter anevrizması gibi bir komplikasyon olarak değerlendirilir.", "not": "açıklama klinik bulgular listelenmeden kesilmişti, tanı kriterleriyle yeniden yazıldı", "zaman": "2026-09-25T16:32:09"}
+{"id": "c6849e6fc07dc768", "karar": "duzelt", "aciklama": "Biyopside mikroinvazyon saptanan hastada invazyonun derinliği ve yaygınlığı belirlenmeden kesin tedavi planlanamaz. Konizasyon, sitoloji, biyopsi ve kolposkopi sonuçlarında mikroinvazyon şüphesi olduğunda tanı amacıyla uygulanan eksizyonel işlemdir ve invaziv kanseri dışlamak ya da invazyon derinliğini değerlendirmek için yeterli doku sağlar. Bu nedenle bu aşamada en uygun yaklaşım soğuk konizasyondur.", "not": "konizasyon endikasyon tablosu OCR ile bozulmuştu, kaynak içeriğiyle yeniden yazıldı", "zaman": "2026-09-25T16:32:09"}
+{"id": "248c59c19dee17fc", "karar": "at", "neden": "cevap_supheli", "not": "Deride D vitamini (7-dehidrokolesterolden) sentezi esas olarak stratum bazale ve spinozumda olur; granüloza anahtarı tartışmalı, açıklama da D vitaminine değinmiyor", "zaman": "2026-09-25T16:32:09"}
+{"id": "dbdb3f4b6dc0a2ff", "karar": "duzelt", "siklar": {"A": "Gram (+) ve anaerob bakterilere etki yapmaz.", "B": "Serebrospinal sıvıya yeterli derişimde geçemez.", "C": "Parenteral yoldan kullanılır.", "D": "Böbrekler yoluyla elimine edilir.", "E": "Diğer beta-laktamlarla çapraz alerjiye girmez."}, "cevap": "B", "not": "A şıkkındaki OCR artığı (|) temizlendi", "zaman": "2026-09-25T16:32:09"}
+{"id": "2bfad8a9827a66d6", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "514100e37da9f943", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "f489fd775fd61c74", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "3169894024cba0a8", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "939d5b0ab83a9c16", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "1a163878c3fb0f3c", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "0dd5172c60189ad7", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "88155b19779c95bf", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "83a5914909638228", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "8da9b3998e0cbbab", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "3fe69165bcc4987c", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "45a1797c6812e53b", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "1ab0458909a59a44", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "1d31314bccb90276", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "f0e6fe9ba3a6cc7a", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "c1555d6a42559bdd", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "0a646666b57d0a14", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "ea8209305e91ef8e", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "0c9bd0dd7179dc3a", "karar": "ok", "zaman": "2026-09-25T16:32:09"}
+{"id": "85670dbc5e36adb0", "karar": "duzelt", "aciklama_paragraf": "7-", "not": "baştaki alakasız os temporale metni atıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "cd4290a6d24b7247", "karar": "duzelt", "govde": "HIV taşıyıcısı hastadan kan alırken eline iğne batan hemşire ya da sağlık personeli ne kadar süre ile profilaksi almalıdır?", "aciklama_paragraf": "1-", "not": "gövdedeki yapışık kelimeler ayrıldı, baştaki sınav yorumu atıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "b7b7d6fb6dab8c00", "karar": "duzelt", "siklar": {"A": "Nazogastrik ile besleme", "B": "Gastrostomi ile besleme", "C": "Jejunostomi ile besleme", "D": "Periferik venöz alimentasyon", "E": "Santral venöz alimentasyon"}, "cevap": "C", "aciklama_paragraf": 4, "not": "E şıkkına karışan açıklama metni ayıklandı, açıklama taşması kesildi", "zaman": "2026-09-25T16:33:01"}
+{"id": "6d251ddbfc5fb06e", "karar": "duzelt", "aciklama": "Obstrüktif müllerian ve ürogenital sinüs anomalilerinde (imperfore himen, transvers vajinal septum, kavitesi olan rudimenter uterin boynuz gibi) menstrüel kanın dışarı akışı engellenir. Bu durum retrograd menstrüasyonu artırarak endometriozis gelişimine zemin hazırlar. Bu nedenle bu anomalilere eşlik etme olasılığı en yüksek patoloji endometriozdur.", "not": "açıklama tubal ektopik gebelikle ilgili alakasız metindi, yeniden yazıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "d1560dc6113303ed", "karar": "duzelt", "aciklama_paragraf": 5, "not": "alakasız GIST paragrafları kesildi", "zaman": "2026-09-25T16:33:01"}
+{"id": "900a8635466f854b", "karar": "duzelt", "aciklama_paragraf": 1, "not": "şık tekrarı listesi ve alakasız cümle kesildi", "zaman": "2026-09-25T16:33:01"}
+{"id": "76a298dac08e32c0", "karar": "duzelt", "aciklama": "Karboksipeptidaz A ve B, pankreastan proenzim (prokarboksipeptidaz) olarak salgılanan ve tripsin ile aktive edilen ekzopeptidazlardır; peptid zincirinin karboksil ucundan amino asit koparırlar. Tripsin pankreas kaynaklı bir endopeptidaz, pepsin ise mide kaynaklı bir endopeptidazdır. Aminopeptidaz ve enterokinaz ince bağırsak mukozasından salgılanır.", "not": "açıklama keratinle ilgili alakasız metindi, yeniden yazıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "8931843bf56ff9fc", "karar": "duzelt", "aciklama": "Erken neonatal hipokalsemi (ilk 1-4 gün) annede diyabet, prematürite ve SGA gibi yetersiz kalsiyum depoları, perinatal asfiksi, alkaloz ve furosemid tedavisi ile ilişkilidir. Annede hiperparatiroidizm ise fetal paratiroid bezlerinin baskılanmasına bağlı olarak genellikle daha geç dönemde ortaya çıkan (geç) neonatal hipokalsemi nedenidir.", "not": "açıklama doğru şıkka değinmiyordu, eksik halka eklenerek yeniden yazıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "4cd5ae540fd3cab0", "karar": "at", "neden": "cevap_supheli", "not": "Piyojenik karaciğer apsesinin en sık nedeni çoğu kaynakta biliyer yol hastalığıdır; A ifadesi de yanlış olabilir, iki yanlış şık", "zaman": "2026-09-25T16:33:01"}
+{"id": "11a663a115376534", "karar": "at", "neden": "cevap_supheli", "not": "Anilin-mesane kanseri doğru eşleşme; yanlış olan kadmiyum-karaciğer (D). Açıklama alakasız (myc geni), anahtarı destekleyen metin yok", "zaman": "2026-09-25T16:33:01"}
+{"id": "667da90dcf6ce6ca", "karar": "at", "neden": "cevap_supheli", "not": "Kadın cinsiyet şizofrenide daha iyi prognozla ilişkilidir; cinsiyetin prognozu etkilemediği anahtarı tıbben yanlış", "zaman": "2026-09-25T16:33:01"}
+{"id": "e6a387f9c6daad4f", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "baştaki alakasız katekolamin paragrafı atıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "d74ffa0b67c0c07e", "karar": "at", "neden": "tekrar", "not": "88155b19779c95bf ile aynı soru (tip 1 mide ülseri patogenezi), aynı parçada", "zaman": "2026-09-25T16:33:01"}
+{"id": "36305e80fd55d3c5", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "baştaki alakasız mezenterik damar metni atıldı", "zaman": "2026-09-25T16:33:01"}
+{"id": "97aafbf176ca091a", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "9534bd54044b9e0d", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "df0061e7a2bae8c4", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "7e6ae424bf14c1ac", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "c1d041ec37d9a640", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "63c55ae59d759b77", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "f8c0a3f2a458df9b", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "236e84e3ce696cd8", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "26e0434ebce68b8d", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "2f49c9085620c778", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
+{"id": "62b745386dbfd332", "karar": "ok", "zaman": "2026-09-25T16:33:01"}
