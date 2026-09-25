@@ -973,3 +973,53 @@
 {"id": "d76510819fdbc894", "karar": "ok", "zaman": "2026-09-25T18:43:51"}
 {"id": "67f57fbaf64abf65", "karar": "ok", "zaman": "2026-09-25T18:43:51"}
 {"id": "8be1886a6b9a2720", "karar": "ok", "zaman": "2026-09-25T18:43:51"}
+{"id": "cb62cc56f2d2f841", "karar": "duzelt", "siklar": {"A": "Konvülsiyon - Lidokain", "B": "Methemoglobinemi - Prilokain", "C": "Kardiyak aritmi - Bupivakain", "D": "Allerjik reaksiyonlar - Prokain", "E": "Hipertansif kriz - Dibukain"}, "cevap": "E", "not": "esleme ayraclari duzeltildi", "zaman": "2026-09-25T18:44:15"}
+{"id": "c03cca252ea32a4b", "karar": "duzelt", "siklar": {"A": "Nötrofil sayısı 500/mm³'ün altında iken ateş 38.3°C ise febril nötropeni tanısı konur.", "B": "Febril nötropeni tanısı konan hastalarda kültür sonuçları beklenip antibiyotik ile tedaviye başlanmalıdır.", "C": "Febril nötropeni en ciddi onkolojik acillerden birisidir.", "D": "Nötropenik hastalarda inflamasyona ait klasik bulgular görülmeyebilir.", "E": "Kalıcı kateter takılı hastalarda nötropenik dönemlerde risk daha da artar."}, "cevap": "B", "not": "A sikkinda notrofil esigi OCR ile kaybolmustu, tanim geri kondu", "zaman": "2026-09-25T18:44:15"}
+{"id": "d04e56c5160dbb6a", "karar": "duzelt", "siklar": {"A": "Üç veya daha fazla ilaç ile kan basıncının 140/90 mmHg'nin üzerinde seyretmesidir.", "B": "Hasta diyetini yapmıyor olabilir.", "C": "Tanım için kombinasyonlarda mutlaka renin anjiyotensin aldosteron blokeri ajanlar olmalıdır.", "D": "Hastanın tedaviye uyumsuzluğu önemli bir nedendir.", "E": "Böbrek hastalığı ve primer hiperaldosteronizm gibi sekonder nedenler eşlik ediyor olabilir."}, "cevap": "C", "not": "A sikkinda 'Uc' OCR bozuk", "zaman": "2026-09-25T18:44:15"}
+{"id": "754d4d7a82640b62", "karar": "at", "neden": "cevap_supheli", "not": "urtiker (C) de papuloskuamoz hastalik degildir; iki sik dogru", "zaman": "2026-09-25T18:44:15"}
+{"id": "35960a5785bf6497", "karar": "duzelt", "aciklama_paragraf": "7-", "not": "kirmizi goz metni baska soruya ait", "zaman": "2026-09-25T18:44:15"}
+{"id": "059f2277378c9e77", "karar": "duzelt", "aciklama_paragraf": 2, "not": "yarim kalan liste kesildi", "zaman": "2026-09-25T18:44:15"}
+{"id": "acbaf31d9252750a", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "978f1ce04c2d4b55", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "c4a93f9422c89dbf", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "a7340f828bdb04a4", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "5070922acf179ba9", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "e85bba89abd80f7d", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "74a6452a2b3595a9", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "1efdb51104227498", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "4a235ab88e6d391f", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "9edc210be46afd03", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "51b0d6e63048f45c", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "a1ba690ebe7d7bc0", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "e056c9c96a24699b", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "453be304feb3cbb7", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "083d7f9cf416b62e", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "7e2103be2ff27132", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "1112dd6b6796a9c6", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "fcf8f1eeb493b510", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "e4793a75bd9348ff", "karar": "ok", "zaman": "2026-09-25T18:44:16"}
+{"id": "cbdce22533eb8d69", "karar": "duzelt", "aciklama_paragraf": 2, "not": "yarim kalan baslik kesildi", "zaman": "2026-09-25T18:44:31"}
+{"id": "eeaf5b79201e51aa", "karar": "duzelt", "aciklama_paragraf": 3, "not": "bozuk uzun tablo kesildi", "zaman": "2026-09-25T18:44:31"}
+{"id": "2d8a4d01de466f8d", "karar": "duzelt", "aciklama_paragraf": 2, "not": "bozuk risk tablosu kesildi", "zaman": "2026-09-25T18:44:31"}
+{"id": "57602cbb47688162", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "a4b5ec243ff0d0bf", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "d13f235864a774a5", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "5b8d85cbd6905756", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "d3de7d861e9b7536", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "5d9f1e586152f1d4", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "c144bbd5d016f270", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "9e3fe3d17c6539f8", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "b5b511f345191155", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "d05b306781d90eba", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "f18c262ab3453920", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "165d20ed34a8cebe", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "eb09ea77b2a55ba3", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "d60e5ad68e4a972b", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "6d9eefa3e20be95e", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "62b9c46100457db8", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "6d2679513b6a5570", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "a295bc00ae8e35e7", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "2e7912c69c1c3ed4", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "0a607765b68c9928", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "7583067be393f97a", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "4e73afc9e89cf2bb", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
