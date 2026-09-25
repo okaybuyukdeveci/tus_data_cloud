@@ -1048,3 +1048,53 @@
 {"id": "39294a8fe183a51d", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
 {"id": "6dfd6dc164550e5e", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
 {"id": "b04cb778d50e85b3", "karar": "ok", "zaman": "2026-09-25T20:22:18"}
+{"id": "dd04f2b8554af395", "karar": "duzelt", "siklar": {"A": "Seroloji", "B": "Üre nefes testi", "C": "Hızlı üreaz testi", "D": "Kültür", "E": "Dışkıda antijen testi"}, "cevap": "B", "aciklama_paragraf": "8-", "not": "D sikki OCR; aciklamaya asit patogenezi karismis, kesildi", "zaman": "2026-09-25T20:22:57"}
+{"id": "a622b68973fbd6e1", "karar": "duzelt", "aciklama": "İnterlökin-13 T lenfositlerden salgılanan ve pek çok açıdan interlökin-4'e benzeyen bir sitokindir. Makrofajlarda nitrik oksit ve proinflamatuvar sitokin sentezini inhibe edebilir. İnterlökin-13'ün net etkisi, interlökin-4 ve interlökin-10 ile birlikte antiinflamatuvar yöndedir.", "not": "aciklamada IL-13 yerine IL-1 yazilmis ve OCR bozuk, duzeltildi", "zaman": "2026-09-25T20:22:57"}
+{"id": "75da32ae290caeb3", "karar": "duzelt", "aciklama": "İnternal hemoroidler prolapsus derecesine göre dört dereceye ayrılır. Birinci derece hemoroidler anal kanaldan dışarı çıkmaz. İkinci derece hemoroidler defekasyon sırasında dışarı prolabe olur ancak kendiliğinden redükte olur. Üçüncü derece hemoroidler prolabe olur ve ancak elle itilerek redükte edilebilir. Dördüncü derece hemoroidler ise sürekli dışarıdadır ve redükte edilemez.", "not": "aciklama siniflamayi icermiyordu, yeniden yazildi", "zaman": "2026-09-25T20:22:57"}
+{"id": "a1164de45f433523", "karar": "duzelt", "govde": "Ateş, iştahsızlık ve sağ yan ağrısı yakınmalarıyla başvuran 20 yaşında bir erkek hastanın plevra sıvısı incelemesinde ADA düzeyi 72 U/L bulunmuştur. Laboratuar incelemelerinde eritrosit sedimentasyon hızı 74 mm/saat, lökosit sayısı 11.000/mm3 ve serum ADA düzeyi 15 U/L olarak saptanmıştır. / Bu hasta için en olası tanı aşağıdakilerden hangisidir?", "not": "govde OCR", "zaman": "2026-09-25T20:22:57"}
+{"id": "cede5b45abd408db", "karar": "duzelt", "aciklama": "Ara filamanlar hücre iskeletinde bulunan yaklaşık 10 nm kalınlığında protein iplikleridir ve hücre tipine özgü oldukları için tümörlerin kökenini belirlemede kullanılırlar. Sitokeratinler epitel hücrelerinde (karsinomlarda), vimentin mezenkimal kökenli hücrelerde (sarkomlarda), desmin iskelet ve düz kasta bulunur. Glial fibriler asidik protein (GFAP) astrositlerde ve Schwann hücrelerinde, periferin periferik sinir sistemi nöronlarında, nörofilamanlar akson ve dendritlerde bulunur. Nükleer laminler çekirdek zarının iç yüzünde, nestin ise santral sinir sistemi kök hücrelerinde bulunur.", "not": "aciklamadaki tablo OCR ile bozuk, yeniden yazildi", "zaman": "2026-09-25T20:22:57"}
+{"id": "4da24c90a05f724e", "karar": "duzelt", "govde": "Sol over kitlesi nedeniyle ooferektomi yapılan 43 yaşındaki hastada kitlenin patolojisinde fibröz stromal alanda yer yer transisyonel epitel kümeleri izleniyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T20:22:57"}
+{"id": "8bb7b3f48483566f", "karar": "duzelt", "govde": "Yetmiş yaşında kadın hastada halsizlik, kilo kaybı ve omuz-kalça eklemlerinde yoğun sabah tutukluğu yakınmaları mevcut. Hgb 10 g/dl, sedimantasyon 96 mm/saat, CRP 88 mg/dl olarak bulunuyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde OCR (109/d|)", "zaman": "2026-09-25T20:22:57"}
+{"id": "887a076168eff862", "karar": "duzelt", "siklar": {"A": "Hava eneması", "B": "Hidrostatik (salin) enema", "C": "Hidrostatik (baryum) enema", "D": "Hidrostatik (suda çözünen kontrast) enema", "E": "Ultrasonografi"}, "cevap": "E", "not": "E sikki OCR", "zaman": "2026-09-25T20:22:57"}
+{"id": "b149eeef85e53012", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "d99f2ae0b7848319", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "c4c8939fcc1f84a0", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "82de7e61db76589e", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "6fac3f32191958d0", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "7f38492c5fcc5ed5", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "1f8997b4dd2d3740", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "510027d85b2720b5", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "a78fb8d049c45ecf", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "6f2356c7096c338a", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "422aff7593293e64", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "b7606fec554855c5", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "7cf49c6e9f1364dd", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "0418a8b4ff1a5555", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "1d271b33ba9003f8", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "537ea17a11c16b15", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "6362521b60a7eabe", "karar": "ok", "zaman": "2026-09-25T20:22:57"}
+{"id": "7dedd34d9842d7a8", "karar": "duzelt", "aciklama_paragraf": 4, "not": "uzun ilgisiz sitokin tablosu kesildi", "zaman": "2026-09-25T20:23:26"}
+{"id": "150fc2de77ae40f3", "karar": "duzelt", "aciklama_paragraf": 2, "not": "OCR bozuk tablo kesildi", "zaman": "2026-09-25T20:23:26"}
+{"id": "9d1c50319a7ac5bf", "karar": "at", "neden": "cevap_supheli", "not": "agiz kurulugunda aciklamaya gore antikolinesteraz degil pilokarpin (direkt agonist) kullanilir; B de dogru olabilir", "zaman": "2026-09-25T20:23:26"}
+{"id": "6397a59ec0ef55e4", "karar": "duzelt", "aciklama_paragraf": 2, "not": "sondaki kopuk baslik kesildi", "zaman": "2026-09-25T20:23:26"}
+{"id": "15a57cfbee0693c8", "karar": "duzelt", "siklar": {"A": "Üst motor nöronlar", "B": "Alt motor nöronlar", "C": "Şuurlu proprioseptif duyuya ait 1. nöronlar", "D": "Ağrı duyusuna ait 2. nöronlar", "E": "Hafif temas duyusuna ait 1. nöronlar"}, "cevap": "C", "not": "C sikkinda tekrar eden kelime", "zaman": "2026-09-25T20:23:26"}
+{"id": "2195018d046f159d", "karar": "duzelt", "aciklama_paragraf": 2, "not": "sondaki bos tablo basligi kesildi", "zaman": "2026-09-25T20:23:26"}
+{"id": "e31dba4b200f1cef", "karar": "duzelt", "govde": "Anne sütünün inek sütüyle kıyaslandığında aşağıdaki özelliklerinden hangisi, anne sütünde kalsiyum emiliminin daha iyi olmasının nedenlerinden biri değildir?", "not": "govde OCR (2α+2 -> Ca+2)", "zaman": "2026-09-25T20:23:26"}
+{"id": "e4587e7a3e6d0040", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "2e9d6efa6cfcb86a", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "5740193f6795e83f", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "fca74bc05f944e45", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "af9cc4c499eed361", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "facab83b6b5dd6e8", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "8d05fa1fe6522792", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "8d404c87d7f60caf", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "4519884bf30e2fa1", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "0316987f08133114", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "d8f75e32c0891f81", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "2ce26b40ede48c14", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "cf8071edd089d21d", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "ef6242abfb095b19", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "188e39b8810c27bc", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "1b774a188e256c37", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "250c8903240f0407", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "65cc89446a3704e2", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
