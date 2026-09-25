@@ -1798,3 +1798,53 @@
 {"id": "b9fcdba35b6fa7ce", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
 {"id": "a9d6cc413730a8c4", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
 {"id": "9f0b7a560e04eecb", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "bf98c8dccccfda9f", "karar": "at", "neden": "soru_bozuk", "not": "Siklarin hicbiri omega-3 yag asidi degil (anahtar D palmitoleik asit omega-7); kitabin aciklamasi alfa-linolenik asidi omega-3 olarak gosteriyor, dogru sik kaybolmus", "zaman": "2026-09-25T19:00:19"}
+{"id": "06d642247b1620a9", "karar": "duzelt", "siklar": {"A": "B6 vitamini", "B": "B12 vitamini", "C": "Folik asit", "D": "E vitamini", "E": "B1 vitamini"}, "cevap": "B", "aciklama_paragraf": 13, "not": "Siklarda bitisik ve bozuk vitamin adlari duzeltildi; bolum basligi artigi kesildi", "zaman": "2026-09-25T19:00:19"}
+{"id": "c9cedc9ef45519f7", "karar": "duzelt", "govde": "Aşağıdaki steroid hormonlardan hangisi, böbreklerden K+ ve H+ atılımı ile tübül hücresinde Na+ geri emilimini en çok artırır?", "not": "Govdede bozuk iyon simgeleri duzeltildi", "zaman": "2026-09-25T19:00:19"}
+{"id": "fdc6683d5fddc186", "karar": "duzelt", "aciklama_paragraf": 1, "not": "Bolum basligi artigi kesildi", "zaman": "2026-09-25T19:00:19"}
+{"id": "f5405f75236b05c5", "karar": "duzelt", "siklar": {"A": "Neksin", "B": "Konneksin", "C": "Konnekson", "D": "Işınsal kol", "E": "Merkezi kılıf"}, "cevap": "A", "aciklama": "Silyum ve flagellumun aksonemi, merkezde bir çift tekli mikrotübül ile çevrede dokuz çift (dublet) mikrotübülden oluşan 9+2 düzenine sahiptir. Periferdeki komşu mikrotübül çiftlerini birbirine bağlayan elastik protein köprüsüne neksin denir. Dineinden oluşan kollar dubletlerin birbiri üzerinde kaymasını sağlar; neksin köprüleri bu kaymayı sınırlayarak hareketin kıvrılma (bükülme) hareketine dönüşmesini sağlar. Işınsal kollar (radial spokes) periferik çiftleri merkezi kılıfa bağlar. Konneksin ve konnekson ise aralıklı bağlantıların (gap junction) yapı birimleridir.", "not": "Aciklama membran potansiyeline aitti (baska soru), yeniden yazildi; D sikkinda OCR hatasi duzeltildi", "zaman": "2026-09-25T19:00:19"}
+{"id": "1f915631acb858f7", "karar": "duzelt", "siklar": {"A": "Kontraksiyon stres testi", "B": "Fetal tonus", "C": "Fetal solunum", "D": "Amniyon sıvı miktarı", "E": "Fetal hareketler"}, "cevap": "A", "aciklama": "Biyofizik profil, fetal iyilik halini değerlendirmek için ultrasonografi ve kardiyotokografiyle incelenen beş parametreden oluşur: nonstres test (reaktivite), fetal solunum hareketleri, fetal vücut hareketleri, fetal tonus ve amniyon sıvı miktarı. Her parametre 0 veya 2 puan alır ve toplam puan 8-10 ise normal kabul edilir. Kontraksiyon stres testi, uterus kasılmalarına fetal kalp hızının yanıtını değerlendiren ayrı bir antenatal testtir ve biyofizik profilin parametrelerinden biri değildir.", "not": "Aciklama serviks patolojisine aitti (baska soru), yeniden yazildi; B sikkinda OCR hatasi duzeltildi", "zaman": "2026-09-25T19:00:19"}
+{"id": "b8f91b5104e0ebe7", "karar": "at", "neden": "cevap_supheli", "not": "Anahtar B (n. mandibularis); ancak n. petrosus minor ve a. maxillaris de fossa cranii media'dan fossa pterygopalatina'ya gecmez, birden fazla dogru sik var", "zaman": "2026-09-25T19:00:19"}
+{"id": "f009d39d8fc6a17f", "karar": "duzelt", "cevap": "B", "not": "Kitabin aciklamasi m. obliquus superior'un n. trochlearis ile uyarildigini soyluyor; anahtar C (obliquus inferior, n. oculomotorius ile uyarilir) aciklamayla celisiyor, B yapildi", "zaman": "2026-09-25T19:00:19"}
+{"id": "757573c6833cc0df", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "e70d4d5880ed9c8b", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "380d97f8d250dfbf", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "e431be2b63e08398", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "4e4ea783dc5b4261", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "f065f300b304513a", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "2ef7aab46f3222bd", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "97e88b547033f749", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "05d2355a8ca283fc", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "a98e4bd86c05ed0a", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "c63a59ebe581a187", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "1893a7ff834a7a8b", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "c8849d334a24ed51", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "c0865a73ae975e70", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "72565cda10d5c5ca", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "cee06a53a3d01037", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "60367e7e37f55c91", "karar": "ok", "zaman": "2026-09-25T19:00:19"}
+{"id": "9bdabc39306e12b0", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Yayinevi adi artigi kesildi", "zaman": "2026-09-25T19:00:45"}
+{"id": "3393de8c707c8cf5", "karar": "at", "neden": "cevap_supheli", "not": "Anahtar C (n. gluteus superior) dogru; ancak n. cutaneus femoris lateralis (A) de foramen infrapiriforme'den gecmez (lig. inguinale altindan gecer), iki dogru sik var", "zaman": "2026-09-25T19:00:45"}
+{"id": "5368f35415479afd", "karar": "duzelt", "aciklama_paragraf": "1-4", "not": "Kesik ilk parca ve yumusak doku tumoru tablosu (baska soru) kesildi", "zaman": "2026-09-25T19:00:45"}
+{"id": "b4b381cb3d01e7d8", "karar": "duzelt", "aciklama_paragraf": "18-", "not": "Basit difuzyon ve hem yikimi ozet metni baska soruya ait; yalnizca CO'yu aciklayan son paragraf tutuldu", "zaman": "2026-09-25T19:00:45"}
+{"id": "d33d594b66d95555", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "Bos baslik satirlari kesildi", "zaman": "2026-09-25T19:00:45"}
+{"id": "04c488a71345f584", "karar": "duzelt", "govde": "Eritropoietik faktörün sentezlendiği esas yer aşağıdakilerden hangisidir?", "not": "Govdedeki tire bolunmesi duzeltildi", "zaman": "2026-09-25T19:00:45"}
+{"id": "2405cbfc0ea4bf96", "karar": "duzelt", "govde": "Hafif solukluk yakınması ile getirilen 3.5 yaşında bir kız çocuğun kan sayımında eritrosit sayısı 5.8 × 10^12/L, lökosit sayısı 8.2 × 10^9/L, hemoglobin düzeyi 9.8 g/dL, MCV 64 fL, MCH 20.6 pg ve RDW %13 olarak bulunuyor. Periferik yaymada eritrositler hipokrom mikrositer yapıda olarak değerlendiriliyor. / Bu çocuk için en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "β-talasemi minör", "B": "Demir eksikliği anemisi", "C": "Hemoglobin H hastalığı", "D": "Kronik hastalık anemisi", "E": "Orak hücreli anemi taşıyıcılığı"}, "cevap": "A", "not": "Govdede bozuk sayi/birim ve tire bolunmesi, A sikkinda fazla isaret duzeltildi", "zaman": "2026-09-25T19:00:45"}
+{"id": "ac07fe8e33217fe2", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Yarim baslik satiri kesildi", "zaman": "2026-09-25T19:00:45"}
+{"id": "c9fe6b9888b5e886", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "5fb2c31eaf99f406", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "b3166c07164e43e3", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "707ddd7850d8a20b", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "f4e7293949176f57", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "9c61de9651405bd8", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "308d0069ed233847", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "f7077ece95ee7d86", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "99fdf950f5a2b8f8", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "faaf431376ead559", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "200807f6bd63952e", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "bbb911ae4cbb7716", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "82b7c484f6bdb6dc", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "283836a475741736", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "4b6155864f50cbd3", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "694267e7808500c9", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
+{"id": "3f440cec25b3aaca", "karar": "ok", "zaman": "2026-09-25T19:00:45"}
