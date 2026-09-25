@@ -1148,3 +1148,103 @@
 {"id": "03ca51e248a8ed85", "karar": "ok", "zaman": "2026-09-25T18:47:22"}
 {"id": "e2d37b94fd61589a", "karar": "ok", "zaman": "2026-09-25T18:47:22"}
 {"id": "28f55c253821ff54", "karar": "ok", "zaman": "2026-09-25T18:47:22"}
+{"id": "12523cec8a08c938", "karar": "duzelt", "aciklama_paragraf": 2, "not": "Hipofiz paragraflari baska soruya ait, kesildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "d3b4d4252f9af1fd", "karar": "duzelt", "govde": "Foliküler tiroid karsinomu ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?", "not": "Govdede OCR hatasi (Toliküler troid) duzeltildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "8e44b56b96b16cbe", "karar": "duzelt", "siklar": {"A": "Yalnız I", "B": "I ve II", "C": "I, II ve III", "D": "Yalnız II", "E": "II ve III"}, "cevap": "B", "not": "C sikkinda OCR hatasi duzeltildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "8ddfa658f9448964", "karar": "duzelt", "siklar": {"A": "Escherichia coli sepsisi", "B": "Hipoglisemi", "C": "Katarakt", "D": "İşitme kaybı", "E": "Mental gerilik"}, "cevap": "D", "not": "D sikkinda kesik kelime duzeltildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "6050b1ee82cdd4bc", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Kesik ilk paragraf atildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "7429f7e199c4078a", "karar": "duzelt", "aciklama": "Levonorgestrel salınımlı rahim içi araç günde yaklaşık 20 μg levonorgestrel salgılar ve etkisini büyük ölçüde lokal olarak gösterir. Servikal mukusu koyulaştırır, endometriumu baskılar ve tubal motiliteyi azaltır; bazı sikluslarda LH piki baskılanarak ovulasyon da engellenebilir. Kombine oral kontraseptifler ise hipotalamus-hipofiz ekseni üzerinden hem FSH hem LH salınımını baskılayarak ovulasyonu inhibe eder, ayrıca servikal mukusu koyulaştırır, endometriumu baskılar ve tubal motiliteyi azaltır. LNG-RİA ile belirgin FSH inhibisyonu oluşmaz; bu nedenle FSH inhibisyonu iki yöntem için ortak olmayan özelliktir.", "not": "Aciklama yarim kalmisti (KOK kismi eksik), yeniden yazildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "289dcb670a4ca98b", "karar": "duzelt", "aciklama": "Akromegali, epifiz plakları kapandıktan sonra büyüme hormonunun aşırı salınımı ve buna bağlı IGF-1 (somatomedin C) artışıyla ortaya çıkar; nedeni hemen daima hipofiz adenomudur. Yumuşak doku ve kemik büyümesi, el-ayak ve yüz hatlarında kabalaşma, visseromegali görülür. Kardiyomegali, hipertansiyon ve konjestif kalp yetmezliği önemli morbidite ve mortalite nedenleridir. Artropati ile yumuşak doku artışına bağlı karpal tünel sendromu sıktır. Ter bezlerinin hipertrofisi nedeniyle terleme artar (hiperhidrozis) ve cilt yağlı olur; bu nedenle terlemede azalma akromegalide beklenmez.", "not": "Aciklama kesikti ve Behcet metni karismisti, yeniden yazildi", "zaman": "2026-09-25T18:48:01"}
+{"id": "551720fe2fc5750d", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "a75d3c4e8d8a14b2", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "445cf7625e91ca98", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "fdd66bb0fc0dcda5", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "a9fc10d1bfe0f96d", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "f81b7c512edf60bb", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "607e5aaa2b6915c3", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "3c1bcca6ad8c9ad9", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "c51b0e0f910e717e", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "fc1039935b06bdd1", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "1c48785991f486ff", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "c2e6438bfe6667ba", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "5b96653251232cb1", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "cca5093378fc8316", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "b4b1a54c79472e5e", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "7a19d4df9e60736b", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "95192a484ce0fe69", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "ce0b6fda555effe7", "karar": "ok", "zaman": "2026-09-25T18:48:02"}
+{"id": "4e49bb3cba578d71", "karar": "duzelt", "aciklama_paragraf": "4-", "not": "Spinal kord paragraflari baska soruya ait, kesildi", "zaman": "2026-09-25T18:48:22"}
+{"id": "b40fc831b6ac8d6d", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "Kesik ilk parca atildi", "zaman": "2026-09-25T18:48:22"}
+{"id": "3283cd824195a76b", "karar": "duzelt", "siklar": {"A": "Dobutamin", "B": "Karvedilol", "C": "Aliskiren", "D": "Kaptopril", "E": "Verapamil"}, "cevap": "E", "not": "A ve C siklarinda OCR harf hatasi duzeltildi", "zaman": "2026-09-25T18:48:22"}
+{"id": "ee11df4f958204ff", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi çocuklarda görülen gastroözefageal reflü bulgularından değildir?", "siklar": {"A": "İshal", "B": "Disfaji", "C": "Hışıltı", "D": "Öksürük", "E": "Apne"}, "cevap": "A", "not": "Govdede kayip fl harfleri ve B sikki duzeltildi", "zaman": "2026-09-25T18:48:22"}
+{"id": "4daba837bd19b04a", "karar": "duzelt", "aciklama": "Hemodinamik olarak stabil ve periton irritasyon bulgusu olmayan penetran karın yaralanmalarında seçici nonoperatif yaklaşım uygulanabilir. Sağ üst kadran yaralanmalarında karaciğer en sık etkilenen organdır ve karaciğer yaralanmalarının çoğu cerrahi girişim gerektirmeden izlenebilir. Bu hastalarda ilk yapılması gereken, organ yaralanmasının varlığını ve derecesini ortaya koyan kontrastlı karın bilgisayarlı tomografisidir. Hemodinamik instabilite veya peritonit bulguları varsa doğrudan laparotomi yapılır.", "not": "Aciklama sadece yorum cumlesiydi, yeniden yazildi", "zaman": "2026-09-25T18:48:22"}
+{"id": "debd5b1f55f39a63", "karar": "duzelt", "siklar": {"A": "Operon", "B": "Operatör", "C": "Represör", "D": "İndükleyici", "E": "Transkripsiyon"}, "cevap": "A", "not": "D sikkinda eksik harf duzeltildi", "zaman": "2026-09-25T18:48:22"}
+{"id": "fdd4b1993351481e", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "9623515692292e35", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "dc8c82fd7969a1fc", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "25e6766c4664fcee", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "d3cdbd95255c5a12", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "500c0dc31a875575", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "95c0048cefc147c4", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "45bc05e2450bcc47", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "8c54b7dd1199cc39", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "451c7b50f449d7b6", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "3157dbc153dcd091", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "b13031a190bf809d", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "79b243dbff001377", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "21f6d07479582951", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "29d0f31eec8c651e", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "e74239fc0fc7094c", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "4b6e60756ca91a32", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "8ef3757fd8a95230", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "ada26c94d0d26ed9", "karar": "ok", "zaman": "2026-09-25T18:48:22"}
+{"id": "48c7bdd39fd7e98e", "karar": "duzelt", "siklar": {"A": "Seröz perikardit", "B": "Fibröz perikardit", "C": "Serofibrinöz perikardit", "D": "Şilöz perikardit", "E": "Konstriktif perikardit"}, "cevap": "E", "not": "C sikkinda eksik harf duzeltildi", "zaman": "2026-09-25T18:48:47"}
+{"id": "097e11ed15eba0ad", "karar": "duzelt", "aciklama_paragraf": 4, "not": "Fakomatoz tablosu baska soruya ait, kesildi", "zaman": "2026-09-25T18:48:47"}
+{"id": "8d5d8383a66e789b", "karar": "duzelt", "siklar": {"A": "Lizozomal membranları stabilize eder.", "B": "Kapiller permeabiliteyi azaltır.", "C": "Lökositlerin inflamasyon alanına göçünü azaltır.", "D": "İnterlökin-1'in lökositlerden serbestlemesini azaltarak ateşi düşürür.", "E": "İmmün cevabı uyarır, özellikle T lenfosit yapımını belirgin olarak artırır."}, "cevap": "E", "aciklama": "Stres ve inflamasyon durumlarında artan kortizol güçlü antiinflamatuvar ve immünsüpresif etkiler gösterir. Lizozomal membranları stabilize ederek proteolitik enzimlerin salınımını azaltır ve kapiller permeabiliteyi düşürerek ödem oluşumunu sınırlar. Lökositlerin inflamasyon alanına göçünü ve fagositozunu azaltır; lökositlerden interlökin-1 salınımını baskılayarak ateşi düşürür. Kortizol immün yanıtı uyarmaz, aksine lenfoid dokuyu küçülterek T lenfosit yapımını ve antikor oluşumunu azaltır.", "not": "Aciklama sadece baslikti, yeniden yazildi; siklarda OCR hatalari duzeltildi", "zaman": "2026-09-25T18:48:47"}
+{"id": "1983bba6cd483daf", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "3b0cb62151925200", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "66a7c9520d5f5f09", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "7e6378ecb3f7ae61", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "ff661f2a87054cdb", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "305cbf54647d8b4c", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "c5ef4660b040f90a", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "f49f9c6f5e9f4eaa", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "ca9434a507968d1b", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "a891a245df440b02", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "d5ce31480825d400", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "5bcbe90a4e0d8c53", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "69bb338bef86c2d8", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "6a1cf7ec26d145d0", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "ef9e4bbc70e68f94", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "7f0a49762eca1659", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "36781f7f46f3d69d", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "6cfda685c5012855", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "de5bb2f31db18592", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "f19fdeada3b7d98b", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "f18a8791bfe4144f", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "858e2f478bfee087", "karar": "ok", "zaman": "2026-09-25T18:48:47"}
+{"id": "d6435b531a112a77", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi ksantin oksidazı inhibe ettiği için gut tedavisinde faydalıdır?", "not": "Govde sonundaki madde isareti artiklari temizlendi", "zaman": "2026-09-25T18:49:15"}
+{"id": "f930c8712ca2ec23", "karar": "duzelt", "aciklama": "Akciğer grafisinde havanın arttığı alanlar radyolüsen (siyah), sıvı ve yumuşak doku yoğunluğunun arttığı alanlar ise radyoopak (beyaz) görülür. Pnömotoraksta plevral boşlukta serbest hava bulunduğundan ilgili hemitoraksta akciğer damar izlerinin görülmediği hiperlüsen bir alan izlenir ve visseral plevra çizgisi seçilebilir. Plevral efüzyon, pnömoni, atelektazi ve kitle ise sıvı veya doku yoğunluğunu artırdığından opasite artışına neden olur.", "not": "Aciklama genel ve kesikti, yeniden yazildi", "zaman": "2026-09-25T18:49:15"}
+{"id": "10d0ec45b2c4ad19", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi majör yaralanma geçiren bir kişide gelişen immünolojik değişikliklerden biri değildir?", "not": "Govde sonundaki madde isareti artigi temizlendi", "zaman": "2026-09-25T18:49:15"}
+{"id": "77164862083b3a34", "karar": "duzelt", "aciklama": "Primer sifilizin lezyonu olan sert şankr genellikle tek, ağrısız, sert (endüre) kenarlı ve temiz, düzgün tabanlı bir ülserdir. Şankroidde ülser ağrılı, yumuşak kenarlı, tabanı kirli ve düzensizdir; bölgesel lenfadenopati ağrılı olup süpüre olabilir. Herpes genitaliste eritemli zemin üzerinde grup halinde ağrılı veziküller ve yüzeyel erozyonlar görülür. Lenfogranüloma venereum ve granüloma inguinalede ise ülser geçici ya da granülasyon dokusundan zengin, kırmızı ve kolay kanayan yapıdadır. Tek, ağrısız, sert kenarlı ve düzgün tabanlı ülser en olası olarak sifilizi düşündürür.", "not": "Aciklama sadece yorum cumlesiydi, yeniden yazildi", "zaman": "2026-09-25T18:49:15"}
+{"id": "1e4dcb79672f760c", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi fovea radialis'i sınırlayan kaslardan biridir?", "not": "Govdeye karisan kalca eklemi ligament metni temizlendi", "zaman": "2026-09-25T18:49:15"}
+{"id": "1f275d63f642d128", "karar": "duzelt", "aciklama_paragraf": 3, "not": "Ekzositoz/endositoz metni baska soruya ait, kesildi", "zaman": "2026-09-25T18:49:15"}
+{"id": "5df94d71f390b79f", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "4ddb63ba683ec210", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "b103f9c2bfa34108", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "093350e37caa17fb", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "c4ddec9b208130b3", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "59f87551fad8d54b", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "1571041bc3c77fde", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "08817c372670ba8d", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "61622af900abd571", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "5720d2aeb1c2ffaa", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "17e3fc3edf285d1b", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "202f204c1735edb7", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "ef2ca98ab4ec95e4", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "2d3d047734b80cad", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "27b5d438c0b5f1b9", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "27cee1ac6461be64", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "691241ffe98ade47", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "b73d04226542ae52", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
+{"id": "9d94eaa0d81a818c", "karar": "ok", "zaman": "2026-09-25T18:49:15"}
