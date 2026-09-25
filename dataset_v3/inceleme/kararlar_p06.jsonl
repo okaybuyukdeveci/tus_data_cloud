@@ -798,3 +798,53 @@
 {"id": "cd5f6ff983aa34f7", "karar": "ok", "zaman": "2026-09-25T19:53:17"}
 {"id": "86d1ce8c70042268", "karar": "ok", "zaman": "2026-09-25T19:53:17"}
 {"id": "e39b0c131933c23b", "karar": "ok", "zaman": "2026-09-25T19:53:17"}
+{"id": "65ddeac9aaf48030", "karar": "duzelt", "govde": "Acil servise çarpıntı, halsizlik, yorgunluk ve nefes darlığı şikâyetleri ile başvuran 56 yaşında erkek hastanın daha önceden koroner arter hastalığı ve tip 2 diyabeti olduğu biliniyor. Kan basıncı 70/40 mmHg olan hastanın elektrokardiyografisinde düzenli, geniş QRS'li taşikardi saptanıyor. / Hastanın tedavisinde ilk tercih edilmesi gereken yaklaşım aşağıdakilerden hangisi olmalıdır?", "not": "eksik EKG gorseli yerine aciklamadaki EKG tanimi govdeye eklendi", "zaman": "2026-09-25T19:53:51"}
+{"id": "69b26a5f289322da", "karar": "duzelt", "siklar": {"A": "Atriyal septal defekt", "B": "Pulmoner stenoz", "C": "Ventriküler septal defekt", "D": "Patent duktus arteriyozus", "E": "Endokardiyal yastık defekti"}, "cevap": "B", "not": "sik yazim", "zaman": "2026-09-25T19:53:51"}
+{"id": "8dd92dd13c2fdb9d", "karar": "duzelt", "siklar": {"A": "Mide sıvısı", "B": "İnce bağırsak sıvısı", "C": "Tükürük", "D": "Safra", "E": "Pankreas sıvısı"}, "cevap": "E", "not": "sik buyuk harf OCR", "zaman": "2026-09-25T19:53:51"}
+{"id": "fd6965ce4b71adce", "karar": "duzelt", "aciklama_paragraf": 4, "not": "baska soruya ait kirik/osteoporoz bolumu kesildi", "zaman": "2026-09-25T19:53:51"}
+{"id": "2bb4e3e6a859a805", "karar": "duzelt", "siklar": {"A": "Östrojen çekilme kanaması", "B": "Progesteron çekilme kanaması", "C": "Östrojen kırılma kanaması", "D": "Progesteron kırılma kanaması", "E": "Atrofi kanaması"}, "cevap": "C", "aciklama_paragraf": 2, "not": "A yazim; bos kalan liste basligi kesildi", "zaman": "2026-09-25T19:53:51"}
+{"id": "5d84a8d304cd41da", "karar": "duzelt", "govde": "Aşağıdaki mantarlardan hangisi/hangileri primer patojen özellik gösterir? / I- Histoplasma capsulatum II- Candida albicans III- Cryptococcus neoformans IV- Sporothrix schenckii", "siklar": {"A": "Sadece I", "B": "I, II ve IV", "C": "I, II ve III", "D": "I ve IV", "E": "Sadece IV"}, "cevap": "D", "not": "roma rakamlari OCR duzeltildi", "zaman": "2026-09-25T19:53:51"}
+{"id": "3ba90a6297a64a6c", "karar": "duzelt", "aciklama_paragraf": 1, "not": "bos kalan baslik kesildi", "zaman": "2026-09-25T19:53:51"}
+{"id": "1bd1f4607c5cfc4a", "karar": "duzelt", "aciklama_paragraf": 1, "not": "yarim kalan liste kesildi", "zaman": "2026-09-25T19:53:51"}
+{"id": "dbba9f5218f5d839", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "e3166c988ae43ded", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "16b68b6d7a1c2c94", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "7cb45af121f94f52", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "688b9ca78c3acfcb", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "6b7184f715aeab60", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "0cb7827bb006cb60", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "3597f54f45b0094a", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "478b7bfdde3d3680", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "5b82093d4facd473", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "8aebbc24930688fd", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "c260accd1320f882", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "2fc9abae1d4bae10", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "3375928a6c712b60", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "09c2e33f5a0c9312", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "09d2801f5d7c14c6", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "0ec7a4ba2f6d93c9", "karar": "ok", "zaman": "2026-09-25T19:53:51"}
+{"id": "4d7068b8bb8784e4", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi rektal prolapsus için risk faktörlerinden biri değildir?", "not": "govde baska soruya aitti; siklar ve aciklamaya uygun govde yazildi", "zaman": "2026-09-25T19:54:29"}
+{"id": "162411ffcb502d43", "karar": "duzelt", "siklar": {"A": "Kaspaz", "B": "Peroksidaz", "C": "Glukoz-6-fosfataz", "D": "Glikozil transferaz", "E": "Katalaz"}, "cevap": "A", "not": "C sikki kesik", "zaman": "2026-09-25T19:54:29"}
+{"id": "861055543a0d3ecb", "karar": "duzelt", "siklar": {"A": "A=G; C=T", "B": "A=T; G=C", "C": "A=C; G=T", "D": "G=C; A=C", "E": "A=U; G=C"}, "cevap": "B", "not": "E sikki OCR", "zaman": "2026-09-25T19:54:29"}
+{"id": "4a5a4403d03cee33", "karar": "duzelt", "aciklama": "Mide karsinomunda 5 yıllık sağkalım, tümörün invazyon derinliği ve lenf nodu tutulumu ile doğrudan ilişkilidir. Mukoza ve submukoza ile sınırlı tümörler, lenf nodu tutulumundan bağımsız olarak erken mide kanseri olarak adlandırılır ve prognozu iyidir. Tümörün muskülaris propriayı invaze etmesi ileri (advanced) mide kanseri anlamına gelir ve prognozun kötü olacağını gösteren en önemli bulgudur. Muskülaris mukoza mukozanın bir parçası iken muskülaris propria mide duvarının asıl kas tabakasıdır; bu ayrım önemlidir.", "not": "baska soruya ait akciger tumoru paragraflari iceren aciklama yeniden yazildi", "zaman": "2026-09-25T19:54:29"}
+{"id": "9aae7a7eb2f981fa", "karar": "duzelt", "govde": "Tekrarlayan nefrolitiazis nedeni ile değerlendirilen hastanın hiperkalsiürisi ve hipokalsemisi tespit ediliyor, buna ek olarak pH'sı 7,32, HCO3 19 mEq/L, serum potasyum düzeyi ise 3,2 mEq/L bulunuyor. / Hastanın klinik ve laboratuvar bulguları en iyi aşağıdakilerden hangisi ile açıklanabilir?", "not": "govde yazim/birim", "zaman": "2026-09-25T19:54:29"}
+{"id": "dbb7d6120cc9daaa", "karar": "duzelt", "govde": "Bir şehirde aşağıdaki istatistiki veriler varsa perinatal mortalite oranı aşağıdakilerden hangisidir? / Canlı doğan yenidoğan sayısı: 150 / Ölü doğan bebek sayısı: 15 / 0-7 gün arası ölen bebek sayısı: 8 / 0-28 gün arası ölen bebek sayısı: 10 / 0-365 gün arası ölen bebek sayısı: 45", "not": "govdedeki artik 'Anne olumu' cikarildi", "zaman": "2026-09-25T19:54:29"}
+{"id": "90cef5b284cbaa99", "karar": "duzelt", "aciklama_paragraf": 2, "not": "bos kalan liste basligi kesildi", "zaman": "2026-09-25T19:54:29"}
+{"id": "0e1f018258f83422", "karar": "duzelt", "aciklama": "Üst karın apselerinden en sık görüleni subfrenik apselerdir; en nadir görülen ve prognozu en kötü olan ise bursa omentalis apseleridir. Bağırsak ansları arasında gelişen küçük pü koleksiyonlarından oluşan interloop (mid-abdominal) apseler ise fizik muayenede lokalize bulgu vermeyebilir ve görüntülemede bağırsak gazı nedeniyle kolayca gözden kaçabilir; bu nedenle tanısı en zor olan karın içi apselerdir.", "not": "kendisiyle celisen aciklama duzeltildi", "zaman": "2026-09-25T19:54:29"}
+{"id": "b40a6018c6ec9cef", "karar": "at", "neden": "cevap_supheli", "not": "kitabin aciklamasi omfaloselin prognozunu gastrosizisten iyi veriyor (D de yanlis); C ve D", "zaman": "2026-09-25T19:54:29"}
+{"id": "9a91f952e0136c09", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "646336318a9660f5", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "e3cb2eb3fb10331e", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "902f96be7b035c7b", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "e4ac83d49646cea0", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "21176d2dd5526e49", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "58f0f90857f23043", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "66796bebcea4dffd", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "93caf6b7e02e7652", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "1c06f3a7def0d1b4", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "aa0fea4311bdb005", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "d7c767ecfa835b9a", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "5db7ba6e31ff8243", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "229b5a59df0ae6c2", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "b68826c365aa48f7", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
+{"id": "e82c8e7dca18a84c", "karar": "ok", "zaman": "2026-09-25T19:54:29"}
