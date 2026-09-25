@@ -2048,3 +2048,53 @@
 {"id": "87afabca88e5e12b", "karar": "ok", "zaman": "2026-09-25T19:03:57"}
 {"id": "fcdfba632228857e", "karar": "ok", "zaman": "2026-09-25T19:03:57"}
 {"id": "9177a6e4a2b1c2ef", "karar": "ok", "zaman": "2026-09-25T19:03:57"}
+{"id": "50bd29aa7eafe4cd", "karar": "duzelt", "govde": "Solunum stresi, mediastinal şift, skafoid karın ve göğüs ön-arka çapında artma olan çocukta en olası tanı aşağıdakilerden hangisidir?", "not": "Govdedeki tire bolunmesi duzeltildi", "zaman": "2026-09-25T19:04:18"}
+{"id": "97d09502a6827839", "karar": "duzelt", "siklar": {"A": "Mikroglia", "B": "Gangliyon hücresi", "C": "Astrosit", "D": "Tanisit", "E": "Satellit hücresi"}, "cevap": "D", "not": "D sikkinda tekrarlanan harf duzeltildi", "zaman": "2026-09-25T19:04:18"}
+{"id": "0dfb86d8fd3a4ddd", "karar": "duzelt", "govde": "Besin mideye girdiği zaman mideden beyin sapına giden ve tekrar mideye geri dönerek mide gövdesinin kas çeperindeki gerimi azaltan GİS refleksi aşağıdakilerden hangisidir?", "siklar": {"A": "Gastrokolik refleks", "B": "Enterogastrik refleks", "C": "Vagovagal refleks", "D": "Kolonoileal refleks", "E": "Defekasyon refleksi"}, "cevap": "C", "not": "Govdede bozuk kelime ve E sikkinda ek hatasi duzeltildi", "zaman": "2026-09-25T19:04:18"}
+{"id": "59da48764769b526", "karar": "duzelt", "siklar": {"A": "Tiroid disgenezi", "B": "Dishormonogenez", "C": "Hashimoto tiroiditi", "D": "İyot eksikliği", "E": "Hipofizer yetmezlik"}, "cevap": "E", "not": "C sikkinda ozel ad yazim hatasi duzeltildi", "zaman": "2026-09-25T19:04:18"}
+{"id": "dce884038d7b39fb", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "fc0b5b5faabcc34b", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "4ed01d70675511bc", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "ad3e528ec995b047", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "cc118212a7a67cb6", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "ff9c0e971f1bf086", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "b9a175b94750f8cd", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "4afdfc9cc1158db1", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "5b4d347b1d087172", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "1c397f62e37b726e", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "2d27de87d8eb697c", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "4e3f9b290d00cb2c", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "c7cc9c11b4304be9", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "6a00b1ff62315b0c", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "82a9530e7b59a573", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "9753cc424777aecf", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "87121b31f6eb6b6f", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "3b483a2a6cfb77ff", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "577391e0939cf1b6", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "40a1f4617af1d104", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "c8c8db348760eb68", "karar": "ok", "zaman": "2026-09-25T19:04:18"}
+{"id": "363ed900e842dadb", "karar": "duzelt", "siklar": {"A": "Streptococcus pneumoniae", "B": "Legionella pneumophila", "C": "Pneumocystis carinii", "D": "Staphylococcus aureus", "E": "Pseudomonas aeruginosa"}, "cevap": "C", "not": "Siklarda tur adi yazim hatalari duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "eabfe26bc007b00e", "karar": "duzelt", "siklar": {"A": "İntrauterin gelişme geriliği", "B": "Hiperbilirubinemi", "C": "Hipokalsemi", "D": "Renal ven trombozu", "E": "Anemi"}, "cevap": "E", "not": "B sikkinda yazim hatasi; C sikki aciklamadaki diyabetik anne bebegi sorun listesine gore hipokalsemi olarak duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "a5a68a51207155d1", "karar": "duzelt", "govde": "Altmış yaşında kadın hasta, halsizlik, yorgunluk, kilo kaybı, omuz ve kalça kuşağı kaslarında ağrı ve tutukluk şikayeti ile başvuruyor. Laboratuvar incelemesinde sedimantasyon hızı 80 mm/saat ve orta düzeyde kronik hastalık anemisi dışında bir patoloji saptanmıyor. / Kas gücü normal olan bu hastada en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Romatoid artrit", "B": "Polimiyaljia romatika", "C": "Sistemik lupus eritematozus", "D": "Dermatomiyozit", "E": "Duchenne müsküler distrofisi"}, "cevap": "B", "not": "Govde ve siklarda yazim hatalari duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "28b341fadae08489", "karar": "duzelt", "govde": "Yirmi bir yaşında bir kadın hasta 3 ay önce baş ağrısı nedeniyle başvurmuştur. Tekrarlanan ölçümlerde kan basıncı 180-190/110-120 mmHg olarak bulunmuştur. Hipertansiyon tanısı konularak β-adrenerjik blokör tedavisine başlanmış ancak tedaviye yanıt alınamamıştır. Öyküsünde başka bir hastalık ya da ilaç kullanımı olmayan hastanın aile öyküsünde hipertansiyon yoktur. Fizik muayenede kan basıncı 180/110 mmHg ve evre 3 hipertansif göz dibi değişiklikleri dışında hasta normal olarak bulunuyor. Beden kitle indeksi 22 kg/m2 olan hastanın yapılan laboratuvar incelemelerinde tam kan ve tam idrar tetkikleri normal sınırlarda, açlık kan şekeri 80 mg/dL, serum kreatinin düzeyi 0.8 mg/dL, serum potasyum düzeyi 4.1 mmol/L olarak bulunuyor. / Bu hastadaki hipertansiyon etiyolojisini saptamak için öncelikle aşağıdaki tetkiklerden hangisi yapılmalıdır?", "siklar": {"A": "Ekokardiyografi", "B": "Renal arter Doppler ultrasonografisi", "C": "24 saatlik idrarda serbest kortizol düzeyi tayini", "D": "24 saatlik idrarda katekolamin düzeyleri tayini", "E": "TSH düzeyi tayini"}, "cevap": "B", "not": "Govde ve E sikkinda OCR harf hatalari duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "6d390d62a9fd34da", "karar": "duzelt", "siklar": {"A": "Eritrositlerin intravasküler parçalanması sonucu hemoglobinüri", "B": "Serbest hemoglobinin tübüllerde çökmesi ve tübüler nekroz", "C": "Serbest hemoglobin miktarının haptoglobinin bağlama kapasitesini aşması durumunda methemoglobin oluşması", "D": "İndirekt hiperbilirubinemi", "E": "DİC"}, "cevap": "C", "not": "C sikkindaki tire bolunmesi duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "ffa688828bc4f59f", "karar": "duzelt", "govde": "Aşağıdaki hastaların hangisinde diferansiye tiroid karsinomlarında total tiroidektomiyi takiben radyoaktif iyot ablasyonu önerilmez?", "siklar": {"A": "46 yaşında evre 2 karsinomlu bir hastada", "B": "Evre 3 veya 4 karsinomlu bir hastada", "C": "60 yaşında evre 1 karsinomlu bir hastada", "D": "Tiroid dışına yayılmış, damar invazyonu olan evre 1 karsinomlu bir hastada", "E": "Tiroid dışına yayılmış, damar invazyonu olan evre 2 karsinomlu bir hastada"}, "cevap": "C", "not": "Govde ve siklarda yazim hatalari duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "d05e072a47a4749d", "karar": "duzelt", "siklar": {"A": "Tip I", "B": "Tip IIa", "C": "Tip IIb", "D": "Tip III", "E": "Tip IV"}, "cevap": "B", "not": "B ve C siklarinda bozuk Roma rakamlari duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "61a597e185fc9ab6", "karar": "duzelt", "siklar": {"A": "Lökosit adezyon defekti tip-1 (LAD-1)", "B": "Chediak-Higashi hastalığı", "C": "Job sendromu", "D": "Lökosit adezyon defekti tip-2 (LAD-2)", "E": "Kronik granülomatöz hastalık"}, "cevap": "D", "not": "E sikkinda yazim hatasi duzeltildi", "zaman": "2026-09-25T19:04:48"}
+{"id": "a6ace289fe46f641", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "a40a8c1362166855", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "ce227c368919b57a", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "bb03d973dfc5afcd", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "5b5756ea73351ffc", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "e5e9136c1380a847", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "f2752b67712a7a23", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "909598a3def8d368", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "3327d821667db298", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "b6ebdded14bdba3c", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "a13b1b127cc2de9b", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "da1008b46f4fc9bd", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "ee0d92d9a5ddf38f", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "88b33d43170c8e13", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "5915c71afad66058", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "f63df3bb22b54fe3", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
+{"id": "7367bc6b8160fdfb", "karar": "ok", "zaman": "2026-09-25T19:04:48"}
