@@ -698,3 +698,53 @@
 {"id": "607783db7209d791", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
 {"id": "29b8846699e66eec", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
 {"id": "fb492723cf0d73dd", "karar": "ok", "zaman": "2026-09-25T19:51:03"}
+{"id": "8c67bc26039e6ff1", "karar": "duzelt", "siklar": {"A": "Neisseria gonorrhoeae", "B": "Haemophilus ducreyi", "C": "Gardnerella vaginalis", "D": "Chlamydia trachomatis", "E": "Calymmatobacterium granulomatis"}, "cevap": "E", "not": "tur adlari yazim", "zaman": "2026-09-25T19:51:33"}
+{"id": "4ef6c309b00bde54", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "baska soruya ait hemoglobin paragraflari kesildi", "zaman": "2026-09-25T19:51:33"}
+{"id": "9fc4d28b8f247a61", "karar": "at", "neden": "cevap_supheli", "not": "katalaz negatif, basitrasine duyarli, PYR+ beta hemolitik kok S. pyogenes (C); anahtar A, aciklama baska soruya ait", "zaman": "2026-09-25T19:51:33"}
+{"id": "a5aba42b2dea71f9", "karar": "duzelt", "aciklama_paragraf": "8-", "not": "baska soruya ait duktus arteriozus listesi kesildi", "zaman": "2026-09-25T19:51:33"}
+{"id": "4eacc148f84e875c", "karar": "duzelt", "govde": "Aşağıdakilerden hangisinin yıkım ürününün birikimi sarılık (ikter) nedenidir?", "not": "govde yazim", "zaman": "2026-09-25T19:51:33"}
+{"id": "f74c0ff6da32cc5c", "karar": "duzelt", "govde": "Kalça bölgesinde yerleşmiş, 6 aydır var olan ve son birkaç ayda hızla büyüyen kitlenin çizgili kastan köken aldığı ve çapının 11 cm olduğu saptanıyor. Mikroskopik olarak yaygın mitoz, atipi ve nekroz gösteren tümörün desmin (+) olduğu görülüyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T19:51:33"}
+{"id": "7c6b4ed6bbfd2895", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "f35ba59ea895d558", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "5176d97a25a975d8", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "61341e4fbf38af41", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "8119a5143101fe2d", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "adb44ef371d44211", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "346a8525db3596cf", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "d414eb7e22451a0d", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "23d8e0a1ecba4fe8", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "3f0e983a9252a8b4", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "a7845062d4341fb4", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "3a82284af17851f1", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "6b7fb552e910468d", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "6b9413e7e3fb9da8", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "38c8c49e3a9049f2", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "2f6997c2fd257a8a", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "0d36ca1a980c4b91", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "985ac4e9a55392ec", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "da41296fa78c49ea", "karar": "ok", "zaman": "2026-09-25T19:51:33"}
+{"id": "f3049ac5814df0bb", "karar": "at", "neden": "cevap_supheli", "not": "dusuk dogum agirligi/prematurite demir eksikliginin bilinen risk faktorudur; anahtar tartismali", "zaman": "2026-09-25T19:52:11"}
+{"id": "9874038fba7a219f", "karar": "duzelt", "govde": "Sempatik sistem uyarısı ile oluşan midriyazis, renin sentezinde artış ve bronkodilatasyon, aşağıdaki ilaçlardan hangisi tarafından tamamen önlenir?", "not": "govde tire", "zaman": "2026-09-25T19:52:11"}
+{"id": "3ad1a0dad7530d38", "karar": "duzelt", "siklar": {"A": "II ve V", "B": "III ve IV", "C": "II ve IV", "D": "II ve III", "E": "I, II ve IV"}, "cevap": "A", "aciklama": "Krebs döngüsünde iki basamakta karbondioksit açığa çıkar. Birincisi izositrat dehidrogenazın katalizlediği izositratın oksidatif dekarboksilasyonudur; izositrat α-ketoglutarata dönüşür, NADH ve CO2 oluşur. Bu basamak döngünün hız kısıtlayıcı basamağıdır; ADP ve Ca2+ ile aktive, ATP ve NADH ile inhibe olur. İkincisi α-ketoglutarat dehidrogenaz kompleksinin katalizlediği α-ketoglutaratın süksinil-KoA'ya oksidatif dekarboksilasyonudur; tiamin pirofosfat, lipoik asit, FAD, NAD ve KoA gerektirir. Süksinat ve malat dehidrogenaz reaksiyonlarında CO2 oluşmaz; pirüvat dekarboksilaz ise Krebs döngüsü enzimi değildir.", "not": "sik yazim; bozuk paragraf ve baska soru artigi iceren aciklama yeniden yazildi", "zaman": "2026-09-25T19:52:11"}
+{"id": "34871ff375a29147", "karar": "duzelt", "aciklama_paragraf": "4-", "not": "aciklama basindaki baska soruya ait sik artiklari kesildi", "zaman": "2026-09-25T19:52:11"}
+{"id": "9b64a54e3404fb34", "karar": "duzelt", "govde": "Aşağıdaki ilaçlardan hangisinin sistemik lupus eritematozus (SLE) benzeri tablo oluşturması beklenmez?", "not": "govde yazim", "zaman": "2026-09-25T19:52:11"}
+{"id": "bb2ce16eb85328d4", "karar": "duzelt", "govde": "Elektrokardiyografide V1'de R/S oranı 1'den büyük izlenen bir kişide aşağıdakilerden hangisi ön tanıda en az düşünülmelidir?", "siklar": {"A": "Sağ dal bloğu", "B": "KOAH", "C": "Sağ ventrikül hipertrofisi", "D": "Sol dal bloğu", "E": "Triküspit yetersizliği"}, "cevap": "D", "not": "yapisik kelimeler", "zaman": "2026-09-25T19:52:11"}
+{"id": "1cac0bc5599a6dc3", "karar": "duzelt", "aciklama_paragraf": 6, "not": "yarim kalan 'Komplikasyonlari:' kesildi", "zaman": "2026-09-25T19:52:11"}
+{"id": "8f1abf4da6bd10a3", "karar": "duzelt", "govde": "Başlangıcında diğer duyular korunurken pelerin tarzında (omuz atkısı) ağrı ve ısı duyusu kaybına neden olan hastalık aşağıdakilerden hangisidir?", "siklar": {"A": "Siringomiyeli", "B": "Klippel-Feil sendromu", "C": "Brown-Séquard sendromu", "D": "Meningomiyelosel", "E": "Diastematomiyeli"}, "cevap": "A", "not": "sik yazim", "zaman": "2026-09-25T19:52:11"}
+{"id": "0a261f229be2b756", "karar": "duzelt", "aciklama_paragraf": 2, "not": "artik 'Sekil' satiri kesildi", "zaman": "2026-09-25T19:52:11"}
+{"id": "1ffe16b133eb3909", "karar": "duzelt", "aciklama": "Hamartomatöz kolon polipleri Peutz-Jeghers sendromu, Cowden sendromu, juvenil polipozis sendromu ve Cronkhite-Canada sendromunda görülebilir. Gardner sendromu ise familyal adenomatöz polipozisin bir varyantıdır; APC gen mutasyonuna bağlı adenomatöz polipler, osteomlar, epidermoid kistler ve desmoid tümörlerle karakterizedir. Bu nedenle Gardner sendromunda görülen polipler hamartomatöz değil adenomatözdür.", "not": "sonunda baska soru artigi olan aciklama yeniden yazildi", "zaman": "2026-09-25T19:52:11"}
+{"id": "5e95b1fa4000e5d3", "karar": "duzelt", "siklar": {"A": "Bartter sendromu hipokalemi ve metabolik alkalozla seyredebilir.", "B": "Renin salınımını hipokalemi artırır.", "C": "Liddle sendromunda aldosteron düzeyi yüksektir.", "D": "Renovasküler hipertansiyonda aldosteron düzeyi artmıştır.", "E": "Liddle sendromu otozomal dominant geçer ve hipertansiyonla seyreder."}, "cevap": "C", "not": "sik yazim", "zaman": "2026-09-25T19:52:11"}
+{"id": "c4590c0c42ebbf46", "karar": "duzelt", "govde": "Elli yaşında erkek hastanın nörolojik muayenesinde sağ üst ekstremitede atrofi, üst ekstremite kaslarında fasikülasyonlar, DTR'lerde azalma, sağ alt ekstremitede ise DTR'lerde artma ve sağ taban derisi refleksi ekstansör saptanıyor. / Duyu kusuru ve sfinkter bozukluğu olmayan bu hasta için en olası tanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T19:52:11"}
+{"id": "3be622de8e9d4c7b", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "a07095e899170c5b", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "990a165a33b21717", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "9e0f00e09bea1015", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "e81706cc524b09e5", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "f17a9281ec51be37", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "062e75cc7def8326", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "342ef50677b75315", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "cef40a8182529d9b", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "de48379bcc1634d6", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "de9198172682cb28", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "525207bef8a2ecda", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
+{"id": "835be52fbddc0a30", "karar": "ok", "zaman": "2026-09-25T19:52:11"}
