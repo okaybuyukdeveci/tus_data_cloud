@@ -498,3 +498,53 @@
 {"id": "dd85d1275ca766d3", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
 {"id": "ae283b22ddaf2d71", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
 {"id": "ca272005fdfb3523", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "ce26fb8ce04dcad4", "karar": "duzelt", "siklar": {"A": "E-selektin - Sialyl Lewis X", "B": "CD34 - L-selektin", "C": "ICAM-1 - LFA-1", "D": "PECAM-1 - CD31", "E": "P-selektin - LFA-1"}, "cevap": "E", "not": "sik OCR artigi", "zaman": "2026-09-25T19:46:47"}
+{"id": "433618ff41c4840c", "karar": "duzelt", "aciklama": "Digoksin miyokard hücrelerinde Na+/K+ ATPaz pompasını inhibe eder; hücre içi sodyumun artmasıyla Na+/Ca2+ değiştiricisi üzerinden hücre içi kalsiyum artar ve pozitif inotropik etki oluşur. Vagal tonusu artırarak negatif kronotropik ve dromotropik etki gösterir. Başlıca endikasyonları düşük debili sistolik kalp yetmezliği ve atriyal fibrilasyonda hız kontrolüdür; diyastolik kalp yetmezliğinde yararı yoktur. EKG'de QT süresini kısaltır, ST segmentinde çukurlaşma yapar. Digoksin mezenterik damarlarda vazokonstriksiyona neden olabilir; bu etki toksisitede mezenter iskemisine katkıda bulunur.", "not": "sadece basliklardan olusan aciklama yeniden yazildi", "zaman": "2026-09-25T19:46:47"}
+{"id": "d3410eaecd008336", "karar": "at", "neden": "cevap_supheli", "not": "buspiron anksiyolitiktir; anksiyetede kullanilmayan bupropion (C); aciklama baska soruya ait", "zaman": "2026-09-25T19:46:47"}
+{"id": "5ed6335da59bd0d3", "karar": "duzelt", "siklar": {"A": "Her iki hastalıkta da etyolojide viral faktörler önemli rol oynar.", "B": "Otoimmün hastalıklar sadece primer sklerozan kolanjite eşlik eder.", "C": "Ursodeoksikolik asit semptomları kontrol etmede her ikisinde de kullanılır.", "D": "Her ikisinde de antimitokondriyal antikor pozitiftir.", "E": "Her ikisinde de malignite riski vardır."}, "cevap": "C", "not": "sik yazim", "zaman": "2026-09-25T19:46:47"}
+{"id": "9bfd634261074ee3", "karar": "duzelt", "siklar": {"A": "Hipomagnezemi", "B": "Asfiksi", "C": "Megaloensefali", "D": "Hipokalsemi", "E": "Nöral tüp defektleri"}, "cevap": "C", "aciklama_paragraf": "1-10", "not": "kayip E sikki aciklamadaki sizintidan tamamlandi; ilgisiz son baslik kesildi", "zaman": "2026-09-25T19:46:47"}
+{"id": "eb3a97f4ede47c41", "karar": "duzelt", "aciklama": "Protein kaybettiren enteropati, plazma proteinlerinin gastrointestinal kanala aşırı kaybıdır; karaciğer hastalığı, proteinüri ve ağır malnütrisyon yokken gelişen hipoproteineminin en olası nedenidir. Mukozal hasar ve inflamasyonla giden durumlarda (inflamatuvar bağırsak hastalığı, çölyak hastalığı, inek sütü protein duyarlılığı, eozinofilik gastroenteropati) veya lenfatik obstrüksiyonda (intestinal lenfanjiektazi) görülür. Konjenital klor kaybettiren diyare ise ileum ve kolondaki Cl-/HCO3- değiştiricisinin kalıtsal defektine bağlı sekretuvar bir ishaldir; hipokloremik metabolik alkaloz yapar, protein kaybına yol açmaz.", "not": "yarim kalan aciklama yeniden yazildi", "zaman": "2026-09-25T19:46:47"}
+{"id": "f1cf48c3a7edceb0", "karar": "duzelt", "siklar": {"A": "I ve IV", "B": "II ve III", "C": "I, II ve IV", "D": "II, III ve IV", "E": "I, II, III ve IV"}, "cevap": "E", "aciklama_paragraf": "1-", "not": "B sikki OCR; bozuk [0] kesildi", "zaman": "2026-09-25T19:46:47"}
+{"id": "a9e51723eb5d2e4c", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "b0bf7528da0a1420", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "05a616dc1c149466", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "457c2473d3e9df9f", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "33d1d541e39a63fa", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "51fb3000f85062ad", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "ade05a98af717a5c", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "b951da15c44b4e00", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "02f2538c3422d151", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "f1601a920923b051", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "a9733e1cafb45cd6", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "5f159ebf7e80ebb8", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "6088bc5aabd5973e", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "f036522f8a49b980", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "ea0c3cdaa7c8fdc2", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "d23940fd6784d446", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "ef23bd5600bdc1b6", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "0d113e1cce1c359b", "karar": "ok", "zaman": "2026-09-25T19:46:47"}
+{"id": "c01678fc77441f76", "karar": "duzelt", "siklar": {"A": "Riluzol - Amyotrofik lateral skleroz tedavisi", "B": "Felbamat - Epilepsi tedavisi", "C": "Memantin - Parkinson tedavisi", "D": "Ketamin - Dissosiyatif anestezi", "E": "Biperiden - Parkinson tedavisi"}, "cevap": "C", "not": "D sikki ayirac", "zaman": "2026-09-25T19:47:25"}
+{"id": "81d1186eafec044f", "karar": "duzelt", "siklar": {"A": "Membranöz glomerülonefrit", "B": "Membranoproliferatif glomerülonefrit tip II", "C": "Hızlı ilerleyen glomerülonefrit tip II", "D": "Berger hastalığı", "E": "Fokal segmental glomerüloskleroz"}, "cevap": "B", "not": "sik yazim", "zaman": "2026-09-25T19:47:25"}
+{"id": "8437ccd6554c57c9", "karar": "duzelt", "govde": "Çocuksuluğun ve non-sistematik sanrıların ön planda olduğu, erken yaşlarda başlayan ve renkli semptomlarla karakterize şizofreni tipi aşağıdakilerden hangisidir?", "aciklama_paragraf": 6, "not": "baska soruya ait antidepresan/antipsikotik listesi kesildi", "zaman": "2026-09-25T19:47:25"}
+{"id": "ca808c50b45a5ee4", "karar": "at", "neden": "baglam_gerekli", "not": "'bir ust soruda tarif edilen hasta'", "zaman": "2026-09-25T19:47:25"}
+{"id": "7fb8dce3c4945470", "karar": "duzelt", "siklar": {"A": "Klasik homosistinüri - Vitamin B6", "B": "Chediak-Higashi sendromu - Vitamin C", "C": "Akçaağaç şurubu idrarı hastalığı - Vitamin B1", "D": "Hartnup hastalığı - Vitamin B12", "E": "Propiyonik asidemi - Biotin"}, "cevap": "D", "not": "sik ayiraclari", "zaman": "2026-09-25T19:47:25"}
+{"id": "863bf1800b0f06c9", "karar": "duzelt", "govde": "Aşağıdaki kardiyak patolojilerden hangisi gebelikte daha iyi tolere edilir?", "not": "govde OCR", "zaman": "2026-09-25T19:47:25"}
+{"id": "9d1a0bc070f4a4c2", "karar": "duzelt", "aciklama": "Alemtuzumab anti-CD52 monoklonal antikorudur ve kronik lenfositik lösemi (KLL) tedavisinde kullanılır; ALL tedavisinde yeri yoktur. Trastuzumab HER2/neu reseptörüne karşı olup HER2 pozitif meme kanserinde, rituksimab anti-CD20 olup B hücreli lenfomalarda, infliksimab anti-TNF-alfa olup dirençli romatoid artrit ve Crohn hastalığında kullanılır. Ekulizumab kompleman C5'e karşı monoklonal antikor olup paroksismal noktürnal hemoglobinüri ve atipik HÜS tedavisinde kullanılır.", "not": "aciklamadaki hata (ekulizumab anti-C3) duzeltildi", "zaman": "2026-09-25T19:47:25"}
+{"id": "cc0a274505f94b06", "karar": "duzelt", "govde": "Okulda yapılan bir açık hava aktivitesinde sınıf arkadaşlarıyla birlikte koşu yarışmasına katılan 7 yaşındaki çocukta bu etkinlik sonrasında şiddetli kas krampları ortaya çıkmıştır. Hastanın idrar renginde de koyulaşma gözleniyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T19:47:25"}
+{"id": "ba43964abd4edeb8", "karar": "duzelt", "govde": "Aşağıdaki aşılardan hangisi iki yaşın altındaki çocuklarda yetersiz immün yanıt oluşturduğu için tercih edilmez?", "not": "govde eksik kelime", "zaman": "2026-09-25T19:47:25"}
+{"id": "92ae92e7df367fab", "karar": "duzelt", "siklar": {"A": "Fibroadenom", "B": "Yağ nekrozu", "C": "Sistosarkoma filloides", "D": "Meme kanseri", "E": "Meme absesi"}, "cevap": "C", "not": "sik yazim", "zaman": "2026-09-25T19:47:25"}
+{"id": "c5670cfa9b1f9e8b", "karar": "duzelt", "aciklama": "Kan kapillerleri endotel ve bazal laminanın sürekliliğine göre sınıflandırılır. Sürekli (somatik) kapillerler kas, sinir, bağ dokusu ve ekzokrin bezlerde bulunur. Diyaframlı pencereli (visseral) kapillerler endokrin bezler, bağırsak ve böbrek peritübüler alanında görülür. Diyaframsız pencereli kapillerler ise renal glomerüle özgüdür; kalın bazal lamina ile birlikte glomerüler filtrasyon bariyerinin önemli bir bileşenini oluşturur. Sinüzoidal (süreksiz) kapillerlerde endotel hücreleri arasında boşluklar vardır ve bazal lamina kesintilidir; karaciğer, dalak ve kemik iliğinde bulunur.", "not": "bozuk aciklama yeniden yazildi", "zaman": "2026-09-25T19:47:25"}
+{"id": "b1b5a60e758253a9", "karar": "at", "neden": "cevap_supheli", "not": "anhedoni negatif belirtidir; negatif olmayan cagrisim cozuklugu (E); anahtar B", "zaman": "2026-09-25T19:47:25"}
+{"id": "478e78c241de4c32", "karar": "duzelt", "aciklama_paragraf": "4-", "not": "baska soruya ait fossa cubiti bolumu kesildi", "zaman": "2026-09-25T19:47:25"}
+{"id": "9fac3532bf15f49e", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "5cb79a7afdf41ef9", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "8347831aaf95867e", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "f7ae030b158a523e", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "933dcc946de4f40a", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "792e06ed37f30a9a", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "d3d48d19556a7eac", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "761ceb7da23ffa02", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "a0095a7c553c36b1", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "d122ee3979967b1c", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "54a0301798f35359", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
+{"id": "c3ac11b3ebd1b44b", "karar": "ok", "zaman": "2026-09-25T19:47:25"}
