@@ -1498,3 +1498,53 @@
 {"id": "e270ed79ffca1cf0", "karar": "ok", "zaman": "2026-09-25T20:31:37"}
 {"id": "a71d78e842314018", "karar": "ok", "zaman": "2026-09-25T20:31:37"}
 {"id": "d882793dc2b48e91", "karar": "ok", "zaman": "2026-09-25T20:31:37"}
+{"id": "c8526dbbfb956709", "karar": "duzelt", "govde": "COX-2 enziminin inhibisyonu özellikle aşağıdaki organlardan hangisinin kanserini önlemede yardımcıdır?", "not": "govde yazim", "zaman": "2026-09-25T20:32:07"}
+{"id": "565d84ab152ab8d4", "karar": "duzelt", "siklar": {"A": "Subkutan adrenalin enjeksiyonu", "B": "İntravenöz aminofilin", "C": "İntravenöz metilprednizolon", "D": "Lökotrien reseptör antagonisti"}, "cevap": "D", "aciklama_paragraf": 2, "not": "B ve E ayni sik (IV aminofilin), E cikarildi; aciklama sonundaki bos baslik kesildi", "zaman": "2026-09-25T20:32:07"}
+{"id": "2af3ab08d3ced4e2", "karar": "duzelt", "govde": "Otuz iki yaşında kadın hasta doğum sonrası halsizlik, yorgunluk şikayeti ile kliniğe başvuruyor. Hastanın yapılan laboratuvar tetkiklerinde Hb 10,7 g/dl, T3, T4 ve TSH düşük, LH, FSH ve ACTH düşük, prolaktin yüksek tespit ediliyor. Hastanın çekilen hipofiz MR'ında büyümüş hipofiz bezi tespit ediliyor. / Bu hastanın en olası tanısı aşağıdakilerden hangisidir?", "not": "govde birim hatasi (mg/dl)", "zaman": "2026-09-25T20:32:07"}
+{"id": "cf6af21daacf6d5b", "karar": "duzelt", "govde": "Otuz altı yaşında bayan hastaya skleroderma tanısı konup inflamatuvar artriti nedeni ile prednizolon 10 mg/gün olarak başlanıyor. / Difüz skleroderması olan bu hastada hangi komplikasyon beklenir?", "not": "govde OCR (10m8)", "zaman": "2026-09-25T20:32:07"}
+{"id": "e98bef53c8dbce15", "karar": "duzelt", "aciklama_paragraf": 5, "not": "idrar kokusu tablosu kesildi", "zaman": "2026-09-25T20:32:07"}
+{"id": "7cf9e6559e87cd01", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi masif kan transfüzyonlarının komplikasyonlarından değildir?", "siklar": {"A": "Hiperkalemi", "B": "Hiperkalsemi", "C": "O2 dissosiasyon eğrisinde sola kayma", "D": "Metabolik asidoz", "E": "Hipotermi"}, "cevap": "B", "not": "govde ve C sikki OCR", "zaman": "2026-09-25T20:32:07"}
+{"id": "00f155b49c52a3ec", "karar": "at", "neden": "cevap_supheli", "not": "'Hepsi' sikki da dogru gorunuyor (plazma hucreli mastit, fibrokistik hastalik, adenozis de kanseri taklit eder); anahtar A tartismali", "zaman": "2026-09-25T20:32:07"}
+{"id": "2033272cc04a56c3", "karar": "duzelt", "siklar": {"A": "Teratomların malign formudur", "B": "Grade en önemli prognostik faktördür", "C": "En sık görülen malign germ hücreli tümördür", "D": "Gradelenebilen tek germ hücreli tümördür", "E": "İmmatür sinir dokusu arttıkça prognoz kötüleşir"}, "cevap": "C", "not": "sik yazim (maling)", "zaman": "2026-09-25T20:32:07"}
+{"id": "c8da106134cfe274", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "b2035335f402659c", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "c0f669f53d204fe7", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "c099aace8c0d070a", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "08bcbbc85f6beb41", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "632feb8a82e415ba", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "af99c728d73b7fe9", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "2abd2b93b0b3eabb", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "b387305e73270126", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "09cb99f85705edb5", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "e8a300f51b460846", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "2b93a5118f40fdc7", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "c0a5e5d72fb0a7aa", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "b67699fd829edd4f", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "6027cc361f0ce665", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "fea2682c06be7608", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "c74a83c36743306a", "karar": "ok", "zaman": "2026-09-25T20:32:07"}
+{"id": "af546a46f7578b45", "karar": "at", "neden": "cevap_supheli", "not": "hipokampal LTP klasik olarak glutamaterjik NMDA bagimlidir (B); anahtar C (AMPA-kainat), aciklama da NMDA uzerinden kalsiyum girisini anlatiyor", "zaman": "2026-09-25T20:32:49"}
+{"id": "368c763ce2c1f101", "karar": "duzelt", "siklar": {"A": "Herpes simpleks tip 1 - Asiklovir", "B": "Herpes simpleks tip 1 - Gansiklovir", "C": "Sitomegalovirüs - Asiklovir", "D": "Sitomegalovirüs - Gansiklovir", "E": "Herpes simpleks tip 2 - Foskarnet"}, "cevap": "D", "not": "sik yazim (sipleks)", "zaman": "2026-09-25T20:32:49"}
+{"id": "96675bf7aa051ed6", "karar": "duzelt", "aciklama": "Sülfonilüreler (gliburid) pankreas beta hücresinde ATP duyarlı potasyum kanallarını kapatarak insülin salınımını artırır. Metforminin primer etki yeri karaciğerdir; hepatik glukoneogenezi azaltır. Tiazolidindionlar (rosiglitazon) PPAR-gama agonistidir ve esas olarak yağ dokusunda insülin duyarlılığını artırır. Alfa-glukozidaz inhibitörleri (akarboz, vogliboz) ince bağırsakta karbonhidrat emilimini geciktirir. Dapagliflozin ise bir SGLT-2 inhibitörüdür ve primer etki yeri iskelet kası değil, böbreğin proksimal tübülüdür; glukozun geri emilimini azaltarak glukozüri oluşturur.", "not": "aciklama yalnizca sulfonilureleri anlatiyordu, yeniden yazildi", "zaman": "2026-09-25T20:32:49"}
+{"id": "c5999332a6285381", "karar": "duzelt", "govde": "86 yaşında kadın hasta acil servise halsizlik şikayeti ile başvuruyor. Fizik muayenesinde tansiyonu 110/60 mmHg, nabzı 40/dk, ateşi 36,4°C olarak saptanıyor. Öyküsünde kabızlık nedeniyle magnezyum karbonat kullanımı bulunan hastanın yapılan laboratuvar tetkiklerinde magnezyum 6,2 mEq/L olarak saptanıyor. / Bu hastada tedavide ilk yapılacak olan aşağıdakilerden hangisidir?", "not": "govde OCR (mmH9)", "zaman": "2026-09-25T20:32:49"}
+{"id": "f47de457a3f34725", "karar": "duzelt", "aciklama": "Antenatal dönemde saptanan renal pelvis dilatasyonunun (pyelektazi) önemli bir kısmı fizyolojiktir ve kendiliğinden düzelir; diğer nedenler arasında üreteropelvik bileşke darlığı, vezikoüreteral reflü ve posterior üretral valv sayılabilir. Antenatal pelvis dilatasyonu saptanan bebeklerde doğum sonrası 5. gün ve 1. ayda üriner sistem ultrasonografisi yapılır; ilk günlerde göreceli dehidratasyon nedeniyle dilatasyon olduğundan az görülebileceği için ilk USG 48-72 saatten sonra yapılmalıdır. Tek taraflı, korteksi normal, üreter ve mesanesi normal olan hafif pelvis dilatasyonunda izlem seri ultrasonografi ile yapılır; ilerleme varsa DMSA/MAG3 sintigrafisi ve işeme sistoüretrografisi planlanır.", "not": "aciklama OCR ile bozulmus antenatal USG tablosuydu, yeniden yazildi", "zaman": "2026-09-25T20:32:49"}
+{"id": "6cb4e278a9b13f35", "karar": "duzelt", "aciklama": "Nazal kanül ve basit yüz maskeleri düşük-orta konsantrasyonda (%24-60) oksijen sağlar; CPAP ise bir ventilasyon desteğidir. Geri solumasız (non-rebreather) rezervuarlı maskede tek yönlü valfler sayesinde hasta yalnızca rezervuardaki saf oksijeni solur ve ekshale edilen hava rezervuara geri dönmez; bu nedenle yüksek akımla (10-15 L/dk) %90-100'e yakın oksijen konsantrasyonu sağlanabilir. Kısmi geri solumalı rezervuarlı maskelerde ise ekspiryum havasının bir kısmı rezervuara karıştığından oksijen konsantrasyonu daha düşüktür.", "not": "aciklama temel yasam destegini anlatiyordu, yeniden yazildi", "zaman": "2026-09-25T20:32:49"}
+{"id": "a3fca9bf91a594c8", "karar": "duzelt", "aciklama": "Burkitt lenfoma, sıklıkla çocukları ve genç erişkinleri etkileyen, yüksek dereceli, diffüz bir B hücreli lenfomadır ve çocukluk çağının en sık lenfomasıdır. Afrika (endemik) tipinde çene ve mandibula tutulumu, sporadik tipte ise batın (ileoçekal bölge) tutulumu öndedir. Endemik tip EBV ile yakından ilişkilidir. Patogenezde t(8;14) translokasyonu ile c-myc onkogeninin immünglobulin ağır zincir geni bölgesine taşınarak aşırı aktive olması temel rol oynar. Histolojide 'yıldızlı gökyüzü' görünümü tipiktir.", "not": "aciklamaya CIS ve cene tumoru metinleri karismis, yeniden yazildi", "zaman": "2026-09-25T20:32:49"}
+{"id": "a21fcde6883208ac", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "fetal tasikardi paragrafi kesildi", "zaman": "2026-09-25T20:32:49"}
+{"id": "588036195b650854", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi bilirubin metabolizmasındaki hız kısıtlayıcı basamaktır?", "siklar": {"A": "Periferik dokularda oluşan bilirubinin albümine bağlanması", "B": "Bilirubinin karaciğer hücresine kolaylaştırılmış difüzyon ile alınması", "C": "Konjuge bilirubinin safraya aktif transport ile salgılanması", "D": "Bilirubinin düz endoplazmik retikulumda konjuge edilmesi", "E": "Ürobilinojenin bir kısmının sterkobiline dönüşmesi"}, "cevap": "C", "not": "yazim hatalari (biluribin)", "zaman": "2026-09-25T20:32:49"}
+{"id": "87d46cce58b63de8", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "basta kopuk M proteini paragrafi kesildi", "zaman": "2026-09-25T20:32:49"}
+{"id": "4deb819b8a74d80e", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "2d7b8050168253cf", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "ed5096a94f44c2d5", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "aa94395cce96aba5", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "d49f87fd70f26992", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "e9eb1f0d97823724", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "ed9ab46011ab88b7", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "51332a797e0423c0", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "fa9b342475f74cc5", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "bc88df56da7c2bee", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "de56b8d86bd94d97", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "b1c39445e793a27d", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "07865cb4b9aa4909", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "609c76aa1f6831c5", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
+{"id": "e39ce5f054c5db1b", "karar": "ok", "zaman": "2026-09-25T20:32:49"}
