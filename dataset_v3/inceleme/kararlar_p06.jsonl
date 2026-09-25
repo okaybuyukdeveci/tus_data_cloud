@@ -298,3 +298,53 @@
 {"id": "3b407dde38cfb243", "karar": "ok", "zaman": "2026-09-25T19:41:15"}
 {"id": "29a76d4438481450", "karar": "ok", "zaman": "2026-09-25T19:41:15"}
 {"id": "37b445e3e8fcac36", "karar": "ok", "zaman": "2026-09-25T19:41:15"}
+{"id": "e72467f6f9668fa7", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi Chlamydia trachomatis infeksiyonlarından birisi değildir?", "not": "govde OCR", "zaman": "2026-09-25T19:41:53"}
+{"id": "1ae948dbcab054cd", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "artik 'R' kesildi", "zaman": "2026-09-25T19:41:53"}
+{"id": "132fad02d03ff83c", "karar": "duzelt", "govde": "Yenidoğanda hipertansiyonun en sık nedeni aşağıdakilerden hangisidir?", "not": "govdeye karisan baska soru (Apt testi) metni cikarildi", "zaman": "2026-09-25T19:41:53"}
+{"id": "2738bd23024ff7a8", "karar": "duzelt", "govde": "Süt çocuklarında (<1 yaş) en sık gözlenen santral sinir sistemi tümörü aşağıdakilerden hangisidir?", "siklar": {"A": "Germ hücreli tümörler", "B": "Kraniyofarenjiyom", "C": "Koroid pleksus tümörleri", "D": "Medulloblastom", "E": "Pilositik astrositom"}, "cevap": "C", "not": "govde/sik yazim", "zaman": "2026-09-25T19:41:53"}
+{"id": "8f8cf99e8e382907", "karar": "duzelt", "aciklama_paragraf": 14, "not": "artik ID satiri kesildi", "zaman": "2026-09-25T19:41:53"}
+{"id": "19584bd3b4f7bab0", "karar": "duzelt", "siklar": {"A": "Manik bozuklukta kontrendikedir.", "B": "Ana endikasyonu majör depresyondur.", "C": "Hamilelikteki depresyonda kullanılabilir.", "D": "Kafa içi basıncı artıran kitle varlığında kullanılmamalıdır.", "E": "En önemli yan etkisi retrograd ve anterograd amnezi yapmasıdır."}, "cevap": "A", "not": "D/E sik OCR artigi", "zaman": "2026-09-25T19:41:53"}
+{"id": "ff70449db485de76", "karar": "duzelt", "govde": "Yirmi yaşında hasta, 72 saattir mevcut olan ağrılı vulvar ülser şikayetiyle başvuruyor. Çok ağrılı, sarımsı eksüda olmasına rağmen lezyonlarda endurasyon görülmüyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Granuloma inguinale", "B": "Herpes genitalis", "C": "Şankroid", "D": "Lenfogranuloma venereum", "E": "Sifiliz"}, "cevap": "C", "aciklama_paragraf": "1-", "not": "siklar baska sorudan gelmisti; dogru siklar aciklamaya sizan metinden kuruldu", "zaman": "2026-09-25T19:41:53"}
+{"id": "6596f7ffab24d8e1", "karar": "duzelt", "govde": "Aşağıdaki fungal infeksiyonlardan hangisi kendisine ait olmayan etken ile birlikte verilmiştir? (Fungal infeksiyon - Etken)", "siklar": {"A": "Favus - Trichophyton schoenleinii", "B": "Pitriazis versikolor - Malassezia furfur kompleksi", "C": "Dermatofitoz - Microsporum audouinii", "D": "Beyaz piedra - Trichophyton rubrum", "E": "Tinea nigra - Hortaea werneckii"}, "cevap": "D", "not": "sik ayiraclari", "zaman": "2026-09-25T19:41:53"}
+{"id": "4efd9043e3f28236", "karar": "duzelt", "siklar": {"A": "Mitokondride bulunurlar", "B": "Bakır iyonu içerirler", "C": "İlaç metabolizmasında en fazla görev alan tipi CYP2C9'dur", "D": "Alkolü metabolize eden alt tip özellikle CYP2A6'dır", "E": "Barbitüratlar aktivitelerinde artışa neden olur"}, "cevap": "E", "aciklama": "Mikrozomal enzimler (sitokrom P450) düz endoplazmik retikulumda bulunan, demir içeren hem proteinleridir; indüksiyon veya inhibisyona uğrayabilirler. İlaç metabolizmasında en fazla görev alan alt tip CYP3A4'tür; alkolü CYP2E1, fenitoin ve varfarini CYP2C9, kodein ve metoprololü CYP2D6 metabolize eder. Barbitüratlar (sekobarbital hariç), fenitoin, karbamazepin, rifampin, griseofulvin, kronik alkol ve sigara dumanı enzim indüksiyonu yapar. Simetidin, eritromisin, ketokonazol, valproik asit, metronidazol, amiodaron ve akut alkol ise enzim inhibisyonu yapar.", "not": "sik yazim; aciklamadaki hata (varfarin-2A6) duzeltildi", "zaman": "2026-09-25T19:41:53"}
+{"id": "cca771fbdedf16d7", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "68d485aa370601ac", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "e34263141f50231e", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "1f774081c7dbe307", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "40a1ed5830d6db34", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "a078ea43c9812a30", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "b60e66d197e84087", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "837c73d50fe28c01", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "1bf266fab4ea0339", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "78527be593f37187", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "7070f38df5b054b3", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "415313354608c414", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "f24c4a122a74770a", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "3413315544c8cf1d", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "0c30a84a438b1852", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "841a5f67a6b2c714", "karar": "ok", "zaman": "2026-09-25T19:41:54"}
+{"id": "a227712385b50a00", "karar": "duzelt", "aciklama_paragraf": 3, "not": "OCR'i bozuk neden listesi kesildi", "zaman": "2026-09-25T19:42:33"}
+{"id": "c16ae8e52444af81", "karar": "duzelt", "siklar": {"A": "Aktinik keratoz", "B": "Lökoplaki", "C": "Bowen hastalığı", "D": "Queyrat eritroplazisi", "E": "Paget hastalığı"}, "cevap": "E", "aciklama_paragraf": 3, "not": "A yazim; 'IRL' artikli satir ve sonrasi kesildi", "zaman": "2026-09-25T19:42:33"}
+{"id": "699aa4a42a38a03e", "karar": "duzelt", "govde": "Yirmi bir yaşında, son adet tarihine göre 11 haftalık gebeliği bulunan bir kadın ilk gebelik kontrolünü yaptırmak üzere başvurmuştur. Öyküsünden kan grubunun A Rh (-), eşinin kan grubunun ise A Rh (+) olduğu öğrenilmiştir. / Bu olguda ilk kontrolde istenen rutin testlere ek olarak aşağıdakilerden hangisi öncelikle istenmelidir?", "siklar": {"A": "Direkt Coombs testi", "B": "Kleihauer-Betke testi", "C": "Koryonik villus örneklemesi", "D": "İndirekt Coombs testi", "E": "Fetal umbilikal arter Doppler ultrasonografi"}, "cevap": "D", "not": "govde/sik yazim", "zaman": "2026-09-25T19:42:33"}
+{"id": "ca153d69bd4ce51a", "karar": "duzelt", "aciklama": "Penetran karın travmalarında kesin laparotomi endikasyonları; batını geçen ateşli silah yaralanması, hemodinamik instabilite, peritoneal irritasyon bulguları, omentum veya organ evisserasyonu, mide, rektum veya mesaneden kan gelmesi, radyolojik olarak serbest periton içi hava ve tanısal periton lavajında bakteri, safra veya gıda artığı saptanmasıdır. Peritona ulaşmamış kesici yaralanmalarda ise lokal yara eksplorasyonu yeterlidir; laparotomi endikasyonu yoktur.", "not": "bozuk aciklama yeniden yazildi", "zaman": "2026-09-25T19:42:33"}
+{"id": "f3ce7fb2abedcf0d", "karar": "duzelt", "siklar": {"A": "M. teres major", "B": "M. serratus anterior", "C": "M. subscapularis", "D": "M. supraspinatus", "E": "M. teres minor"}, "cevap": "B", "not": "kayip E sikki aciklamadan tamamlandi", "zaman": "2026-09-25T19:42:33"}
+{"id": "b7e6d837f156abb6", "karar": "duzelt", "aciklama": "Sirkümvallat papillalar sayıca en az olan, ancak tat tomurcuğundan en zengin papillalardır; sulcus terminalis'in önünde V şeklinde dizilirler. Filiform papillalar sayıca en fazla olan papillalardır, tat tomurcuğu içermez ve dokunma duyusuyla ilgilidir. Foliat papillalar insanda rudimenterdir; fungiform papillalar ise dilin ön kısmında dağınık halde bulunur ve az sayıda tat tomurcuğu içerir. Dermal papilla dile ait bir yapı değildir.", "not": "OCR'i bozuk not listesi yeniden yazildi", "zaman": "2026-09-25T19:42:33"}
+{"id": "a92962c5b5aa714c", "karar": "duzelt", "govde": "Yüksek aktivite gösteren kronik hepatit C virusu infeksiyonunun tedavisinde interferon-α ile kombinasyonu en başarılı bulunan antiviral aşağıdakilerden hangisidir?", "not": "govde bozuk alfa", "zaman": "2026-09-25T19:42:33"}
+{"id": "4a3c289412d06be7", "karar": "duzelt", "aciklama_paragraf": "5-", "not": "baska soruya ait sitokeratin/vimentin listesi kesildi", "zaman": "2026-09-25T19:42:33"}
+{"id": "0b157b3bfca9a8e0", "karar": "duzelt", "aciklama": "Demir eksikliği anemisinde anemiye bağlı genel semptomların yanında epitel dokularda değişiklikler görülür: angular stomatit, glossit, atrofik rinit, kaşık tırnak (koilonişi) ve disfaji (Plummer-Vinson sendromu). Olguların yaklaşık %10'unda hafif splenomegali olabilir; nadiren psödotümör serebri gelişebilir. Ataksi ve diğer nörolojik bulgular ise B12 vitamini eksikliğine bağlı megaloblastik anemide (subakut kombine dejenerasyon) beklenir; demir eksikliği anemisinin bulgusu değildir.", "not": "son paragrafi bozuk aciklama yeniden yazildi", "zaman": "2026-09-25T19:42:33"}
+{"id": "4efcb1f5a1a462c1", "karar": "duzelt", "govde": "Aşağıdaki durumların hangisinde fraksiyonel sodyum ekskresyonu (FENa) %1'in altındadır?", "not": "govde isaret artiklari", "zaman": "2026-09-25T19:42:33"}
+{"id": "06c0d95133a91723", "karar": "duzelt", "siklar": {"A": "Sistemik vasküler direnç artmıştır", "B": "Katekolaminlerde belirgin artış gözlenir", "C": "T3 ve T4 konsantrasyonlarında azalma görülür", "D": "IL-1 ve IL-6 düzeyinde artış görülür", "E": "Histamin düzeyinde azalma görülür"}, "cevap": "E", "not": "C sikki OCR", "zaman": "2026-09-25T19:42:33"}
+{"id": "356b24d77230bbda", "karar": "duzelt", "govde": "Aşağıdakilerden hangisinden şüphelenildiğinde böbrek biyopsisi gerekmez?", "siklar": {"A": "Membranoproliferatif glomerülonefrit", "B": "Alport sendromu", "C": "IgA nefropatisi", "D": "Fokal segmental glomerüloskleroz", "E": "Bartter sendromu"}, "cevap": "E", "not": "govde/sik yazim", "zaman": "2026-09-25T19:42:33"}
+{"id": "8d060d6cab3ca95d", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "82e2d090a08d4c17", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "721cd56864fb37d0", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "bc3d362833997531", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "9466777b68cd5d63", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "0c8dbb391b4f7792", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "5ed45b4e2da719bd", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "15446171431e23d8", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "28a0bd1cf0b71657", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "e21b8bb46e7b3175", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "555b0771407fca9e", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "fe752020d15d1bea", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
+{"id": "b98e4c3e93b1feab", "karar": "ok", "zaman": "2026-09-25T19:42:33"}
