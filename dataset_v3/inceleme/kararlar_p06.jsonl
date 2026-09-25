@@ -448,3 +448,53 @@
 {"id": "fde2720437c932df", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
 {"id": "27369f40eb17bfa3", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
 {"id": "3ef9e46930e79f2c", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "e8750337ddfeeb90", "karar": "duzelt", "siklar": {"A": "Febril nöbet - Fenobarbital", "B": "İnfantil spazm - Kosintropin", "C": "Status epileptikus - Diazepam", "D": "Absans nöbet - Fenitoin", "E": "Trigeminal nevralji - Karbamazepin"}, "cevap": "D", "not": "sik ayiraclari", "zaman": "2026-09-25T19:45:32"}
+{"id": "71b9d23a05c54623", "karar": "duzelt", "siklar": {"A": "c-abl", "B": "c-myc", "C": "bcl-1", "D": "bcl-2", "E": "N-myc"}, "cevap": "B", "not": "E yazim", "zaman": "2026-09-25T19:45:32"}
+{"id": "a476fb96e862293c", "karar": "duzelt", "aciklama_paragraf": 2, "not": "baska soruya ait kardiyak arrest aciklamasi kesildi", "zaman": "2026-09-25T19:45:32"}
+{"id": "3f4686327a0d83fd", "karar": "duzelt", "govde": "Alt ekstremitelerden ve gövdenin alt bölümünden bilince giden derin duyuyu taşıyan yol aşağıdakilerden hangisidir?", "aciklama_paragraf": 5, "not": "baska soruya ait karaciger komsuluklari kesildi", "zaman": "2026-09-25T19:45:32"}
+{"id": "b3fd8685edaa054b", "karar": "duzelt", "aciklama": "Üre döngüsünün ilk iki basamağı mitokondride gerçekleşir: karbamoil fosfat sentetaz I ile karbamoil fosfat oluşur, ornitin transkarbamoilaz ile karbamoil fosfat ornitinle birleşerek sitrülini oluşturur. Oluşan sitrülin, bir taşıyıcı aracılığıyla mitokondriden sitoplazmaya geçer; ornitin ise karşı yönde mitokondriye taşınır. Sitoplazmada sitrülin aspartatla birleşerek arjininosüksinatı, bu da fumarat ve arjinini oluşturur; arjinaz ile üre ve ornitin açığa çıkar.", "not": "akut faz proteinleri hakkindaki ilgisiz aciklama yerine aciklama yazildi", "zaman": "2026-09-25T19:45:32"}
+{"id": "1203b08754451c77", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "57e27b942e92a858", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "76f08151e4ba21dc", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "621eab8cbf19c62b", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "3a77a23ee5252a87", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "95b9d9121566e478", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "038a0d2fd43c58c4", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "2912deea6fa7d111", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "1d9e15908ef62da8", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "78e9730e641183fb", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "c301191b17f24d2e", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "4a3b40d333ab5288", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "1dedccf53ef86ebe", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "7cb9c248c56c149f", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "10a593aaf8ddf4f6", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "a4ca53ad40044bda", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "10b5098961bd8c2d", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "0eb3aeb19ca7702b", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "b80fec0c6843c8bf", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "4b32f387d3917ad4", "karar": "ok", "zaman": "2026-09-25T19:45:32"}
+{"id": "912918b56e7001c1", "karar": "duzelt", "aciklama_paragraf": 8, "not": "bozuk son satir kesildi", "zaman": "2026-09-25T19:46:10"}
+{"id": "6a73c4bcb3a1957d", "karar": "duzelt", "govde": "Psikiyatri acillerinde kullanılan santral etkili antikolinerjik aşağıdakilerden hangisidir?", "aciklama": "Biperiden santral etkili bir antikolinerjiktir; antipsikotiklerin yol açtığı ekstrapiramidal yan etkileri (akut distoni vb.) önlemek ve tedavi etmek amacıyla haloperidol ve klorpromazin ile birlikte psikiyatrik acil kokteylinde yer alır. Haloperidol ve klorpromazin antipsikotiktir; klozapin atipik bir antipsikotik olup antikolinerjik yan etkileri olsa da acil kullanımda tercih edilmez. Atropin periferik etkili antimuskarinik bir ilaçtır ve psikiyatrik acillerde kullanılmaz.", "not": "aciklamadaki hata (biperiden NMDA blokoru) duzeltildi", "zaman": "2026-09-25T19:46:10"}
+{"id": "90613a0a3f3431e1", "karar": "duzelt", "govde": "İki yıldır kronik böbrek yetmezliği sürecinde olan ve konservatif olarak takip edilen hasta kaşıntı sebebi ile başvuruyor. Hastanın yapılan tetkiklerinde BUN 120 mg/dL, serum kreatinin 6,4 mg/dL, Ca 7,2 mg/dL, fosfor 9,6 mg/dL, PTH düzeyi belirgin yüksek olarak saptanıyor. / Bu hastanın tedavisinde en uygun yaklaşım aşağıdakilerden hangisidir?", "siklar": {"A": "Hastanın hemen diyalize alınması", "B": "Ca++ içeren fosfor bağlayıcı ajanlarla fosforun düşürülmesi ve diyet", "C": "Yalnızca fosfordan fakir diyet verilmesi", "D": "Yüksek doz aktif vit-D3 başlayarak PTH düzeyinin baskılanması", "E": "Paratiroidektomi"}, "cevap": "B", "not": "govde/sik OCR", "zaman": "2026-09-25T19:46:10"}
+{"id": "d4f5d64812bce624", "karar": "duzelt", "siklar": {"A": "Stenotrophomonas maltophilia", "B": "Escherichia coli", "C": "Pseudomonas aeruginosa", "D": "Klebsiella pneumoniae", "E": "Acinetobacter calcoaceticus-baumannii kompleks"}, "cevap": "A", "not": "E yazim", "zaman": "2026-09-25T19:46:10"}
+{"id": "7d83edead71477c6", "karar": "duzelt", "siklar": {"A": "Eliminasyon hızı ilaç konsantrasyonuyla orantılıdır.", "B": "Eliminasyon hızında doygunluk bulunmaz.", "C": "İlaçların büyük bir kısmının eliminasyonu bu kinetiğe uyar.", "D": "Alkol ve fenitoin eliminasyonu bu kinetiğe uyar.", "E": "Eliminasyon hızı zamana göre değişkenlik gösterir."}, "cevap": "D", "not": "sik yazim", "zaman": "2026-09-25T19:46:10"}
+{"id": "34b08a6a77a9990d", "karar": "duzelt", "govde": "Sadece bir germ hücre tabakasından gelişmiş, ancak farklı parankimal grupları içeren tümör aşağıdakilerden hangisidir?", "not": "yapisik kelime", "zaman": "2026-09-25T19:46:10"}
+{"id": "a88cde044aded2e2", "karar": "duzelt", "siklar": {"A": "Üç gün üst üste açlık mide suyu incelemesi", "B": "İlaç vermeden 3 ayda bir kontrol", "C": "İzoniazid 9 ay süreyle tedavi", "D": "İzoniazid ve rifampisin ile 9 ay süre ile tedavi", "E": "İzoniazid + rifampisin + streptomisin + etambutol ile 6 ay tedavi"}, "cevap": "C", "aciklama_paragraf": 2, "not": "sik yazim; bos kalan tablo basligi kesildi", "zaman": "2026-09-25T19:46:10"}
+{"id": "14acad38b7c591e7", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "artik 'R' kesildi", "zaman": "2026-09-25T19:46:10"}
+{"id": "67eac1cdbbfb6e4b", "karar": "duzelt", "govde": "İntramüsküler yapılmayan aşı aşağıdakilerden hangisidir?", "siklar": {"A": "Kuduz aşısı", "B": "Tetanoz aşısı", "C": "Hepatit aşısı", "D": "Difteri-Boğmaca-Tetanoz (DBT) aşısı", "E": "BCG aşısı"}, "cevap": "E", "not": "sik artik parantez", "zaman": "2026-09-25T19:46:10"}
+{"id": "6a8a9c7ca328ed51", "karar": "duzelt", "aciklama": "Respiratuvar alkaloz hiperventilasyon sonucu gelişir; pCO2 azalır (hipokapni) ve pH yükselir. Hiperventilasyona çoğu zaman hipoksi yol açar. Alkalozda hipokalemi, hipofosfatemi ve hipokalsemi görülür; iyonize kalsiyumun azalmasına bağlı olarak tetani ve konvülsiyon gelişebilir. Alkaloz ve hipokapnide hemoglobin-oksijen disosiyasyon eğrisi sola kayar; hemoglobinin oksijene afinitesi artar ve dokulara oksijen verimi azalır. Bu nedenle eğrinin sağa kayması respiratuvar alkalozda beklenmez.", "not": "aciklamadaki hatalar (metabolik alkaloz, O2 tasima kapasitesi) duzeltildi", "zaman": "2026-09-25T19:46:10"}
+{"id": "ad2b301a622c029a", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "cc5565a638fc8d7e", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "be4aa88f0f15cdaa", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "c83bf2f72249ed00", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "6922b2b8f7e4ef74", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "734e5a04e0f45829", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "83bfd6b2e160babe", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "401debc86a49b54f", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "6054f7d993591230", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "1d17eb63835a549d", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "5d0251716122937c", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "14efcdee84b052b2", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "dd85d1275ca766d3", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "ae283b22ddaf2d71", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
+{"id": "ca272005fdfb3523", "karar": "ok", "zaman": "2026-09-25T19:46:10"}
