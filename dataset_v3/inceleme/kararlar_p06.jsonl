@@ -948,3 +948,53 @@
 {"id": "461e98dc37a3f4d5", "karar": "ok", "zaman": "2026-09-25T19:57:05"}
 {"id": "e9d18f4457f874e5", "karar": "ok", "zaman": "2026-09-25T19:57:05"}
 {"id": "34350c7d0bcc1a78", "karar": "ok", "zaman": "2026-09-25T19:57:05"}
+{"id": "ad96c6497b181e19", "karar": "duzelt", "govde": "Yirmi beş yaşında bayan hasta intihar amacıyla kostik madde içiyor. Hastaya hemodinamik stabilizasyondan hemen sonra endoskopi yapılıyor. / Bu hastada endoskopist mukozada soyulma, ülserler, psödomembran oluşumu gibi kostik madde içimine bağlı patolojik görüntüleri en sık hangi anatomik lokalizasyonda görür?", "not": "govde OCR (endoskopi st)", "zaman": "2026-09-25T19:58:03"}
+{"id": "bce22992943336a2", "karar": "duzelt", "aciklama_paragraf": 13, "not": "sondaki bos baslik kesildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "01c5349741a6eae9", "karar": "duzelt", "aciklama": "Polikistik over sendromu hirsutizmin en sık nedenidir; oligoanovulasyon, menstrüel düzensizlik, infertilite, obezite ve hirsutizm ile karakterizedir. Tanıda oligo-anovulasyon, klinik veya biyokimyasal hiperandrojenizm ve ultrasonografide polikistik over görünümünden ikisinin varlığı yeterlidir. İnsülin direnci ve kronik anovulasyona bağlı karşılanmamış östrojen etkisi nedeniyle uzun dönemde tip 2 diyabet, kardiyovasküler hastalık, endometrium kanseri, meme ve over kanseri riski artar. Serviks kanseri ise HPV ile ilişkilidir ve PCOS'ta riski artmaz.", "not": "aciklamada OCR karakter bozuklari, yeniden yazildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "8ab599eeaf185ba3", "karar": "duzelt", "aciklama_paragraf": 3, "not": "koagulasyon sorusuna ait paragraflar kesildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "aaf1a3a75b98c4a0", "karar": "duzelt", "siklar": {"A": "Calor", "B": "Rubor", "C": "Tümör", "D": "Staz", "E": "Fonksiyon kaybı"}, "cevap": "D", "aciklama_paragraf": "1-", "not": "A sikki yazim; anlamsiz ilk cumle kesildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "79ac88770e35fd62", "karar": "duzelt", "aciklama": "Bowen hastalığı derinin in situ skuamöz hücreli karsinomudur. Epidermisin tüm katlarını tutan atipik keratinositler bulunur ancak bazal membran aşılmamıştır. Tedavi edilmezse bazal membranı aşarak invaziv skuamöz hücreli karsinoma dönüşebilir. Derinin skuamöz hücreli karsinomu için diğer predispozan durumlar güneş ışığı, aktinik keratoz, arsenik, kronik yara ve skarlar, immünsüpresyon ve HPV enfeksiyonudur.", "not": "aciklama tiroid kanserine aitti, yeniden yazildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "8524f792edf040b3", "karar": "duzelt", "aciklama_paragraf": 3, "not": "ilgisiz IFN-gamma paragrafi kesildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "afb5bfcdc23cc94a", "karar": "duzelt", "govde": "Aşağıdaki antineoplastik ilaçlardan hangisi hücre siklusunu G1 aşamasında durdurarak etki gösterir?", "aciklama": "L-asparajinaz, lösemi hücrelerinde asparajin miktarını azaltarak protein sentezini ve dolayısıyla hücre proliferasyonunu engeller. Hücre siklusunu G1 aşamasında durdurur. En dar spektrumlu antineoplastik ilaçtır ve esas olarak ALL tedavisinde kullanılır. En sık yan etkisi alerjik reaksiyonlardır; myelosupresyon yapmaz. Pankreatit ve hiperglisemi, hiperamonyemi, hipoalbüminemi ve koagülasyon bozukluklarına bağlı tromboemboli diğer önemli yan etkileridir.", "not": "govdeye ve aciklamaya HIV ilaclari karismis; temizlendi", "zaman": "2026-09-25T19:58:03"}
+{"id": "ed356256cdb62c80", "karar": "duzelt", "aciklama_paragraf": 1, "not": "megaloblastik anemi paragrafi kesildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "dc921c2fa7280548", "karar": "at", "neden": "cevap_supheli", "not": "C (teratom radyosensitif) yanlis ama E (Sertoli-Leydig - sik gec puberte) da yanlis gorunuyor; aciklama filloides/MS ile karisik", "zaman": "2026-09-25T19:58:03"}
+{"id": "cf98a8ea0f46af88", "karar": "duzelt", "govde": "Aşağıdaki faktörlerden hangisi travmada glukokortikoid antagonisti olarak fonksiyon gösterir?", "siklar": {"A": "Kortizol", "B": "IL-6", "C": "IL-8", "D": "Makrofaj migrasyon inhibitör faktör (MIF)", "E": "Büyüme hormonu"}, "cevap": "D", "aciklama": "Makrofaj migrasyon inhibitör faktör (MIF), travma ve stres yanıtı sırasında ön hipofiz ve makrofajlardan salınan bir proinflamatuar sitokindir. Glukokortikoidlerin antiinflamatuar ve immünsüpresif etkilerini antagonize eder, bu nedenle travmada glukokortikoid antagonisti olarak görev yapar. Kortizol ise travmada artan başlıca glukokortikoidin kendisidir.", "not": "govde dil, sik yazimi; aciklama iskemi-reperfuzyona aitti, yeniden yazildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "f62db399720b70b9", "karar": "duzelt", "siklar": {"A": "2 ve 4", "B": "3 ve 4", "C": "2 ve 3", "D": "1 ve 2", "E": "1 ve 3"}, "cevap": "E", "not": "D sikki yazim", "zaman": "2026-09-25T19:58:03"}
+{"id": "d590e0ec7e3ba1e9", "karar": "duzelt", "aciklama": "Meissner cisimcikleri derinin tüysüz bölgelerinde, özellikle parmak uçları ve dudaklarda bol bulunan, hızlı adapte olan kapsüllü dokunma reseptörleridir. Reseptif alanları küçük olduğundan iki nokta diskriminasyonu ve ince dokunma duyusunda önemlidir. Merkel diskleri yavaş adapte olur ve sürekli dokunmayı algılar; Ruffini cisimcikleri germe ve sürekli basınca duyarlıdır.", "not": "aciklama yalnizca serbest sinir uclarini anlatiyordu, yeniden yazildi", "zaman": "2026-09-25T19:58:03"}
+{"id": "5c861fe416b58494", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "c246b7dfe98adeba", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "512fe6d3d6761b64", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "771ba3919e10fdf7", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "27183b79f40bfd94", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "0d0eeeaed44e814b", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "7f887c9b4e55c288", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "ed9d998b013d70b7", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "63849509ff715e7f", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "694368fb4dcdf220", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "725ac53abe4aabe8", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "522f7270b379be8e", "karar": "ok", "zaman": "2026-09-25T19:58:03"}
+{"id": "8c9bceda18c4616e", "karar": "duzelt", "govde": "Otuzbeş yaşında bayan hasta halsizlik, ateş, zayıflama, sol üst kadranda ağrı şikayeti ile doktora başvuruyor. Fizik muayenede dalak kosta kenarından 10 cm, karaciğer 4 cm palpabl, aksiller 3 adet 2x2 cm lenfadenopati bulunuyor. Laboratuvarda hemoglobin 12 g/dl, lökosit 110.000/mm3, trombosit 675.000/mm3 olarak saptanıyor. Periferik yaymada monositoz, eozinofili, myelosit, metamyelosit ve normoblastlar görülüyor. Lökosit alkalen fosfataz düzeyi düşük bulunuyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "govde OCR (12g/d|)", "zaman": "2026-09-25T19:58:36"}
+{"id": "9d83aa1c01267d12", "karar": "duzelt", "govde": "İki gündür devam eden ishal nedeniyle acil servise başvuran bir hastanın kan gazı örneğinde pH 7.20, pCO2 29 mmHg, HCO3 değeri 14 mEq/L, Na+ düzeyi 140 mEq/L, K+ düzeyi 4,7 mEq/L ve Cl- düzeyi 122 mEq/L saptanıyor. / Bu hastadaki asit-baz bozukluğu aşağıdakilerden hangisidir?", "not": "govde OCR (a+ -> Na+, CI -> Cl-)", "zaman": "2026-09-25T19:58:36"}
+{"id": "1b704dfd8a0ce9c2", "karar": "duzelt", "siklar": {"A": "Evre I", "B": "Evre II", "C": "Evre III", "D": "Evre IV", "E": "Evre V"}, "cevap": "C", "not": "A sikkinda artik 'TU'", "zaman": "2026-09-25T19:58:36"}
+{"id": "9e8301be65241d3d", "karar": "duzelt", "siklar": {"A": "Kolposkopide lezyon sınırlarının görülmemesi", "B": "Kolposkopide skuamokolumnar bileşkenin görülememesi", "C": "Biyopsi sonucunun invazif kanser olması", "D": "Sitoloji ve kolposkopik biyopsi sonucu arasında uyumsuzluğun olması", "E": "Endoservikal küretaj sonucunun CIN II-III olması"}, "cevap": "C", "aciklama_paragraf": 2, "not": "E sikki OCR; aciklamada icerigi kayip tablo basligi kesildi", "zaman": "2026-09-25T19:58:36"}
+{"id": "726a559bda88c447", "karar": "duzelt", "aciklama": "Bir maddenin membrandan tek başına geçmesine uniport, başka bir maddeye bağımlı olarak geçmesine kotransport denir. Kotransport simport ve antiport olmak üzere ikiye ayrılır. Simportta iki molekül aynı yöne taşınır; bağırsak hücresine glukozun sodyumla birlikte alınması ve pirüvatın hidrojenle birlikte mitokondri matriksine geçişi buna örnektir. Antiportta ise moleküller zıt yönlere taşınır; Na+/K+ ATPaz ve eritrositlerdeki bikarbonat-klorür değişimi (klorür kayması) antiport örnekleridir. Fruktoz ise bağırsak hücresine sodyumdan bağımsız olarak, GLUT5 aracılığıyla kolaylaştırılmış difüzyonla alınır.", "not": "aciklamada sekil metni bozuk, yeniden yazildi", "zaman": "2026-09-25T19:58:36"}
+{"id": "245202f4bdca5818", "karar": "at", "neden": "sik_kayip", "not": "orijinal siklar viral-bakteriyel ikilisiydi; bakteriyel kisim kayip, D (5. hastalik) ve E (eritema infeksiyozum) ayni hastalik", "zaman": "2026-09-25T19:58:36"}
+{"id": "3793fb83d4918064", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "f978682d695d3534", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "41009a07d99cd62c", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "46426217d495f23f", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "1215191d42f3a7e2", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "1258597067091762", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "ddab093ecf956664", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "e556d521246d9344", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "a48dacaa78ca1c33", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "d66b3757d874d21b", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "b06c0e347fea8523", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "8c7c31e5ae7a9b9c", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "ae196a32a875486d", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "41f41c2c99ac955a", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "68d700da0a1d58d0", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "27d21e159008ecca", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "b09d1e5f3683045c", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "7be6fee3304b8b21", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
+{"id": "188ceb55583a2d23", "karar": "ok", "zaman": "2026-09-25T19:58:36"}
