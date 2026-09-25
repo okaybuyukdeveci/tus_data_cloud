@@ -1748,3 +1748,53 @@
 {"id": "c9df7fa464b504ca", "karar": "ok", "zaman": "2026-09-25T18:58:37"}
 {"id": "00fea455ff229328", "karar": "ok", "zaman": "2026-09-25T18:58:37"}
 {"id": "fae1752c39078b50", "karar": "ok", "zaman": "2026-09-25T18:58:37"}
+{"id": "0329c16c467a4232", "karar": "duzelt", "govde": "A. mesenterica inferior'un sindirim kanalında beslediği bölgenin alt sınırı aşağıdakilerden hangisidir?", "siklar": {"A": "İnen kolon - sigmoid kolon", "B": "Rektosigmoid bileşke", "C": "Üst 1/3 rektum - orta 1/3 rektum", "D": "Orta 1/3 rektum - alt 1/3 rektum", "E": "Alt 1/3 rektum - anal kanal"}, "cevap": "C", "not": "Govde ve siklardaki OCR harf hatalari duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "c026c35c3fd3b163", "karar": "duzelt", "aciklama_paragraf": 1, "not": "Bozuk sekil/formul metni kesildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "c4b208a686ea0a5b", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi hemoglobine bağlanan bir ligand değildir?", "siklar": {"A": "Amonyak", "B": "2,3-difosfogliserat", "C": "Karbondioksit", "D": "H+ iyonları", "E": "Karbonmonoksit"}, "cevap": "A", "not": "Govde yazim hatasi ve D sikkindaki simge duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "00429f314f97fb50", "karar": "duzelt", "aciklama": "Ubikitin tüm ökaryotik hücrelerde bulunan, evrimsel olarak yüksek oranda korunmuş, 76 amino asitlik küçük bir polipeptittir. Yıkılacak hücre içi proteinlere ATP kullanılarak ubikitin aktive edici (E1), ubikitin bağlayıcı (E2) ve ubikitin ligaz (E3) enzimleri yardımıyla kovalent olarak bağlanır. Birden çok ubikitin molekülü taşıyan (poliubikitinlenmiş) proteinler proteazom tarafından tanınır ve ATP bağımlı olarak peptidlere yıkılır. Bu nedenle ubikitin, ATP bağımlı hücre içi protein yıkımında sinyal görevi görür. Ubikinon (koenzim Q) ise elektron transport zincirinde elektron taşıyıcısıdır.", "not": "Aciklama OCR ile bozulmustu, yeniden yazildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "aa5becfde11b4647", "karar": "duzelt", "govde": "Yan zincirlerinde metil grubu taşıyan aşağıdaki amino asitlerden hangisinin metil grubu transmetilasyon tepkimelerinde kullanılır?", "aciklama_paragraf": 1, "not": "Govdede yazim hatasi duzeltildi; bolum basligi artigi kesildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "b27b508674963294", "karar": "duzelt", "aciklama_paragraf": 5, "not": "Bolum basligi artigi kesildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "cd30232f93c8a433", "karar": "duzelt", "siklar": {"A": "Geçirilmiş intrakraniyal kanama", "B": "Serebral arteriovenöz malformasyon varlığı", "C": "Aort diseksiyonu kuşkusu", "D": "Kanama diyatezi", "E": "Uzamış (>10 dakika) kardiyopulmoner resüsitasyon"}, "cevap": "E", "not": "E sikkinda bozuk sure ifadesi duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "6e34bc72037cd239", "karar": "duzelt", "govde": "Anemili bir hastada retikülositoz da saptanmışsa en olası tanı aşağıdakilerden hangisidir?", "not": "Govdede bitisik/bolunmus kelimeler duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "89dc1bcaf25b4a7c", "karar": "duzelt", "govde": "Belirgin asiti olan sirotik hasta genel durumunda bozulma ile hastaneye başvuruyor. Yapılan incelemede asit polimorfonükleer lökosit sayısı 500/mm3 bulunuyor. Cerrahi tedavi gerektiren bir bulgu olmayan hastada asit kültüründe E. coli ürüyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "not": "Govdede bozuk birim duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "16c0ae4113c32313", "karar": "at", "neden": "baglam_gerekli", "not": "Onceki (43 numarali) soruya bagli", "zaman": "2026-09-25T18:59:11"}
+{"id": "eab5f76b5498d06a", "karar": "duzelt", "govde": "Diabetes mellitusu olan bir gebede, aşağıdakilerden hangisi fetus ve yenidoğanda görülmesi beklenen komplikasyonlardan biri değildir?", "siklar": {"A": "Konjenital anomaliler", "B": "Hipoglisemi", "C": "Hiperkalsemi", "D": "Polisitemi", "E": "Hiperbilirubinemi"}, "cevap": "C", "not": "Govdedeki fazla tirnak ve E sikkindaki yazim hatasi duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "a7d6fe1e2b035d85", "karar": "duzelt", "siklar": {"A": "Hiperkalemi", "B": "Kusma ve hidroklorik asit kaybı sonucu alkaloz", "C": "Açlığa sekonder asidoz", "D": "Geçici karaciğer disfonksiyonu", "E": "Dehidratasyon, kilo kaybı"}, "cevap": "A", "not": "B ve D siklarindaki OCR karakter hatalari duzeltildi", "zaman": "2026-09-25T18:59:11"}
+{"id": "a5f43e9675c6396b", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "8f2e5c1d305327f0", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "b354a63082ab851f", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "477d26e5f5057776", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "e3eeeb6c736ce47a", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "459cbaae76e53001", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "e25f8cf5100ecc82", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "4cd85427f8b3692c", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "a9870624b3895ce3", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "4da6ae92bc2b28a3", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "59cef22c88168ba5", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "9e70e8a9d306c3a6", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "5124af5a4ab02cf7", "karar": "ok", "zaman": "2026-09-25T18:59:11"}
+{"id": "ddb023757cb19aac", "karar": "duzelt", "siklar": {"A": "Derin tendon reflekslerinde artma", "B": "Konuşma bozukluğu", "C": "Yürüme bozukluğu", "D": "Postür bozukluğu", "E": "Tonus bozukluğu"}, "cevap": "A", "not": "D ve E siklarinda OCR harf hatalari duzeltildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "acd1702449203550", "karar": "duzelt", "govde": "Bir toplumda bir yılda meydana gelen canlı doğum sayısının yıl ortası nüfusa bölünmesi ile elde edilen epidemiyolojik ölçüt aşağıdakilerden hangisidir?", "not": "Govdede OCR harf hatalari duzeltildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "173e1e2ef9b2de48", "karar": "duzelt", "govde": "Aşağıdaki sinirlerden hangisi ön kol, el bileği ve el parmak ekstansör kaslarını innerve eder ve kesi, kurşun yarası veya sert dış yüzeylere dayanma sonucu sıkışarak “düşük el” oluşturur?", "not": "Govdede dis/dış OCR hatasi duzeltildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "a62f87a9e28eb52d", "karar": "duzelt", "govde": "Yetmiş yaşında bir erkek hasta, 4 gün içinde yavaşça ilerleyerek yerleşen simetrik bir kuadriparezi nedeniyle getiriliyor. Duyu muayenesi normal olan hastanın refleksleri alınamıyor ve iki yanlı fasiyal parezisi olduğu saptanıyor. / Bu hasta için en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Guillain-Barré sendromu", "B": "Servikal medulla basısı", "C": "Pons hematomu", "D": "Atlanto-aksiyal subluksasyon", "E": "Baziller arter trombozu"}, "cevap": "A", "not": "Govde ve siklarda OCR harf hatalari duzeltildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "8c3b5b0a850af3c9", "karar": "duzelt", "govde": "Kırk yaşındaki erkek hasta geçirdiği trafik kazası sırasında ciddi bir yaralanma olmadığını ancak sağda lokalize boyun ağrısı yakınması olduğunu belirtiyor. Ağrının, izleyen 2 gün içinde giderek arttığı ve ipsilateral başa doğru yayıldığı öğreniliyor. Bu sırada sol yan güçsüzlüğü gelişiyor. Bilinen vasküler risk faktörü bulunmayan hastanın muayenesinde sağda hafif ptozis ve miyozis, solda hemiparezi ve hemihipoestezi saptanıyor. / Bu hasta için en olası tanı aşağıdakilerden hangisidir?", "not": "Govdede OCR harf hatalari ve fazla isaret temizlendi", "zaman": "2026-09-25T18:59:43"}
+{"id": "df782e227e2f7590", "karar": "duzelt", "govde": "Diyabetik ketoasidozla başvuran elli sekiz yaşında erkek hastanın fizik muayenesinde ateş, sağ gözde şişlik ve pitozis saptanıyor. Sağ eksternal etmoidektomi sırasında alınan sinüs materyalinin mikroskobik incelemesinde septasız, dik açıyla dallanan düzensiz kontürlü hifler görülmüştür. / Hastada görülen bu yapılar aşağıdaki mantarlardan hangisine ait olabilir?", "not": "Govdede yas ifadesindeki eksik harf duzeltildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "32c67ad84197d4f9", "karar": "duzelt", "siklar": {"A": "Neisseria gonorrhoeae", "B": "Adenovirüs", "C": "Streptococcus pneumoniae", "D": "Chlamydia trachomatis", "E": "Norwalk virüsü"}, "cevap": "B", "not": "E sikkinda OCR harf hatasi duzeltildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "b8065564ea11a861", "karar": "duzelt", "aciklama_paragraf": 3, "not": "Bolum basligi artigi kesildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "3e4fd36282943c7e", "karar": "duzelt", "aciklama": "Normal doğum eylemi sırasında zarlar genellikle servikal açılma tamamlandıktan sonra, ikinci evrede kendiliğinden açılır. Zarların doğum eyleminden önce açılması erken membran rüptürü olarak adlandırılır ve enfeksiyon, kordon sarkması gibi riskler taşır. Klinik uygulamada amniyotomi, amniyon sıvısının rengi (mekonyum varlığı) hakkında bilgi vermesi ve eylemi hızlandırması amacıyla genellikle baş angaje olduktan sonra 4-5 cm açıklıkta yapılabilir.", "not": "Aciklama OCR copuydu, yeniden yazildi", "zaman": "2026-09-25T18:59:43"}
+{"id": "326bdc9aef1263b9", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "61be1af20327bc44", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "a273c7c137355df3", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "83ea1e5b4a7b182d", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "3214ed51190c0215", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "5ff0b8fd7eb8d46b", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "790bdc8d7b5f9739", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "db7931f6ff0a0102", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "c948d7d9011fc6b5", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "c73733017dc658d8", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "023bbbb11121390c", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "a29c3793add31f89", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "f71be2143ffb242a", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "b9fcdba35b6fa7ce", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "a9d6cc413730a8c4", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
+{"id": "9f0b7a560e04eecb", "karar": "ok", "zaman": "2026-09-25T18:59:43"}
