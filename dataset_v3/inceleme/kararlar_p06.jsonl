@@ -398,3 +398,53 @@
 {"id": "f5b06a586b935ed4", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
 {"id": "a5782d9444a020b3", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
 {"id": "b5bb47410fd1a3c4", "karar": "ok", "zaman": "2026-09-25T19:43:54"}
+{"id": "a594903eb41ae7cd", "karar": "duzelt", "govde": "Meme kanseri nedeni ile radyoterapi alan hastada tedavinin 6. haftasında bilateral yaygın pnömonik infiltrasyon saptanıyor. Bu hastada aşağıdakilerden hangisi en olası tanıdır?", "not": "govde yazim", "zaman": "2026-09-25T19:44:33"}
+{"id": "a43f270e04eb90b3", "karar": "duzelt", "aciklama_paragraf": 1, "not": "sonraki soruya ait veri tablosu kesildi", "zaman": "2026-09-25T19:44:33"}
+{"id": "dd6636e19a0d2bdd", "karar": "duzelt", "siklar": {"A": "Otozomal resesif kalıtılan genetik bir hastalıktır", "B": "İç genital organlar dişide ve erkekte normaldir", "C": "Dış genital organlar erkekte normaldir, şüpheli yapı yoktur", "D": "Dış genital organlar dişide şüpheli cinsiyet bulgusu gösterir", "E": "İç genital organlar dişide sorunludur, yapısal olarak hasarlıdır"}, "cevap": "E", "not": "satir kirilmalari, yazim", "zaman": "2026-09-25T19:44:33"}
+{"id": "98cb4ff283a3fc04", "karar": "duzelt", "govde": "Demir eksikliği anemisi nedeni ile tedavi başlanılan hastada tedaviye en erken cevap aşağıdakilerden hangisidir?", "siklar": {"A": "Huzursuzlukta düzelme", "B": "Kemik iliğinde eritroid seride hiperplazi", "C": "Retikülositoz", "D": "Hemoglobinde artma", "E": "Depoların dolması"}, "cevap": "A", "aciklama": "Demir tedavisine yanıt belirli bir sırayla ortaya çıkar. İlk 12-24 saatte demir içeren hücre içi enzimler düzelir; huzursuzluk ve irritabilite geriler. 36-48 saatte kemik iliği yanıtı başlar ve eritroid seride hiperplazi görülür. 48-72 saatte retikülositoz başlar ve 5-7. günlerde pik yapar. Hemoglobin 4-30 gün içinde artar, demir depoları ise 1-3 ayda dolar. Bu nedenle tedaviye en erken yanıt huzursuzlukta düzelmedir.", "not": "E sikkina yapisan aciklama ayrildi; aciklama sizan metinden yazildi", "zaman": "2026-09-25T19:44:33"}
+{"id": "776e77bef1a8a372", "karar": "duzelt", "siklar": {"A": "Human papilloma virüs", "B": "Adenovirüs", "C": "Varisella zoster virüs", "D": "Epstein-Barr virüs", "E": "Herpes simpleks virüs"}, "cevap": "E", "aciklama_paragraf": 11, "not": "ilgisiz konjonktivit turleri kesildi; sik yazim", "zaman": "2026-09-25T19:44:33"}
+{"id": "1b64ab4c72380f7a", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi bakırlı metaloenzimdir?", "aciklama": "Bakır (Cu2+) içeren önemli enzimler sitokrom oksidaz, serüloplazmin, dopamin β-hidroksilaz, sitoplazmik süperoksit dismutaz, lizil oksidaz, tirozinaz, ürat oksidaz ve monoamin oksidazdır. Arginaz manganez, peroksidaz demir, pirüvat kinaz magnezyum ve potasyum, karbonik anhidraz ise çinko içeren/gerektiren enzimlerdir. Sitokrom oksidaz hem demir hem bakır içerir.", "not": "bozuk basli aciklama yeniden yazildi", "zaman": "2026-09-25T19:44:33"}
+{"id": "f319913365ac549e", "karar": "at", "neden": "cevap_supheli", "not": "S. dysenteriae tip 1 shiga toksin geni kromozomaldir (faj kodlu olan EHEC Stx); anahtar bakteriyofaj tartismali", "zaman": "2026-09-25T19:44:33"}
+{"id": "65d86d08ca4d89dc", "karar": "duzelt", "govde": "Ekstrakorporeal dolaşıma alınmış kanın pıhtılaşmasını engellemek için aşağıdakilerden hangisi kullanılır?", "not": "govde tire", "zaman": "2026-09-25T19:44:33"}
+{"id": "d4e3cb89db188471", "karar": "duzelt", "siklar": {"A": "Dolaşımdaki anti-HLA antikorları", "B": "Dolaşan donör T hücre antikorlarına bağlı", "C": "Kullanılan immünsupresiflere bağlı", "D": "Fokal segmental glomerüloskleroza bağlı", "E": "Akut tübüler nekroza bağlı"}, "cevap": "A", "not": "sik yazim", "zaman": "2026-09-25T19:44:33"}
+{"id": "5a580b62aa6f9cc9", "karar": "duzelt", "govde": "Solukluk nedeniyle getirilen 6 aylık bir çocuğun yapılan tam kan sayımında hemoglobin düzeyi 3,3 g/dL, MCV 107 fL, retikülosit sayısı %0, lökosit sayısı 6300/mm3 ve trombosit sayısı 230.000/mm3 olarak bulunuyor. Eritrosit adenozin deaminaz düzeyi artmış bulunuyor. / Bu hasta için en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Fanconi aplastik anemisi", "B": "Demir eksikliği anemisi", "C": "Eritrolösemi", "D": "Kurşun zehirlenmesi", "E": "Diamond-Blackfan anemisi"}, "cevap": "E", "not": "trombosit sayisi OCR (2300000), yazim", "zaman": "2026-09-25T19:44:33"}
+{"id": "1d03b508e5d4c281", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "e8c561a33f39c5e7", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "1b06b1c41e664527", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "70da400b1a1153ce", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "cd8e57ba86aef452", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "be5fd58ee8cc6ee3", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "0bfba595ccdf7ab2", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "65da2aad1eb83957", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "c8d86c0b4429f876", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "eff613b508310248", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "f4fa21aa3484b492", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "6aacb949c2f17f09", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "dc46be38203cecb9", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "93ef69e8c4d8ed11", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "0b22a90274cbe412", "karar": "ok", "zaman": "2026-09-25T19:44:33"}
+{"id": "f568cc99f80ee0b5", "karar": "duzelt", "govde": "Kırk yaşında erkek hasta epigastrik ağrı, kilo kaybı ve ishal şikayetiyle başvuruyor. Hastanın tetkiklerinde hipoproteinemi tespit ediliyor. Endoskopisinde proksimal mide gastrik kıvrımlarının kabalaştığı ve endoskopik biyopside yüzey mukus sekresyonu yapan hücrelerde diffüz hiperplazi tespit ediliyor. / Bu hastada en olası tanı aşağıdakilerden hangisidir?", "siklar": {"A": "Gastrik antral vasküler ektazi", "B": "Menetrier hastalığı", "C": "Dieulafoy lezyonu", "D": "Mide lenfoması", "E": "Leiomiyom"}, "cevap": "B", "not": "govde/sik OCR", "zaman": "2026-09-25T19:45:04"}
+{"id": "00fda9c0d2e1bf68", "karar": "duzelt", "govde": "Aşağıdaki malign tümörlerden hangisi Epstein-Barr virüs etkisi ile gelişmez?", "not": "govde yazim", "zaman": "2026-09-25T19:45:04"}
+{"id": "cd109c3c8ff7f17a", "karar": "duzelt", "aciklama_paragraf": 3, "not": "ilgisiz poliglandüler sendrom bolumu kesildi", "zaman": "2026-09-25T19:45:04"}
+{"id": "21dc4f8799f5edb9", "karar": "duzelt", "govde": "Guillain-Barré sendromu için aşağıdakilerden hangisi doğru değildir?", "not": "govde yazim", "zaman": "2026-09-25T19:45:04"}
+{"id": "f04c1f5e6f1dddcc", "karar": "duzelt", "siklar": {"A": "Atriyal septal defekt", "B": "S2'nin fizyolojik çiftleşmesi", "C": "Aort stenozu", "D": "Pulmoner stenoz", "E": "Pulmoner venöz dönüş anomalisi"}, "cevap": "C", "not": "B yazim", "zaman": "2026-09-25T19:45:04"}
+{"id": "9b96d1f38cb7055e", "karar": "duzelt", "siklar": {"A": "Vagotomi + piloroplasti", "B": "Yüksek selektif vagotomi ve antrumdan kitlenin eksize edilmesi", "C": "Subtotal gastrektomi", "D": "Total gastrektomi", "E": "Parsiyel pankreatektomi"}, "cevap": "E", "not": "sik yazim", "zaman": "2026-09-25T19:45:04"}
+{"id": "a89ba02717e1a1d5", "karar": "duzelt", "aciklama_paragraf": 1, "not": "baska soruya ait GIS hormonlari bolumu kesildi", "zaman": "2026-09-25T19:45:04"}
+{"id": "0f5124de196612c4", "karar": "duzelt", "govde": "Hindistan cevizi karaciğer (nutmeg liver) hangi hemodinamik bozukluk sonucu oluşur?", "aciklama": "Hindistan cevizi karaciğeri, kronik pasif hepatik konjesyonun tipik makroskopik görünümüdür ve en sık sağ kalp yetmezliğine bağlı gelişir. Sentrilobüler bölgelerde konjesyon ve kanama nedeniyle koyu kırmızı-kahverengi, periportal bölgelerde ise yağlanma nedeniyle sarımsı alanlar oluşur; kesit yüzü hindistan cevizine benzer. Uzun süreli olgularda sentrilobüler fibrozis ve kardiyak siroz gelişebilir.", "not": "govdeye karisan translokasyon metni cikarildi; ilgisiz aciklama yeniden yazildi", "zaman": "2026-09-25T19:45:04"}
+{"id": "b0b083446a521670", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "ccbe6d388170f51a", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "46c928ed60b6fc17", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "502dadfd4627f43d", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "aafb0296776a6a24", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "fd007b963e11ff11", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "84b197998a0f6910", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "98829b64485a6b36", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "de730166f98898e3", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "bfc0a02b4ffa3be6", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "e7d420fbf378fe3c", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "6661419293000c92", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "7bdefaf44d0519e2", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "ec2fb412d5d7cfcf", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "fde2720437c932df", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "27369f40eb17bfa3", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
+{"id": "3ef9e46930e79f2c", "karar": "ok", "zaman": "2026-09-25T19:45:04"}
