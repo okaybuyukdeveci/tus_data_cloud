@@ -1998,3 +1998,53 @@
 {"id": "2ce265bad816b066", "karar": "ok", "zaman": "2026-09-25T20:41:46"}
 {"id": "8ee33bd7274e5fe2", "karar": "ok", "zaman": "2026-09-25T20:41:46"}
 {"id": "6b19b7890b68ef19", "karar": "ok", "zaman": "2026-09-25T20:41:46"}
+{"id": "4317b0294f215cc0", "karar": "duzelt", "siklar": {"A": "Metaraminol", "B": "Efedrin", "C": "Midodrin", "D": "Hidroksiamfetamin", "E": "Fenilefrin"}, "cevap": "C", "not": "sik C yazimi Mitodrin -> Midodrin", "zaman": "2026-09-25T20:42:01"}
+{"id": "68f588be16bd82e9", "karar": "duzelt", "siklar": {"A": "Pneumocystis jirovecii", "B": "Candida albicans", "C": "Aspergillus niger", "D": "Mycobacterium intracellulare", "E": "S. pneumoniae"}, "cevap": "A", "not": "sik A yazim hatasi", "zaman": "2026-09-25T20:42:01"}
+{"id": "88e55cedd535be9f", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "18530097e93b78ff", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "6e69875415831899", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "a737d9f97a57944e", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "85b7b987fd221e4e", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "137f857787244bb9", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "dc140e5fbfefe4e9", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "f41c6500d1f03f9b", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "706dabd63c6177ba", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "be92e8f60e1e31a2", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "46e3b7173a27feb9", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "015c2adc88e7a410", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "2750eacab8555ad5", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "c52c0d4eec2867be", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "8bc33abbed351662", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "b3399fa1b6b01a1a", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "9b2c0897c493862c", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "6a954d55748ff270", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "5399aa5fe9f8419f", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "3e01d39c44962fe7", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "b626c610b3c80568", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "f2e47985f1492476", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "0b89519c78d6af95", "karar": "ok", "zaman": "2026-09-25T20:42:01"}
+{"id": "90608fd3497ca53a", "karar": "duzelt", "govde": "Yirmi sekiz yaşındaki kadın, âdet gecikmesini takiben vajinal kanama şikâyetiyle başvuruyor. Kanamayla beraber vajenden üzüm tanesine benzer parçalar düştüğünü ifade ediyor. Ultrasonografide; uterin kaviteyi tamamen dolduran, kar yağdı manzarası görünümünde lezyon görülüyor. Ayrıca bilateral adneksiyal alanda, 7 cm büyüklüğünde multiseptalı kistik kitle izleniyor. Tetkiklerde β-hCG değeri 114.000 IU/L saptanıyor. / Bu hastadaki adneksiyal kitle için en olası tanı aşağıdakilerden hangisidir?", "not": "govdedeki sinav kaynak etiketi temizlendi", "zaman": "2026-09-25T20:42:17"}
+{"id": "57eb4b65c8ffdb28", "karar": "duzelt", "govde": "Antidiyabetik ilaçlardan eksenatid ve liraglutid ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?", "siklar": {"A": "Pankreasın beta hücrelerinde glukagon benzeri polipeptid-1 reseptörlerini uyarırlar.", "B": "Liraglutid ve eksenatid, metformin ile birlikte kullanılabilir.", "C": "Pankreasın beta hücrelerinde glukoza bağımlı insülin sekresyonunu artırırlar.", "D": "Liraglutidin yarılanma ömrü ve etki süresi eksenatide göre daha kısadır.", "E": "Pankreasın beta hücrelerinde insülinin sentezini artırırlar."}, "cevap": "D", "not": "sik A OCR hatalari duzeltildi", "zaman": "2026-09-25T20:42:17"}
+{"id": "3f917a88958c842b", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "d6f84a944bba6236", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "032cf135991b9bb5", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "4ab447cf603e8c2c", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "21a7257ab3a0e582", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "eb93c18bfd999ae1", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "28a1ed8b8baeb1d8", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "70cc5407b73f4ff8", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "ea7159272f0d6e66", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "582f7a697b96425f", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "82e89ef793f95f6f", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "3dca5d629773bb7b", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "7b225d6cce4f8f58", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "99915a0f4ca95837", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "b75625145caf6722", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "cd90d67b6aeb5b6c", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "d3fd38ea3b501c05", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "5395dfaa95411362", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "912d2166238a5089", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "8578f83af9417bda", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "165c00776cdea588", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "114d8e3a43beaff8", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
+{"id": "19e4344163cea2a4", "karar": "ok", "zaman": "2026-09-25T20:42:17"}
