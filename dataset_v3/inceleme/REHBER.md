@@ -34,8 +34,16 @@ Alanlar (yalnızca değişeni ver):
   **siklar verirsen `"cevap"` ZORUNLU** (yeni harflere göre).
   Şık metni kaynakta tamamen yoksa uydurma. Kalan şıkları A'dan sırayla harfle ve cevabı
   eşle — yalnızca kaybolan şık doğru cevap DEĞİLSE; doğru cevapsa `at` (sik_kayip).
-- `"cevap"`: yalnızca bariz harf kayması/OCR hatasında (açıklama açıkça başka şıkkı anlatıyor
-  ve tıbben de o doğru). Tıbbi görüşün kitaptan farklıysa düzeltme; `at` (cevap_supheli).
+- `"cevap"`: **kitabın açıklaması kendi cevap harfiyle çelişiyorsa** düzelt. Ölçüt harflerin
+  komşu olması DEĞİL; ölçüt şu iki şartın birlikte sağlanması:
+  1. Açıklama metni açıkça başka bir şıkkı anlatıyor, ve
+  2. Tıbben de o şık doğru.
+  Bu durumda bozuk olan cevap satırıdır, içerik sağlamdır → `duzelt` + `cevap`.
+  (Örnek: açıklama "antimetabolit olmayan doksorubisindir" diyor ama anahtar B'yi gösteriyor;
+  doksorubisin E şıkkı → `cevap: "E"`. B ile E komşu olmaması önemli değil.)
+
+  Yalnızca **kendi tıbbi görüşün** kitaptan farklıysa — açıklama anahtarı destekliyor ama sen
+  katılmıyorsan — düzeltme; `at` (cevap_supheli).
 - `"aciklama_kes"`: açıklamada bu metnin başladığı yerden sonrasını at (metin açıklamada birebir
   geçmeli; genelde bir paragrafın ilk 30–60 karakteri). Konu anlatımı taşması, başka sorunun
   açıklaması, "SPOT BİLGİLER" gibi alakasız bölümler için.

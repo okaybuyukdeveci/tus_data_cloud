@@ -101,7 +101,7 @@ Yalnızca değiştirdiğin alanı yaz:
 |---|---|
 | `govde` | Soru gövdesinin düzeltilmiş hali (OCR hatası, kayıp Roma rakamı…) |
 | `siklar` | `{"A":"...","B":"...",...}` — şıkları yeniden yaz. **`cevap` zorunlu olur** |
-| `cevap` | Yalnızca bariz harf kaymasında (`"C"` gibi) |
+| `cevap` | Kitabın açıklaması kendi anahtarıyla çelişiyorsa doğru harfi yaz (`"C"` gibi). Ölçüt harflerin komşu olması değil, açıklamanın başka şıkkı anlatması ve tıbben de o şıkkın doğru olması |
 | `aciklama_paragraf` | Paragraf seçimi (gösterimdeki `[0] [1] [2]`): `3` = ilk 3 paragraf · `"2-"` = `[2]` ve sonrası (**baştaki çöpü atar**) · `"1-4"` = yalnızca o aralık |
 | `aciklama_kes` | Verdiğin metnin başladığı yerden sonrasını at |
 | `aciklama` | Açıklamayı tamamen yeniden yaz (2–6 cümle). Bozuk/okunmaz olduğunda **ya da** okunaklı olduğu hâlde doğru şıkkı gerekçelendirmiyorsa (kitaptan kopyalanmış konu bloğu). **Önce kaynaktaki bilgiyi kullan; kaynak gerekçelendirmeye yetmiyorsa eksik halkayı kendi bilginle tamamla, ama konuyu genişletme.** |
@@ -117,9 +117,11 @@ Yalnızca değiştirdiğin alanı yaz:
    çözülebilir hale getirir; görsel şartsa `at` (`gorsel_gerekli`).
 2. **Açıklamalar düzgün Türkçe olmalı** — ş, ğ, ı, ö, ü, ç, İ karakterleriyle. ASCII Türkçe
    (`degildir`, `icin`) yazma; model bunu öğrenir.
-3. **Cevap anahtarına saygı.** Kitabın cevabı tıbben açıkça yanlışsa ya da iki şık doğruysa
-   kaydı `at` (`cevap_supheli`). Kendi görüşünle anahtarı değiştirme; tek istisna bariz harf
-   kayması (açıklama açıkça başka şıkkı anlatıyor ve tıbben de o doğru).
+3. **Cevap anahtarına saygı.** Kendi tıbbi görüşünle anahtarı değiştirme — açıklama anahtarı
+   destekliyor ama sen katılmıyorsan `at` (`cevap_supheli`). İki şık birden doğruysa da `at`.
+   **Ama kitabın kendi açıklaması anahtarıyla çelişiyorsa bu istisnaya girer:** açıklama açıkça
+   başka bir şıkkı anlatıyor ve tıbben de o doğruysa bozuk olan cevap satırıdır → `duzelt` +
+   `cevap`, `at` etme. Harflerin komşu olması gerekmez (B → E de olabilir).
 4. **Okumadan `ok` verme.** Soruyu kendin de çöz; cevabın tıbben doğru olduğunu ve açıklamanın
    onu desteklediğini denetle.
 
