@@ -498,3 +498,103 @@
 {"id": "e5e880f7028dc49b", "karar": "ok", "zaman": "2026-09-25T18:35:31"}
 {"id": "d48444ed0c8a6c57", "karar": "ok", "zaman": "2026-09-25T18:35:31"}
 {"id": "1fc649772121b559", "karar": "ok", "zaman": "2026-09-25T18:35:31"}
+{"id": "d4f7faa953d90284", "karar": "duzelt", "cevap": "C", "aciklama": "Rektal prolapsus en sık yaşlı kadınlarda görülür ve kadın hastaların önemli bir kısmı nulliparlardır; bu nedenle çok sayıda doğum yapmış olmak bir risk faktörü olarak kabul edilmez. Başlıca risk faktörleri kronik kabızlık ve ıkınma (konstipasyon yapan ilaçlar, düzenli laksatif gerektiren spinal kord hasarı dahil), nulliparite, uzun rektosigmoid kolon, derin Douglas boşluğu, internal sfinkter zayıflığı, pelvik taban defekti ve hemoroidektomi, fistülektomi gibi geçirilmiş anorektal ameliyatlardır.", "not": "kitabin risk listesi kronik kabizlik ve nulliparite iceriyor; anahtar A kendi aciklamasiyla celisiyor, cevap C; devamdaki baska soru kesildi", "zaman": "2026-09-25T18:36:03"}
+{"id": "ccba5e3702e5f61b", "karar": "duzelt", "aciklama_paragraf": 4, "not": "derivasyon adlari kaybolmus paragraf ve sonrasi kesildi", "zaman": "2026-09-25T18:36:03"}
+{"id": "86a514272c899902", "karar": "duzelt", "aciklama_paragraf": 2, "not": "Pendred icin hatali peroksidaz bilgisi iceren paragraf ve sonrasi kesildi", "zaman": "2026-09-25T18:36:03"}
+{"id": "00eb2ab85d707c59", "karar": "duzelt", "siklar": {"A": "5’ ucuna “kep” eklenmesi", "B": "3’ ucuna poli(A) kuyruğu eklenmesi", "C": "Rekombinasyonel düzenlenme", "D": "Splicing", "E": "Alternatif splicing"}, "cevap": "C", "not": "C sikkinda kelime bolunmesi duzeltildi", "zaman": "2026-09-25T18:36:03"}
+{"id": "46b070bcd2c5cd5d", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "60e7cbc15a5069cf", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "103c564381167bd9", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "c01a8c03884c15d2", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "6404e0716afd5552", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "5a7eaa9df92a1ecf", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "767fe022aec001b3", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "22da9ed4e3fcde99", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "4bbdee9d485a39d7", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "811d1d75915a293d", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "2df594fc1999f963", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "e6c3061251311912", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "bca44e4d4c4f9310", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "344f8c2786f6c6cb", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "3f42766a13d1d5dd", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "918ffe74c8916686", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "78927e99e06062d6", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "374836d8b5d1fd8f", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "ecf49ad3453966ce", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "82414a98bb0aeb78", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "19499a68a22f73e1", "karar": "ok", "zaman": "2026-09-25T18:36:03"}
+{"id": "581b7503252d6bdb", "karar": "duzelt", "aciklama": "Guttat psöriazis, özellikle çocuk ve gençlerde streptokokal farenjit veya diğer üst solunum yolu enfeksiyonlarından 1-3 hafta sonra aniden ortaya çıkan, gövde ve ekstremitelerde yaygın, damla şeklinde küçük, pembe-kırmızı skuamlı papüllerle karakterize psöriazis tipidir.", "not": "aciklama tek anlamsiz cumleydi", "zaman": "2026-09-25T18:36:35"}
+{"id": "73182a027d6e2580", "karar": "duzelt", "govde": "Beş yaşında bir erkek çocuk, iki günden beri artan solukluk, sarılık, uykuya eğilim ve koyu renkte idrar yapma şikâyetleriyle hastaneye getiriliyor. Öyküsünden bir haftadır ateşi olduğu, üst solunum yolu infeksiyonu geçirdiği ve ateş düşürücü kullandığı öğreniliyor. Fizik muayenede ateş 38°C, karaciğer 2 cm, dalak 1 cm palpabl bulunuyor. Yapılan laboratuvar incelemelerinde eritrosit sayısı 2×10⁶/mm³, lökosit sayısı 12000/mm³, trombosit sayısı 500000/mm³, hemoglobin düzeyi 5 g/dL, hematokrit %16, MCV 115 fL, MCH 32 pg, RDW %20, total bilirübin düzeyi 8 mg/dL, indirekt bilirübin düzeyi 7 mg/dL, retikülosit %25 olarak bulunuyor; idrarda (+++) kan gözleniyor. İdrar sedimentinde ise eritrosit saptanmıyor. / Bu çocuk için en olası tanı aşağıdakilerden hangisidir?", "not": "govdedeki OCR bozuk sayilar (trombosit, bilirubin) duzeltildi", "zaman": "2026-09-25T18:36:35"}
+{"id": "b6e735c37358f2b7", "karar": "duzelt", "aciklama": "Enfektif endokarditte romatoid faktör pozitifliği, Roth lekeleri, glomerülonefrit ve Osler nodülleri immün kompleks aracılı (immünolojik) bulgulardır. Janeway lezyonları ise avuç içi ve ayak tabanında görülen ağrısız hemorajik maküllerdir ve septik mikroembolilere bağlı vasküler bir bulgudur.", "not": "aciklama risk/kapak listesiydi, soruyu aciklamiyordu", "zaman": "2026-09-25T18:36:35"}
+{"id": "5b5cd704f35ca266", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "grafik eksen artiklari kesildi", "zaman": "2026-09-25T18:36:35"}
+{"id": "ad48e715a1c973fd", "karar": "duzelt", "aciklama": "Plexus brachialis'in fasciculus posterior'undan n. subscapularis (üst ve alt), n. thoracodorsalis, n. axillaris ve n. radialis çıkar. N. suprascapularis ise truncus superior'dan çıkar; m. supraspinatus ve m. infraspinatus'u innerve eder, felcinde omuz eklemi stabilizasyonu zayıflar ve abduksiyonun başlatılmasında güçlük görülür.", "not": "aciklama OCR bozuk, yeniden yazildi", "zaman": "2026-09-25T18:36:35"}
+{"id": "53081af8a9b7d013", "karar": "at", "neden": "cevap_supheli", "not": "aciklama Meissner sorusuna ait; atriyal repolarizasyon (Ta) PR segmenti/QRS icinde, anahtar C (PR intervali) ile B arasinda belirsiz", "zaman": "2026-09-25T18:36:35"}
+{"id": "2fcb1bf97073d316", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "c64fac64fe348303", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "0c11e15359f51697", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "674354246be60dc0", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "947a4f5ef9b9a1cb", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "a610c6dbfe6d94c5", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "2dfa7092fc23784b", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "2a28cda354733163", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "4f237d0a56f47437", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "1d0bc2a41d663419", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "1144bd58cf14a8e1", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "ef2532d6f97a7826", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "613f27ea1d9aa7f8", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "0a67823926d3633a", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "41d588c9c5bd7fd2", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "2a4351e6d0c09a67", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "ce6e4b1f1f8642f6", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "40001f9105e43f94", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "53d0a68ba76be2de", "karar": "ok", "zaman": "2026-09-25T18:36:35"}
+{"id": "705c65100c93f9f8", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "ilk paragraf spondiloartropati sorusuna ait", "zaman": "2026-09-25T18:36:54"}
+{"id": "19acafeae374f08d", "karar": "at", "neden": "cevap_supheli", "not": "idiyopatik retroperitoneal fibrozis taninda gunumuzde en duyarli/ozgul yontem BT (C); anahtar IVP (D) guncel degil", "zaman": "2026-09-25T18:36:54"}
+{"id": "2c7ce52d76aac2f9", "karar": "duzelt", "aciklama_paragraf": 1, "not": "orta kulak duvarlari metni baska soruya ait", "zaman": "2026-09-25T18:36:54"}
+{"id": "2c7eb4e29a23d9b1", "karar": "duzelt", "govde": "Ülkemizde doğumdan 3-5 gün sonra topuktan yapılan hipotiroidi taramasında aşağıdaki tiroid hastalıklarından hangisinin tanısı konulamaz?", "not": "govdede '3-5' OCR ile '35' olmustu", "zaman": "2026-09-25T18:36:54"}
+{"id": "67cccba8790f7962", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "9c24043f4e95780f", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "56fbc5bff2e03ad4", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "cf984647c55d761e", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "038ce8361b970240", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "6a11d9bee2d72ee2", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "99459d3557e9df06", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "a3c780ff5fd18674", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "5ac54974e01d2f33", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "cf325c69403cb139", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "c6e345ae280505f8", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "eca4115162553de6", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "a67088615b50dd49", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "17d150a8d34d608a", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "bea9dd5960d2650a", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "a8502b097023a88e", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "961c49cf62fb0f72", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "9bc2d5cca1cb315e", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "db1b0de37204f577", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "0e3eb0cc0aaf1310", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "eb7350399f3e46be", "karar": "ok", "zaman": "2026-09-25T18:36:54"}
+{"id": "9f68f770067085cb", "karar": "duzelt", "aciklama": "Kadın iç genital organları (tuba uterina, uterus, serviks ve vajenin üst kısmı) paramezonefrik (Müller) kanallardan gelişir. Bu gelişim için hormonal uyarı gerekmez; over ya da östrojen yokluğunda (örn. Turner sendromu) da kadın tipi iç genital yapılar oluşur. Anti-Müller hormonu bulunmadığı sürece paramezonefrik kanalların varlığı yeterlidir.", "not": "aciklama yarim kalmisti", "zaman": "2026-09-25T18:37:25"}
+{"id": "31799051e9ad360c", "karar": "duzelt", "aciklama_paragraf": 2, "not": "yarim kalan kriter listesi basligi kesildi", "zaman": "2026-09-25T18:37:25"}
+{"id": "e0f7e9e014edf176", "karar": "duzelt", "aciklama": "Ebstein anomalisinde triküspit kapağın septal ve posterior yaprakçıkları sağ ventrikül içine doğru yer değiştirmiştir ve sağ ventrikülün bir kısmı atriyalize olur. Olguların yaklaşık %20-25'inde aksesuar yol ve buna bağlı Wolff-Parkinson-White sendromu bulunur; bu nedenle WPW ile en sık birlikte görülen konjenital kalp hastalığıdır. Maternal lityum kullanımı Ebstein anomalisi için risk faktörüdür.", "not": "aciklama homosistinuri metnine aitti", "zaman": "2026-09-25T18:37:25"}
+{"id": "e5974d09eb50397b", "karar": "duzelt", "govde": "Elli beş yaşındaki bayan hastaya atipik pnömoni tanısı konuluyor. Klinik tabloya ilaveten ishal, konfüzyon, bradikardi ve deliryum eşlik etmektedir. / Bu tabloya yol açan en olası etyolojik ajan aşağıdakilerden hangisidir?", "not": "govdeye onceki sorunun (endokardit) aciklamasi karismisti", "zaman": "2026-09-25T18:37:25"}
+{"id": "16663e886995d434", "karar": "duzelt", "aciklama": "GLUT-5 ince bağırsak epitelinin fırçamsı kenarında ve böbrekte bulunan, fruktozun kolaylaştırılmış difüzyonla hücre içine alınmasını sağlayan taşıyıcıdır. Glukoz ve galaktoz lümenden SGLT-1 ile sodyuma bağlı olarak alınır; tüm monosakkaritler hücreden kapillere GLUT-2 ile geçer. GLUT-1 eritrosit ve beyinde, GLUT-3 nöronlarda, GLUT-4 ise kas ve yağ dokusunda insüline duyarlı taşıyıcıdır.", "not": "aciklama bozuk sekil metinleri iceriyordu", "zaman": "2026-09-25T18:37:25"}
+{"id": "29708a916f67412a", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "0d9af4875d0dcd12", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "c5ae160d87d6975f", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "3eb828f339e19553", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "b70e149a4baa00d2", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "7aef879390388057", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "82c2507af5522a8f", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "ebff8c4f1fccf5f3", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "59c9fd6af2b37daf", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "0fa2e3ca78f37d71", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "beb71b9f80f79e43", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "2a48daf3dead7af2", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "328eee589d02a647", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "63910fcb2c8c5517", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "177d8b9816f5f6a6", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "b321a0f604497909", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "526de60faa43d629", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "5ae419c67e25480e", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "46782f741dc54a02", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
+{"id": "14216335d537a84d", "karar": "ok", "zaman": "2026-09-25T18:37:25"}
