@@ -1948,3 +1948,53 @@
 {"id": "28e86fcf99d0dbb1", "karar": "ok", "zaman": "2026-09-25T19:02:13"}
 {"id": "9a057e916e31435e", "karar": "ok", "zaman": "2026-09-25T19:02:13"}
 {"id": "ea8c21ad8059f554", "karar": "ok", "zaman": "2026-09-25T19:02:13"}
+{"id": "d9dbb6dffacead57", "karar": "duzelt", "siklar": {"A": "Akalazya", "B": "Plummer-Vinson sendromu", "C": "Boerhaave sendromu", "D": "Korozif özofajit", "E": "Barrett özofagusu"}, "cevap": "C", "not": "Siklarda ozel ad yazim hatalari duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "bc367a166538d6c7", "karar": "duzelt", "siklar": {"A": "Listeria monocytogenes", "B": "Rhodococcus equi", "C": "Corynebacterium ulcerans", "D": "Erysipelothrix rhusiopathiae", "E": "Staphylococcus aureus"}, "cevap": "D", "not": "B ve C siklarinda tur adi yazim hatalari duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "481aac75141a0575", "karar": "duzelt", "siklar": {"A": "DiGeorge sendromu - Hipokalsemi", "B": "Lökosit adezyon defekti - Lökositoz", "C": "Wiskott-Aldrich sendromu - Kanlı ishal", "D": "Sık değişken immün yetmezlik - Otoimmünite", "E": "Kronik mukokutanöz kandidiyazis - Sistemik kandida enfeksiyonu"}, "cevap": "E", "not": "A sikkinda sendrom adi yazim hatasi duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "690047e571d7024e", "karar": "duzelt", "siklar": {"A": "Leiomyom", "B": "Lipom", "C": "Gastrointestinal stromal tümör", "D": "Kaposi sarkomu", "E": "Benign periferik sinir kılıfı tümörü"}, "cevap": "C", "not": "E sikkinda OCR harf hatasi duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "7722bb22564c491c", "karar": "duzelt", "siklar": {"A": "1003 - 1035 mOsm/L", "B": "1050 - 1200 mOsm/L", "C": "50 - 1200 mOsm/L", "D": "50 - 1035 mOsm/L", "E": "1003 - 1200 mOsm/L"}, "cevap": "C", "not": "A sikkinda eksik ayirici tire eklendi", "zaman": "2026-09-25T19:02:41"}
+{"id": "5ff25ce5fabe58e8", "karar": "duzelt", "siklar": {"A": "Karşı tarafta lezyon seviyesi altında ekstansör plantar", "B": "Karşı tarafta spastik paralizi", "C": "Karşı tarafta lezyon seviyesi altında vibrasyon ve taktil diskriminasyon duyusunun kaybı", "D": "Karşı tarafta lezyon seviyesinin altında ağrı ve ısı duyusu kaybı", "E": "Karşı tarafta lezyon seviyesinin altında derin tendon refleksi artışı"}, "cevap": "D", "not": "E sikkinda yazim hatasi duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "56f4a879980cddd2", "karar": "duzelt", "siklar": {"A": "MPS-I (Hurler)", "B": "MPS-II (Hunter)", "C": "MPS-III (Sanfilippo)", "D": "MPS-IV (Morquio)", "E": "MPS-VII (Sly)"}, "cevap": "C", "not": "C ve D siklarinda yazim hatalari duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "16a6fa50e3ae165d", "karar": "duzelt", "siklar": {"A": "Shwachman-Diamond sendromu", "B": "Wolman hastalığı", "C": "Abetalipoproteinemi", "D": "Krabbe hastalığı", "E": "Fabry hastalığı"}, "cevap": "B", "not": "A sikkinda ozel ad yazim hatasi duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "b77a0d81db6b2e08", "karar": "duzelt", "siklar": {"A": "Temporal arterit - İskemik optik atrofi", "B": "Sistemik lupus eritematozus - Primer glokom", "C": "Ankilozan spondilit - Anterior üveit", "D": "Sistemik lupus eritematozus - Retinal vasküler hastalık", "E": "Romatoid artrit - Korneal yumuşama"}, "cevap": "B", "not": "Iki sutunlu eslestirme siklarina ayirici eklendi", "zaman": "2026-09-25T19:02:41"}
+{"id": "3b62dc3900abf0ef", "karar": "duzelt", "siklar": {"A": "45°C'de üreme yeteneği", "B": "Karbonhidrat asimilasyonu", "C": "Melanin sentez yeteneğinin araştırılması", "D": "Klamidospor oluşumu", "E": "Germ tüpü oluşumu"}, "cevap": "C", "not": "A sikkinda derece simgesi duzeltildi", "zaman": "2026-09-25T19:02:41"}
+{"id": "50ebe963b3440fa7", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "3348cdae80799eb7", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "eeb8924a2134c280", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "d3c4cec4f0586dad", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "fb659e044f85627e", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "2b683459ae392327", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "1aa389308fc0f3db", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "62f61542581e7a79", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "56ccd85052246cbb", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "af4528d743f46bef", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "38a0e7ac1b3fc42c", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "85313e5eed67504d", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "27cb60dda3c2cc26", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "cabb16965f8e3366", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "8ccde23e39dada4c", "karar": "ok", "zaman": "2026-09-25T19:02:41"}
+{"id": "0e3dfae701f9765a", "karar": "duzelt", "govde": "Altmış iki yaşında akciğer kanseri tanısıyla takip edilmekte olan erkek hasta vücutta yaygın şişlik şikayeti ile başvuruyor. Laboratuvar incelemelerinde albümin 2 g/dL ve 24 saatlik idrarda 4,5 g/gün proteinüri saptanıyor. Yapılan renal biyopside fokal subepitelyal IgG ve C3 depozitleri izleniyor. / Bu hastada en olası tanınız nedir?", "not": "Govdede okunamayan kreatinin degeri ve tekrar eden ozne temizlendi", "zaman": "2026-09-25T19:03:11"}
+{"id": "fb0a5000e34ba387", "karar": "duzelt", "govde": "Sekiz yaşında erkek çocuk rutin sağlık kontrolü yaptırırken; fizik muayenesinde konjonktivalarda hafif solukluk dışında özellik saptanmıyor. Hemogramında eritrosit sayısı 6 milyon/mm3, hemoglobin 9,5 g/dL, hematokrit %29, MCV 69 fL, RDW %13, lökosit sayısı 7.000/mm3, trombosit sayısı 210.000/mm3 saptanıyor. / Bu çocukta en olası ön tanı aşağıdakilerden hangisidir?", "not": "Govdede bozuk deger/birim gosterimleri duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "b4a6f7416ccb1cc2", "karar": "duzelt", "govde": "68 yaşında erkek hasta skrotumda ele gelen damarlanma artışı nedeniyle başvuruyor. Yapılan fizik muayenede sağ skrotumda varikosel tanısı konuluyor. / Bu hastada etyolojiyi belirlemeye yönelik yapılması gereken ilk yöntem aşağıdakilerden hangisidir?", "not": "Govdede yazim hatasi duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "20054543d0aa172f", "karar": "duzelt", "govde": "Otozomal dominant geçişli lökokori, şaşılık, diplopi ve intraoküler kalsifikasyonla prezente olan ve beraberinde osteosarkomun eşlik edebildiği hastalık aşağıdakilerden hangisidir?", "not": "Govdede yazim hatasi duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "e6134618bbc8e106", "karar": "duzelt", "siklar": {"A": "Eşik potansiyel yükselir", "B": "Depolarizasyon oluşmaz", "C": "Repolarizasyonda gecikme olur", "D": "Dinlenim zar potansiyeli daha negatif olur", "E": "Dinlenim zar potansiyeli daha pozitif olur"}, "cevap": "C", "not": "B sikkinda ek hatasi duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "d51c0ec2984139b3", "karar": "duzelt", "siklar": {"A": "β-talasemi", "B": "Herediter sferositoz", "C": "Konjenital hipoplastik anemi", "D": "İmmün hemolitik anemi", "E": "α-talasemi"}, "cevap": "E", "not": "E sikkinda bozuk alfa simgesi duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "49e4c66542b62146", "karar": "duzelt", "siklar": {"A": "Hepatositlerde üretilen safra, lobülün merkezindeki safra kanalına dökülür.", "B": "Portal sahaya V. porta'dan kan gelir.", "C": "Mall boşluğunda lenf sıvısı yer alır.", "D": "Hepatositler arasında sıkı bağlantılar izlenir.", "E": "Kupffer hücresi makrofaj olarak görev yapar."}, "cevap": "A", "not": "A sikkinda eksik harf duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "9aaa9f8320974156", "karar": "duzelt", "siklar": {"A": "Latrotoksin", "B": "Batrakotoksin", "C": "Bungarotoksin", "D": "Tetrodotoksin", "E": "ω-Konotoksin"}, "cevap": "D", "not": "D ve E siklarinda toksin adi yazimi duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "37e15f899ce0ffd7", "karar": "duzelt", "govde": "Üç yaşında erkek çocuk solukluk nedeniyle başvuruyor. Öyküsünde kuzeninde de anemi olduğu ve hematoloji polikliniğinden takip edildiği öğreniliyor. Fizik muayenesinde soluk olduğu, hepatosplenomegalisi olmadığı, diğer sistem muayenelerinin doğal olduğu saptanıyor. Tetkiklerinde hemoglobin 9 g/dL, eritrosit sayısı 3,1 × 10^6/μL, MCV 68 fL, periferik yaymada hipokrom mikrositer eritrositler saptanıyor. Serum demir düzeyi 150 μg/dL, total demir bağlama kapasitesi 380 μg/dL, ferritin 100 ng/mL saptanıyor. / Bu çocukta en olası tanı aşağıdakilerden hangisidir?", "not": "Govdede bozuk deger/birim gosterimleri duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "99708e5d5193aa45", "karar": "duzelt", "siklar": {"A": "Memeye alıştıktan sonra emzik kullanımı", "B": "Bebeğin yan uyutulması", "C": "Bebeğin yüzüstü uyutulması", "D": "Bebeğin yumuşak yatakta uyutulması", "E": "Annenin sigara içmesi"}, "cevap": "A", "not": "A sikkinda ek hatasi duzeltildi", "zaman": "2026-09-25T19:03:11"}
+{"id": "30a1fd1dad6ef8d2", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "a6778582287ff3c2", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "5b5a5efa05d158f9", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "0d4b6297c4897112", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "24398ae56370121e", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "57502cf5f12d9732", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "133421a2d5d69dcd", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "248d1f1981a2f7aa", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "3d27b81de64dc4bf", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "6b6a4084d155cc7d", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "b803e38b12584e04", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "db4b661c93bcf737", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "418eeb1916263732", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "4fb1a1d8183b36ad", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
+{"id": "49c1f2609041fd21", "karar": "ok", "zaman": "2026-09-25T19:03:11"}
