@@ -43,7 +43,15 @@ Alanlar (yalnızca değişeni ver):
   - Sayı: `3` → ilk 3 paragrafı tut (`[0] [1] [2]`).
   - Aralık: `"2-"` → `[2]` ve sonrasını tut (**baştaki OCR çöpünü atmak için**).
   - Aralık: `"1-4"` → yalnızca `[1]`..`[4]` arasını tut (baştan ve sondan kırpma).
-- `"aciklama"`: açıklamayı TAMAMEN yeniden yaz. Yalnızca açıklama boş/alakasız/okunmaz ise.
+- `"aciklama"`: açıklamayı TAMAMEN yeniden yaz (2-6 cümle). Üç durumda kullan:
+  1. Açıklama boş, okunmaz ya da OCR çöpü.
+  2. Açıklama alakasız (başka sorunun metni).
+  3. **Açıklama okunaklı ama sorunun cevabını gerekçelendirmiyor** — kitaptan kopyalanmış
+     bir konu bloğu olup "doğru şık neden bu" sorusuna değmiyorsa yeniden yaz.
+
+  > **Kaynağa bağlı kal.** Yeniden yazarken kaynaktaki (soru + orijinal açıklama + kesilen
+  > blok) bilgiyi kullan. Kendi belleğinden yeni iddia, oran, tarih ya da liste ekleme.
+  > Kaynak bilgiyi doğru şıkkı gerekçelendirecek biçimde topla ve düzgün Türkçeyle yaz.
   **Düzgün Türkçe, Türkçe karakterlerle (ş ğ ı ö ü ç İ)**, 2–6 cümle, cevabın neden doğru
   olduğunu ve önemli çeldiricileri açıklayan, kesin tıbbi bilgi. Uydurma kaynak/oran yazma.
 - `"not"`: kısa açıklama (ne yaptın).
