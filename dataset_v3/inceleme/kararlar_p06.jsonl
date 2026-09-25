@@ -1648,3 +1648,53 @@
 {"id": "a37c1fd65a2a68eb", "karar": "ok", "zaman": "2026-09-25T20:34:47"}
 {"id": "30f53aef1d85ee72", "karar": "ok", "zaman": "2026-09-25T20:34:47"}
 {"id": "52c38358723dd541", "karar": "ok", "zaman": "2026-09-25T20:34:47"}
+{"id": "8bfca597e3566184", "karar": "at", "neden": "cevap_supheli", "not": "biliyer sistemin en sik malign tumoru safra kesesi kanseridir (C); anahtar B (hepatik konfluens) yalnizca kolanjiyokarsinomlar icin gecerli", "zaman": "2026-09-25T20:35:19"}
+{"id": "3f2b23a2d6baf235", "karar": "at", "neden": "cevap_supheli", "not": "M. sphincter ani externus da spatium superficiale perinei kasi degildir (anal ucgen); C ve E ikisi de dogru gorunuyor", "zaman": "2026-09-25T20:35:19"}
+{"id": "5525ffb9c6fd8239", "karar": "duzelt", "siklar": {"A": "Malassezia furfur - Pitiriyazis versikolor, seboreik dermatit, i.v. lipid alanlarda fungemi", "B": "Histoplasma capsulatum - AIDS'li hastalarda dilde ülserasyon ve Addison hastalığı", "C": "Hortaea werneckii - Deri ve tırnağı tutan kutanöz mikoz", "D": "Trichophyton rubrum - Atlet ayağı, erişkinde tinea pedis", "E": "Penicillium marneffei - Fırsatçı mikoz, AIDS'li Asyalı hastalarda nekrotik cilt lezyonu ve invaziv enfeksiyon"}, "cevap": "C", "not": "iki sutunlu siklarda mantar adlari ve hastaliklar ic ice gecmisti, yeniden birlestirildi", "zaman": "2026-09-25T20:35:19"}
+{"id": "a774b4e7d6c3a36d", "karar": "duzelt", "aciklama": "Kompleman sistemi klasik, alternatif ve lektin yolları ile aktive olur ve üç yolun ortak sonucu C3'ün aktivasyonudur. Kompleman aktivasyonunun inflamasyondaki başlıca etkileri şunlardır: C3b ile opsonizasyon ve fagositozun kolaylaşması; C3a ve C5a (anafilatoksinler) ile mast hücrelerinden histamin salınımı ve vasküler permeabilite artışı; C5a ile lökosit kemotaksisi ve inflamasyon; membran atak kompleksi (C5b-9) ile hücre lizisi. Ateş ise IL-1, IL-6 ve TNF gibi endojen pirojenlerin hipotalamustaki etkisiyle oluşur ve kompleman sisteminin doğrudan bir etkisi değildir.", "not": "aciklama kompleman etkilerini icermiyordu, yeniden yazildi", "zaman": "2026-09-25T20:35:19"}
+{"id": "6330e144b03564d3", "karar": "duzelt", "aciklama": "Fetal akciğer gelişimi için yeterli amniyon sıvısı gereklidir; uzun süreli ve ağır oligohidramnios pulmoner hipoplaziye yol açar. Potter sendromunda bilateral renal agenezi nedeniyle fetal idrar yapımı olmadığından ağır oligohidramnios gelişir; buna bağlı olarak pulmoner hipoplazi, karakteristik yüz görünümü (Potter yüzü) ve ekstremite pozisyon bozuklukları görülür. Özofagus atrezisi gibi sindirim sisteminin obstrüktif anomalileri, anensefali ve kistik adenomatoid malformasyon ise daha çok polihidramnios ile ilişkilidir.", "not": "aciklamadaki oligo/polihidramnios tablosu OCR ile bozuk, yeniden yazildi", "zaman": "2026-09-25T20:35:19"}
+{"id": "0682d18b2d812ffa", "karar": "duzelt", "aciklama_paragraf": 3, "not": "Ingilizce OCR bozuk tablo kesildi", "zaman": "2026-09-25T20:35:19"}
+{"id": "f65790c6db65fc62", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "842654d5fd358ff0", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "a3e0c353cb43f09e", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "a2e9f05ffc126bef", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "0b9eb3c5a66b7a93", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "518f776d61dafd7c", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "dff968512d545c19", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "687a94ce3796679a", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "ffd09a42f8545804", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "a6628978afbee930", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "245d5c10f9bbcd2d", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "045cc4f4c96c56c4", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "1bb2ace40d482fd4", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "fa85b45b7f331f67", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "eef64b1fcd869cdf", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "caf1c7ab3e469f7c", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "4365323b89b0d054", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "3a97088cc1274bf4", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "77b0cb60b7db84aa", "karar": "ok", "zaman": "2026-09-25T20:35:19"}
+{"id": "65ec70ff5692a5ce", "karar": "at", "neden": "cevap_supheli", "not": "3. haftada kafadan kaudale uzanan mezodermal yapi notokorddur (A); somitler segmentaldir, anahtar B supheli", "zaman": "2026-09-25T20:35:53"}
+{"id": "1211176653d682d7", "karar": "duzelt", "govde": "Chlamydia türlerinin etken olması beklenmeyen klinik tablo aşağıdakilerden hangisidir?", "siklar": {"A": "Üretrit", "B": "Konjunktivit", "C": "Pnömoni", "D": "Lenfogranuloma venereum", "E": "Menenjit"}, "cevap": "E", "not": "yazim hatalari", "zaman": "2026-09-25T20:35:53"}
+{"id": "dbf619dee237d186", "karar": "duzelt", "siklar": {"A": "Osteopetrozis", "B": "Osteomalazi", "C": "Osteoporoz", "D": "Akondroplazi", "E": "Kemiğin Paget hastalığı"}, "cevap": "E", "not": "D sikki yazim", "zaman": "2026-09-25T20:35:53"}
+{"id": "b8f5fe0e953e3803", "karar": "duzelt", "aciklama_paragraf": "6-", "not": "linezolid paragraflari kesildi", "zaman": "2026-09-25T20:35:53"}
+{"id": "ec78e79b6e47672d", "karar": "duzelt", "siklar": {"A": "Nöroblastom", "B": "Wilms tümörü", "C": "Non-Hodgkin lenfoma", "D": "Hepatoblastom", "E": "Feokromasitoma"}, "cevap": "B", "aciklama_paragraf": "2-", "not": "C sikki yazim; frajil X paragraflari kesildi", "zaman": "2026-09-25T20:35:53"}
+{"id": "25075afd18cccaa7", "karar": "duzelt", "cevap": "B", "siklar": {"A": "Üfürüm muayenesi", "B": "Pulse oksimetre", "C": "Elektrokardiyografi", "D": "Ekokardiyografi", "E": "Nabızların değerlendirmesi"}, "not": "CEVAP DEGISTI C->B: kitabin aciklamasi her yenidogana pulse oksimetre ile tarama yapilmasi gerektigini soyluyor", "zaman": "2026-09-25T20:35:53"}
+{"id": "523bd3b671b779bf", "karar": "duzelt", "govde": "Otuz sekiz yaşında bayan hastada kuru öksürük, hafif ateş, kas ve eklem ağrıları, kulak muayenesinde büllöz miringit, vücudunda eritema multiforme saptanıyor. Akciğer grafilerinde alt loblarda bilateral interstisyel infiltrasyon görülüyor. / Akciğer dinleme bulguları normal olan hastada pnömoni etkeni hangisidir?", "not": "govde yas ve yazim OCR", "zaman": "2026-09-25T20:35:53"}
+{"id": "9fa492f316235f03", "karar": "duzelt", "aciklama": "Herediter hemokromatoziste bağırsaktan aşırı demir emilimi sonucu demir başta karaciğer, pankreas, kalp, deri ve endokrin bezlerde birikir; erkeklerde daha sık görülür. Klasik triadı siroz (hepatomegali), diabetes mellitus ve deride hiperpigmentasyondur ('bronz diyabet'). Hipofiz tutulumuna bağlı hipogonadotropik hipogonadizm ve testiküler atrofi, kardiyomiyopati ve artropati de görülebilir. Transferrin satürasyonu ve ferritin yüksektir; tedavide flebotomi uygulanır.", "not": "aciklama baslikta kesiliyordu, yeniden yazildi", "zaman": "2026-09-25T20:35:53"}
+{"id": "99bdcb27a131d6ab", "karar": "duzelt", "aciklama": "Gastrointestinal stromal tümörler (GIST), gastrointestinal sistemin en sık görülen mezenkimal tümörleridir ve Cajal'ın interstisyel hücrelerinden köken alırlar. Olguların yaklaşık %75-80'inde tirozin kinaz reseptörü c-KIT (CD117) geninde aktive edici mutasyon bulunur; c-KIT mutasyonu olmayan olguların bir kısmında ise PDGFRA (trombosit kaynaklı büyüme faktörü reseptörü alfa) mutasyonu saptanır. Tanıda immünhistokimyasal CD117 ve DOG1 pozitifliği kullanılır ve tedavide tirozin kinaz inhibitörü imatinib etkilidir.", "not": "aciklama koksidiyomikozise aitti, yeniden yazildi", "zaman": "2026-09-25T20:35:53"}
+{"id": "d1c1b92dde0345a9", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "6376989972f7dd5e", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "ed30607bc6eba602", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "3a1b42fefc495268", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "7771b683a699304a", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "2c010afa180b2738", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "48b6a2d5f73b89b7", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "0080b0a071e4e6c7", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "540467322b5509b8", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "64dc13cb64fe3a71", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "64b0b0e5e8ca753b", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "997615c98f4014e2", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "779788d5298b951a", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "d39c1d4b82d81476", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "17728cbb233db432", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
+{"id": "1448a4ee6207c97a", "karar": "ok", "zaman": "2026-09-25T20:35:53"}
