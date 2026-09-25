@@ -1559,7 +1559,7 @@
 {"id": "bb54b2783da767b9", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "d94330dc41f312dd", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "532eeac21d4f561f", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
-{"id": "b640d7e5587fdb427", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "b640d7e587fdb427", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "114c34d41eb23bac", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "759f92ae5a2eadc9", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "b30b89951f9fa3bd", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
@@ -1573,3 +1573,53 @@
 {"id": "01442a652218b90e", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "6cab009be48d2bd8", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
 {"id": "231da9d9c7cc31fd", "karar": "ok", "zaman": "2026-09-25T18:55:32"}
+{"id": "040c25b1e3c20ee8", "karar": "duzelt", "govde": "Malabsorbsiyon nedeni ile demir eksikliği gelişen hastada en erken fark edilecek laboratuvar bulgusu aşağıdakilerden hangisidir?", "not": "Govdede bitisik kelimeler ayrildi", "zaman": "2026-09-25T18:56:07"}
+{"id": "c14632ddcc995784", "karar": "duzelt", "siklar": {"A": "Term, gestasyon haftasına göre düşük doğum ağırlıklı (SGA), düşük doğum ağırlıklı bebek", "B": "Term, gestasyon haftasına göre normal doğum ağırlıklı (AGA), düşük doğum ağırlıklı bebek", "C": "Term, SGA, aşırı düşük doğum ağırlıklı bebek", "D": "Term, AGA, aşırı düşük doğum ağırlıklı bebek", "E": "Term, AGA, normal doğum ağırlıklı bebek"}, "cevap": "A", "aciklama_paragraf": "1-", "not": "A sikkindaki satir kirilmasi birlestirildi; kesik ilk parca atildi", "zaman": "2026-09-25T18:56:07"}
+{"id": "d8f115aa5c783444", "karar": "duzelt", "siklar": {"A": "Epitelyal over tümörü - CEA", "B": "Müsinöz over tümörü - CA-125", "C": "Endodermal sinüs tümörü - hCG", "D": "Disgerminom - AFP", "E": "Granüloza hücreli tümör - İnhibin"}, "cevap": "E", "not": "A sikkinda eksik ayirici tire eklendi", "zaman": "2026-09-25T18:56:07"}
+{"id": "0509d1df71c046e2", "karar": "duzelt", "govde": "Graves hastalığının tedavisinde kullanılan tiyoüre grubu antitiroid ilaçlardan propiltiourasil ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "not": "Govdede bitisik kelimeler ayrildi", "zaman": "2026-09-25T18:56:07"}
+{"id": "59149f81a6fdd1f3", "karar": "duzelt", "siklar": {"A": "Mukozada interlökin-8 ve interlökin-10 düzeylerinin değişimi", "B": "Altta yatan hastalıkların etkisi", "C": "Tromboksan-A düzeyinin azalması ve mukozal kanlanmanın artması", "D": "Siklooksijenaz-1 inhibisyonu, mukozal prostaglandin sentezinin azalması", "E": "Mukozal prostaglandin sentezinin aşırı artması"}, "cevap": "D", "not": "Satir kirilmali siklar birlestirildi", "zaman": "2026-09-25T18:56:07"}
+{"id": "cde757d1ed6ba840", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "6d9e7af6d64dbf19", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "7e317201b5c3ac13", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "05396e362e79bacb", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "b3747f7ec115db85", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "a1d1c586ef2fc8b2", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "f9607e26eb03dcb3", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "0c5532c78a5886b3", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "11b5a203d4d0ba7f", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "ec16d3262da2d1bd", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "8b90de21f2f7dc74", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "9858bd4c520d8a4c", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "5ef279978a160204", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "cc84801f8d917bee", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "151126219ee0a303", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "845dadcf123bff37", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "8708551c8309403b", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "019f29192f884e6d", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "821ae13065cd7827", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "5c031bda4f013cf8", "karar": "ok", "zaman": "2026-09-25T18:56:07"}
+{"id": "d4c0f55d6a5b6174", "karar": "duzelt", "siklar": {"A": "Prolil hidroksilaz - Cu, Vitamin C", "B": "Prolil oksidaz - Fe, Mn", "C": "Lizil oksidaz - Cu", "D": "Lizil hidroksilaz - Fe, Vitamin C", "E": "Glisil oksidaz - Cu, Fe"}, "cevap": "D", "not": "Iki sutunlu enzim-kofaktor siklari ayiriciyla duzenlendi", "zaman": "2026-09-25T18:56:32"}
+{"id": "8038b6bd27e1cec9", "karar": "duzelt", "govde": "Heksoz monofosfat yolunda kazanılan kofaktör aşağıdakilerden hangisidir?", "siklar": {"A": "NAD+", "B": "NADP+", "C": "FAD", "D": "NADPH + H+", "E": "NADH + H+"}, "cevap": "D", "not": "Govdedeki tire bolunmesi ve siklardaki bozuk kofaktor gosterimleri duzeltildi", "zaman": "2026-09-25T18:56:32"}
+{"id": "fbbbb67e53d32210", "karar": "duzelt", "govde": "Aşağıdaki hücresel immün yetmezlik hastalıklarının hangisinde BCG aşısı sonrasında miliyer tüberküloz gelişimi, salmonella enfeksiyonları ve dissemine mikobakteri enfeksiyonları görülür?", "not": "Govdede miliyer yazimi duzeltildi", "zaman": "2026-09-25T18:56:32"}
+{"id": "71ba29382241e583", "karar": "duzelt", "govde": "Yirmi bir yaş kadın derisinde yeni fark ettiği kırmızı, kabarık ve basmakla solmayan noktalanmalar için başvuruyor. Bilinen bir hastalığı ya da eşlik eden başka bir şikayeti bulunmuyor. Fizik muayenesinde peteşi dışında pozitif bulgu bulunmuyor. Yapılan laboratuvar analizinde; / Hb: 13.5 g/dL / Trombosit: 15.000/mm3 / Lökosit: 5.500/mm3 / BFT ve KCFT normal sınırlarda tespit ediliyor / Yapılan periferik yayma sonucu tam kan sayımı ile uyumlu olan hastada atipik hücre görülmüyor. 10 gün önce üst solunum yolu enfeksiyonu öyküsü olan ve herhangi bir ilaç kullanmadığı öğreniliyor. / Hastada bu aşamadan sonra en uygun yaklaşım aşağıdakilerden hangisidir?", "not": "Govdedeki tire bolunmeleri ve bozuk birim gosterimleri duzeltildi", "zaman": "2026-09-25T18:56:32"}
+{"id": "2c01e263cd303d8a", "karar": "duzelt", "govde": "Otuz yaşında, disfaji ve nefes darlığı nedeni ile başvuran bayan hastada reflü özofajit, akciğerlerinde interstisyel fibrozis ve ANA (+) saptanıyor. / Bu hastadaki en olası tanı aşağıdakilerden hangisidir?", "not": "Govdede interstisyel yazimi duzeltildi", "zaman": "2026-09-25T18:56:32"}
+{"id": "c59421f5fd66c14a", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "a9762633c6478f36", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "0da41e1027dce6a0", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "1033a6a8b8b761d4", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "60568b6eb72cdc4f", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "5c4a58ed1c143f41", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "fc4056a01f45efb6", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "4dae77b6f0c6b3a8", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "4bdb825b5fa72e80", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "b88f150164a6c3b5", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "77a0789460c12002", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "f4ab01e35a808af2", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "eff4ce4c444edc5f", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "da311e05399053a7", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "a8d453b9bbedefcc", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "485ad82f967d186a", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "676871d9758ba807", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "a7e9dc7ba691dff8", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "4fdb527aa9cd14a8", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
+{"id": "0c9b8d63abb7bc03", "karar": "ok", "zaman": "2026-09-25T18:56:32"}
