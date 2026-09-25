@@ -1810,3 +1810,103 @@
 {"id": "0cf49e8b971f7eef", "karar": "ok", "zaman": "2026-09-25T16:36:24"}
 {"id": "dfa84b7c7fd0edee", "karar": "ok", "zaman": "2026-09-25T16:36:24"}
 {"id": "5d8b6d970aa4ba3a", "karar": "ok", "zaman": "2026-09-25T16:36:24"}
+{"id": "abeb2abfa3215fc8", "karar": "duzelt", "aciklama": "Asetazolamid proksimal tübülde karbonik anhidrazı inhibe eden bir diüretiktir. Aköz hümör yapımını azalttığı için glokomda, bikarbonat atılımını artırdığı için metabolik alkalozda ve akut dağ hastalığının önlenmesinde, ayrıca bazı epilepsi tiplerinde kullanılır. Sirozda ise idrarın alkalileşmesi amonyak geri emilimini artırarak hiperamonyemi ve hepatik ensefalopatiyi tetikleyebileceğinden kullanılmaz.", "not": "açıklama tiroid hormonlarıyla ilgili alakasız metindi, yeniden yazıldı", "zaman": "2026-09-25T16:37:08"}
+{"id": "aa4484fef744d092", "karar": "duzelt", "govde": "İris kaslarının embriyolojik orijini aşağıdakilerden hangisidir?", "aciklama": "İris kasları (m. sphincter pupillae ve m. dilatator pupillae), optik kupanın ön kenarındaki nöroektodermden gelişir; bu yönüyle vücuttaki nadir nöroektoderm kökenli kaslardandır. Siliyer kas ise baş mezenkiminden köken alır.", "not": "gövdenin başına başka sorunun kökü karışmıştı ve açıklama o soruya aitti; gövde temizlendi, açıklama yeniden yazıldı", "zaman": "2026-09-25T16:37:08"}
+{"id": "0cf3e4b75db89f5e", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "baştaki yayınevi etiketi atıldı", "zaman": "2026-09-25T16:37:08"}
+{"id": "1fee6e0162e517b4", "karar": "duzelt", "aciklama": "Tonsilla palatina (a. palatina ascendens ve a. palatina descendens), glandula thyroidea (a. thyroidea superior ve a. thyroidea inferior), rectum (a. rectalis superior, media ve inferior) ve mesane (a. vesicalis superior ve inferior) birden fazla arter dalından beslenir. Colon descendens ise yalnızca a. mesenterica inferior'un dalı olan a. colica sinistra'dan beslenir.", "not": "açıklama portal ven listesiyle başlıyor ve yarım kalıyordu, çift beslenme bilgisi korunarak yeniden yazıldı", "zaman": "2026-09-25T16:37:08"}
+{"id": "b4571d36b77eef3d", "karar": "at", "neden": "cevap_supheli", "not": "pterion kırığında zedelenen arter a. meningea media'dır (D), anahtar C; gövdeye ve açıklamaya başka sorunun metni karışmış", "zaman": "2026-09-25T16:37:08"}
+{"id": "70a2c6599a177b1c", "karar": "duzelt", "govde": "Hangisi/hangileri foramen magnum'a girer? / I. Membrana tectoria / II. Ligamentum longitudinale anterius / III. Ligamentum longitudinale posterius", "siklar": {"A": "Yalnız I", "B": "Yalnız II", "C": "I ve II", "D": "II ve III", "E": "I, II ve III"}, "cevap": "C", "not": "gövde ve şıklardaki OCR hataları düzeltildi", "zaman": "2026-09-25T16:37:08"}
+{"id": "dfbe1c295c02f0f7", "karar": "duzelt", "aciklama_paragraf": 3, "not": "sondaki OCR çöpü kas listesi kesildi", "zaman": "2026-09-25T16:37:08"}
+{"id": "f748a287bbbd514b", "karar": "duzelt", "govde": "Aşağıdakilerden hangisi veya hangileri m. scalenus anterior ile medius arasında yer alır? / I. N. phrenicus / II. A. subclavia / III. Plexus brachialis", "siklar": {"A": "I-II", "B": "I-III", "C": "I-II-III", "D": "II-III", "E": "Yalnız II"}, "cevap": "D", "not": "gövde ve şıklardaki OCR hataları düzeltildi", "zaman": "2026-09-25T16:37:08"}
+{"id": "b53391adfc88fe50", "karar": "duzelt", "cevap": "B", "not": "anahtar C (gluteus minimus) idi; açıklama gluteus medius'u belirtiyor ve tıbben doğru, cevap B yapıldı", "zaman": "2026-09-25T16:37:08"}
+{"id": "0fbbb813a5ee76a7", "karar": "duzelt", "aciklama_paragraf": 2, "not": "Hinchey tablosu ve tedavi taşması kesildi", "zaman": "2026-09-25T16:37:08"}
+{"id": "8c78733dfa5a9a25", "karar": "duzelt", "aciklama": "Bakteriyel menenjitlerin büyük çoğunluğundan sorumlu olan Neisseria meningitidis, Streptococcus pneumoniae ve Haemophilus influenzae tip b'nin ortak özelliği polisakkarit kapsül taşımalarıdır; kapsül antifagositik etkili temel virülans faktörüdür. Bu bakteriler ayrıca IgA1 proteaz sentezleyerek salgısal IgA1'i menteşe bölgesinden koparır. Endotoksin yalnızca gram negatif olan N. meningitidis ve H. influenzae'de bulunur; S. pneumoniae gram pozitiftir.", "not": "açıklama OCR hatalı ve dağınıktı, kaynak bilgisiyle yeniden yazıldı", "zaman": "2026-09-25T16:37:08"}
+{"id": "2f2f838c99a706f7", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "6b889e1f5ffe8b60", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "55e0ec61d675c827", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "d76026f8be1f3675", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "a0bf549e8586c62e", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "7a35ca1b18f11185", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "2a4fb1d207949eef", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "c86d01dcbb398786", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "142b4332c21d1815", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "f9577b0d7bd08604", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "c5b8b317520ee01e", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "82034223acd08cf3", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "bb4eb5fcb49e878b", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "be21e3e28783e79b", "karar": "ok", "zaman": "2026-09-25T16:37:08"}
+{"id": "fb1ea5c5c1e46e57", "karar": "duzelt", "govde": "Son dönem böbrek yetmezliği nedeni ile böbrek transplantasyonu yapılan çocuklarda tekrarlama olasılığı ve graft kaybı olasılığı en yüksek hastalıklar aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir? (Tekrarlama olasılığı en yüksek – Graft kaybı riski en yüksek)", "siklar": {"A": "Membranoproliferatif GN tip II – Fokal segmental glomerüloskleroz", "B": "Fokal segmental glomerüloskleroz – Membranoproliferatif GN tip II", "C": "Membranoproliferatif GN tip I – Membranoproliferatif GN tip II", "D": "Membranöz glomerülonefrit – Membranoproliferatif GN tip I", "E": "Fokal segmental glomerüloskleroz – Membranöz glomerülonefrit"}, "cevap": "A", "not": "şıkların ikinci sütunu gövde altına dökülmüştü, sırayla şıklara eklenerek iki sütunlu şıklar yeniden kuruldu", "zaman": "2026-09-25T16:37:31"}
+{"id": "a10497e5004c76da", "karar": "duzelt", "aciklama": "Gebelikte progesteronun solunum merkezini uyarmasıyla hiperventilasyon ve solunumsal alkaloz gelişir; böbrek buna bikarbonat atarak yanıt verir, bu nedenle serum bikarbonatı artmaz, yaklaşık 18-22 mEq/L'ye düşer. Diğer ifadeler doğrudur: böbrek boyutu yaklaşık 1 cm büyür, progesteron ve üreter basısıyla fizyolojik hidronefroz (sağda belirgin) gelişir, GFR yaklaşık %50 artar ve plazma osmolalitesi yaklaşık 10 mOsm/kg azalır.", "not": "açıklamadaki 'yaklaşık' kelimesi OCR ile 'ya klasik' olarak bozulmuştu, düzeltildi", "zaman": "2026-09-25T16:37:31"}
+{"id": "3ba7bfae9336670a", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "773a9ebe2882364d", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "4ecaf182b4e6d9e9", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "37c839e9cdce4586", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "79e4a7002cd29ed1", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "9406e7bee2757c94", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "326a5ad66f6cbdc3", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "b90c6dc0fac30069", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "133ee02e0fa62086", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "4ed628b2ad7a7c50", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "b0512e1900c43bcc", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "8e0a0cefcf3972c2", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "3fa4e2bb2da1add0", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "5092bc2392c93f4e", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "baa8dda1ad0e6761", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "d303a75ff51ed82d", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "1e4ca7ef8412f00a", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "f9572011c8b275be", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "defd7103f4ca34bf", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "f3a664565084c0cd", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "ae67602332e98c60", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "601c9eb91d5e174c", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "e281fd300c81767a", "karar": "ok", "zaman": "2026-09-25T16:37:31"}
+{"id": "2670c443d82d292f", "karar": "duzelt", "govde": "Bir araştırmada, biyopsi sonucunda meme kanseri olduğu saptanmış 2.500 kadın ile biyopsi sonucunda meme kanseri olmadığı saptanmış benzer yaş grubundaki 5.000 kadın kontrol grubu olarak belirlenmiştir. Biyopsi yapılmadan önce yapılan fizik muayenede toplam 2.600 kadında pozitif bulgu saptanmıştır. Fizik muayene sonucunda pozitif bulgulara sahip olan kadınlardan 800'ünün meme kanseri olmadığı belirlendiğine göre, fizik muayenenin negatif kestirim (prediktif) değeri yüzde (%) kaçtır?", "not": "gövdede 2.600 pozitifin 'kontrol grubundan' olduğu yazılmıştı (açıklamadaki hesapla çelişkili), 'toplam' olarak düzeltildi; 'alt negatif' OCR hatası giderildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "b57d8d91c956e0c7", "karar": "duzelt", "siklar": {"A": "Lizozim ile karşılaşan bir bakteride oluşabilir", "B": "Hastalık yapabilirler", "C": "Filtrasyon işlemine dirençli olabilirler", "D": "Gram negatiften oluşan formuna protoplast denir", "E": "Şartlar düzeldiğinde yeniden duvar kazanabilirler"}, "cevap": "D", "not": "D şıkkındaki bölünmüş kelime (por top last) düzeltildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "543f9d95dc47724b", "karar": "duzelt", "govde": "Amonyak, karbondioksit ve ATP katılımı ile üre molekülünün sentezi aşağıdaki enzimlerden hangisi ile başlar?", "not": "gövdedeki ATP kısaltması düzeltildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "c9fec6c745b49755", "karar": "duzelt", "aciklama": "Yanlış olan ifade E'dir: nükleer grade nonkomedo tipte değil komedo tipte yüksektir. Komedo tipi duktus merkezinde geniş nekroz, yüksek nükleer grade, multisentrisite ve mikroinvazyon eğilimiyle daha agresiftir; nonkomedo (kribriform, papiller, solid, mikropapiller) tipler daha düşük gradelidir. Diğer ifadeler doğrudur: duktal karsinoma in situ erkek meme kanserlerinin yaklaşık %4-5'ini oluşturur, komedo nekroz alanlarındaki kalsifikasyon mamografide tipik gruplaşmış mikrokalsifikasyon verir ve kadınlarda invaziv meme kanseri riskini yaklaşık 5 kat artırır.", "not": "açıklamadaki OCR hataları ('ya klasik' = yaklaşık, bölünmüş kelimeler) düzeltildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "c86d336e04f5ca2d", "karar": "duzelt", "siklar": {"A": "Böbrek yetmezliği", "B": "Hipovolemik şok", "C": "Salisilat intoksikasyonu", "D": "Diyabetik ketoasidoz", "E": "Üreterosigmoidostomi"}, "cevap": "E", "not": "şıklardaki OCR hataları düzeltildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "b911f0524905fa03", "karar": "duzelt", "siklar": {"A": "Fagosit kemotaksisi", "B": "İmmün aderans ve opsonizasyon", "C": "Membran hasarı", "D": "Viral enfeksiyonlara bağışık yanıt", "E": "Anafilatoksik aktivite"}, "cevap": "D", "not": "şıklardaki OCR hataları (hasan, sondaki 16) düzeltildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "27dd0de6de8e26f2", "karar": "duzelt", "aciklama": "Meningiom benign bir tümördür (DSÖ derece I); araknoidin meningotelyal hücrelerinden köken alır, duraya yapışık, iyi sınırlı, yavaş büyüyen ve çevre beyin dokusunu invaze etmeyip iten bir kitledir. Erişkinde ve kadınlarda daha sıktır, progesteron reseptörü taşıdığı için gebelikte hızla büyüyebilir; histolojide girdap (whorl) yapıları ve psammom cisimcikleri görülür. İntrakraniyal tümörlerin yaklaşık %20'sini oluşturur ve cerrahi eksizyonla kür sağlanabilir. Astrositom, lenfoma, seminom ve disgerminom malign tümörlerdir.", "not": "açıklamadaki OCR hataları ('ya klasik' = yaklaşık, bölünmüş kelimeler) düzeltildi", "zaman": "2026-09-25T16:38:07"}
+{"id": "fb9036960d1ac9b7", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "6a05a34f8008eb41", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "a4f426e5ed213c4d", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "664134c0f49ac6fa", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "b34c5b3a0655e328", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "a1f75244bb4ec1c8", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "431ffc20b18c0e1f", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "76cc412c42268f46", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "b125fbdd6fb7a996", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "65084e3948bba31e", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "ad48bbec2792926c", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "f819b7889b0b9e8e", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "abc911bdd24390e6", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "7a516d4c9e79f8d2", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "1e42715ecdcc3e60", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "a9a2db96809da541", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "ff8aa4cc0c16f932", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "0e5f34c9a49bb302", "karar": "ok", "zaman": "2026-09-25T16:38:07"}
+{"id": "cac2477c08d2eec8", "karar": "duzelt", "aciklama": "Sinüs biyopsisinde düzensiz, geniş ve septasız hifler mukormikozun (zigomikoz) tanısal bulgusudur; hifler geniş açılı (yaklaşık 90 derece) dallanır, anjiyoinvazyon yaparak tromboz ve siyah nekrotik eskar oluşturur ve özellikle diyabetik ketoasidoz ve nötropenide rinoserebral form görülür. Etkenler Rhizopus (en sık), Mucor, Absidia (Lichtheimia) ve Apophysomyces'tir; tedavi acil cerrahi debridman, lipozomal amfoterisin B ve altta yatan durumun düzeltilmesidir. Aspergillus bu tabloda etken olamaz, çünkü hifleri septalıdır ve dar açılı (yaklaşık 45 derece) dikotom dallanır.", "not": "açıklamadaki OCR hataları ('ya klasik' = yaklaşık, bölünmüş kelimeler) düzeltildi", "zaman": "2026-09-25T16:38:42"}
+{"id": "27d95411aa0b77a9", "karar": "duzelt", "aciklama": "Kadın genital sistem kanserleri içinde en sık görülen endometrium (korpus uteri) kanseridir ve bunun yaklaşık %80'i endometrioid adenokarsinomdur (tip 1); karşılanmamış östrojen etkisiyle ilişkilidir ve obezite, nulliparite, geç menopoz, polikistik over sendromu, tamoksifen kullanımı riski artırır. Tipik olarak postmenopozal kanama ile erken evrede yakalandığı için prognozu görece iyidir. Over kanseri en ölümcül genital kanserdir; serviks kanseri ise Pap smear taraması sayesinde gelişmiş ülkelerde gerilemiştir. Vulva ve vajen kanserleri kadın genital kanserlerinin yalnızca yaklaşık %3-5 ve %1-2'sini oluşturur.", "not": "açıklamadaki OCR hataları ('ya klasik' = yaklaşık, bölünmüş kelimeler) düzeltildi", "zaman": "2026-09-25T16:38:42"}
+{"id": "d5fffa495113f2ab", "karar": "duzelt", "aciklama": "Folliküler karsinomun servikal lenf düğümlerine yayılma olasılığı en düşüktür (%10'un altında); yayılımı lenfatik değil hematojendir ve akciğer ile kemiğe uzak metastaz yapar. Tanısı ince iğne aspirasyonuyla konulamaz, kapsül ve damar invazyonunun gösterilmesi gerekir. Papiller karsinom ise belirgin lenfatik yayılım gösterir (olguların yaklaşık yarısında servikal lenf nodu tutulumu vardır) ama prognozu yine de çok iyidir. Hürthle hücreli karsinom folliküler karsinomun bir varyantıdır, ondan farklı olarak lenf nodu metastazı daha sıktır; medüller karsinom hem lenfatik hem hematojen, anaplastik karsinom ise hızla çevre dokulara ve lenf nodlarına yayılır.", "not": "açıklamadaki OCR hataları ('ya klasik' = yaklaşık, bölünmüş kelimeler) düzeltildi", "zaman": "2026-09-25T16:38:42"}
+{"id": "c01a1cb302580445", "karar": "duzelt", "aciklama": "Sitokalazin hücre döngüsünü telofazın hemen sonunda, sitokinez aşamasında durdurur; aktin filamanlarının (+) ucuna bağlanıp polimerizasyonu engeller, böylece bölünme oluğunu oluşturan aktin-miyozin kasılma halkası çalışamaz. Kromozomlar ayrılır ancak sitoplazma bölünemez ve çok çekirdekli hücreler oluşur. Diğer ajanlar mikrotübül hedefli oldukları için hücreyi metafazda durdurur: taksol mikrotübülleri aşırı stabilize eder, vinkristin ve nokodazol ise tübülin polimerizasyonunu engelleyip iğ ipliklerini dağıtır. Kumarin bir antikoagülandır, hücre döngüsü inhibitörü değildir.", "not": "açıklamadaki çok sayıda bölünmüş kelime düzeltildi", "zaman": "2026-09-25T16:38:42"}
+{"id": "ee474ebacbd528fc", "karar": "duzelt", "govde": "Aşağıdaki ilaçlardan hangisi nucleus tractus solitarii'deki alfa-2 reseptörlerini uyararak kan basıncını ve kalp hızını düşürür?", "not": "gövdedeki alfa-2 alt simgesi OCR'da kaybolmuştu", "zaman": "2026-09-25T16:38:42"}
+{"id": "503ec753952204fe", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "5ee2967266147ad9", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "c438f7f5d93b9eaa", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "35c7fc5cd2ba7649", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "76a456bf4095ce06", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "1a5d58af6f26ab17", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "49b31d36be29859e", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "2d42d508a2f924ea", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "2a43dc54a70ab85b", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "04b262bae977465c", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "5b79cb1db67482a8", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "7d9e2c920e700a1c", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "fe4277b6fa031e42", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "4535399db11046c0", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "e2b9796f586a3589", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "723f9a85d36a1912", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "682f54c3cb894772", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "d87879d285aac075", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "a482bd11a0a07525", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
+{"id": "4cadef1cf5624380", "karar": "ok", "zaman": "2026-09-25T16:38:42"}
