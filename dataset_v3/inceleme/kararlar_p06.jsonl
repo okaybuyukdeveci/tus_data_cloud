@@ -1098,3 +1098,53 @@
 {"id": "1b774a188e256c37", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
 {"id": "250c8903240f0407", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
 {"id": "65cc89446a3704e2", "karar": "ok", "zaman": "2026-09-25T20:23:26"}
+{"id": "361594d8061fdba5", "karar": "at", "neden": "cevap_supheli", "not": "antimuskarinikler (oksibutinin, darifenasin) asiri aktif/norojenik mesanede kullanilir; aciklamada uriner kullanim da var, anahtar B tartismali", "zaman": "2026-09-25T20:23:57"}
+{"id": "21495d8b6151af12", "karar": "duzelt", "aciklama_paragraf": 1, "not": "atrium dextrum ile ilgili ilgisiz paragraflar kesildi", "zaman": "2026-09-25T20:23:57"}
+{"id": "de0f26ad1a1c7798", "karar": "duzelt", "govde": "Aşağıdaki proteinlerden hangisi aksonem yapısında bulunan ve hareketinden sorumlu proteindir?", "not": "govde yazim (akson emin)", "zaman": "2026-09-25T20:23:57"}
+{"id": "72414144019f6e38", "karar": "duzelt", "aciklama_paragraf": "4-", "not": "ilgisiz glikoliz/glukoneogenez enzim tablosu kesildi", "zaman": "2026-09-25T20:23:57"}
+{"id": "2935b4dd6618362b", "karar": "duzelt", "govde": "Patolojik ve direkt mikrobiyolojik incelemelerde Aspergillus olduğundan şüphelenilen bir mantar enfeksiyonunda tedavi için amfoterisin B veriliyor. Fakat hastanın kliniğinde düzelme olmuyor; tedaviye vorikonazol eklenince yanıt alınıyor. / Bu durumda etken aşağıdakilerden hangisi olabilir?", "aciklama_paragraf": 1, "not": "govde dil; Candida tablosu kesildi", "zaman": "2026-09-25T20:23:57"}
+{"id": "b1464dd0169225f2", "karar": "duzelt", "aciklama_paragraf": 1, "not": "dopamin reseptorleri paragrafi kesildi", "zaman": "2026-09-25T20:23:57"}
+{"id": "6cab4acf04deeee0", "karar": "duzelt", "aciklama_paragraf": "3-", "not": "yumusak damak kaslari paragraflari kesildi", "zaman": "2026-09-25T20:23:57"}
+{"id": "38763adf8cdc3198", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "a1f376ee6662caa4", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "e544693f80afda08", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "db8b559b40ea6502", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "f1c893dacfb68971", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "ec3ad47b265c87b0", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "3cd5f2832344f2f9", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "6b5b6e7da43aed57", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "5e724b1868798968", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "143378c1233dcbae", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "928747eff257f15f", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "29256bca16e7d5be", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "cc41f1905f53c9f0", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "fa5c84ddfb4946f1", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "e86fcd99f4825b72", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "645e96a6d22acc82", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "b7198c0d8ee8151b", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "458b8a4d1fb4c1c1", "karar": "ok", "zaman": "2026-09-25T20:23:57"}
+{"id": "327d270973f6b8af", "karar": "duzelt", "siklar": {"A": "Hepatoselüler kanser", "B": "Kolanjioselüler kanser", "C": "Hepatokolanjioselüler kanser", "D": "Fibrolameller tip hepatoselüler kanser", "E": "Metastatik kanser"}, "cevap": "D", "aciklama": "Fibrolameller hepatoselüler karsinom klasik hepatoselüler karsinomun bir varyantıdır. Genellikle 20-40 yaş arasındaki gençlerde görülür ve kadın-erkekte eşit sıklıktadır. Klasik hepatoselüler karsinomun aksine zemininde siroz ya da hepatit B gibi risk faktörleri bulunmaz ve AFP genellikle yükselmez. Tek, büyük ve sert (skiröz) bir kitle olarak izlenir; mikroskopide paralel kollajen demetleri arasında iyi diferansiye malign hepatositler görülür. Prognozu klasik hepatoselüler karsinoma göre oldukça iyidir.", "not": "sik OCR; aciklama tablosunda sutunlar ters/bozuk, yeniden yazildi", "zaman": "2026-09-25T20:24:31"}
+{"id": "d8c30f9bf0cb9926", "karar": "duzelt", "govde": "Makrofaj içerisinde, asidik ve hipoksik ortamda çoğalan basillere etkili antimikrobiyal aşağıdakilerden hangisidir?", "siklar": {"A": "İzoniazid", "B": "Etambutol", "C": "Paraaminosalisilik asit (PAS)", "E": "Pirazinamid"}, "cevap": "E", "aciklama_paragraf": "1-", "not": "C ve D ayni ilac (PAS), D cikarildi; Wegener paragrafi kesildi", "zaman": "2026-09-25T20:24:31"}
+{"id": "cf912121aca726ca", "karar": "duzelt", "aciklama": "AML gelişimi için predispozan durumlar arasında myelodisplastik sendromlar, Down sendromu, aplastik anemi, Fanconi anemisi, ataksi telenjiektazi, Bloom sendromu, paroksismal noktürnal hemoglobinüri, benzen ve radyasyon maruziyeti ile alkilleyici ajan tedavisi sayılabilir. Sideroblastik anemi (refrakter anemi halka sideroblastlı) bir myelodisplastik sendrom alt tipidir ve AML'ye dönüşebilir. Pernisiyöz anemi ise B12 eksikliğine bağlı megaloblastik bir anemidir; mide kanseri riskini artırır ancak AML riskini artırmaz.", "not": "aciklamaya hemodiyaliz metni karismis, yeniden yazildi", "zaman": "2026-09-25T20:24:31"}
+{"id": "38c6fa06da2ff77d", "karar": "duzelt", "govde": "67 yaşındaki erkek yaygın üçüncü derece yanıkla başvurmuştur. Bu yanıktan 3 gün sonra ateş ve yanık yerinde mavi-yeşil renk değişimli yumuşak doku enfeksiyonu gözlenmiştir. Yanık yarasından yapılan Gram boyamada gram negatif basiller görülmüştür. / Bu tabloya sebep olan etken aşağıdakilerden hangisidir?", "not": "govde cumle bozuk", "zaman": "2026-09-25T20:24:31"}
+{"id": "5c19f018482ffbc1", "karar": "duzelt", "aciklama_paragraf": 2, "not": "APSGN paragraflari kesildi", "zaman": "2026-09-25T20:24:31"}
+{"id": "08fa6ecdcb4747e7", "karar": "duzelt", "aciklama_paragraf": "1-4", "not": "mikozis fungoides paragraflari kesildi", "zaman": "2026-09-25T20:24:31"}
+{"id": "e871858a49974d22", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "791cb75fafcb8cd9", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "a36ade9cf2702daa", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "574523a4d335b06d", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "7f04f30f77998045", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "62cf72ef50fb5abe", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "f298494e0b731ac6", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "3d7d839246880411", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "c006c1237359cfce", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "96129bb0bf1d4b5f", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "42f316c1600b902d", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "a0d4b3398ad2b07b", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "13f11c1804b64e98", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "6bad8a6007b69c6b", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "cf456ca9da996f5d", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "6e49075d047b493e", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "128d7871bffee304", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "4bae92b43ce568ac", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "ceaa953aa3dffac5", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
