@@ -1198,3 +1198,53 @@
 {"id": "9ed16175e9d3caa7", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
 {"id": "1a155cc1a4437d2a", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
 {"id": "9afec06b1dbca39f", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "f050d8cf2c7ccb2c", "karar": "duzelt", "aciklama_paragraf": 1, "not": "OCR ile bozulmus sekil metni kesildi", "zaman": "2026-09-25T20:26:08"}
+{"id": "edf3e614199ac34b", "karar": "duzelt", "aciklama": "Kronik pelvik ağrı, kadınlarda 6 aydan uzun süredir aynı bölgede devam eden, fonksiyonel kayba yol açan veya tedavi gerektiren alt abdomen ve pelvis ağrısıdır. En sık nedenleri jinekolojik kaynaklıdır. Jinekolojik nedenler arasında en sık görülenler pelvik adezyonlar ve endometriozistir; seçenekler içinde en sık neden pelvik adezyondur. Pelvik inflamatuvar hastalık da sekel olarak adezyonlar oluşturarak kronik pelvik ağrıya yol açabilir.", "not": "aciklama baslikta kesiliyordu, yeniden yazildi", "zaman": "2026-09-25T20:26:08"}
+{"id": "48050acb8c442f7c", "karar": "at", "neden": "cevap_supheli", "not": "E-selektin, P-selektin ve PECAM de endotelde bulunan adezyon molekulleri; aciklama cevabi desteklemiyor", "zaman": "2026-09-25T20:26:08"}
+{"id": "d04c550a4f41d5f0", "karar": "duzelt", "aciklama_paragraf": "2-", "not": "'X' artigi ve giris cumlesi kesildi", "zaman": "2026-09-25T20:26:08"}
+{"id": "30b0e639d9949ee4", "karar": "duzelt", "aciklama": "Roseola infantum (ekzantem subitum, altıncı hastalık) HHV-6 ve HHV-7'nin neden olduğu, en sık 6 ay-2 yaş arasında görülen bir hastalıktır. Genel durumu iyi olan bebekte 3-5 gün süren yüksek ateşten sonra ateş aniden düşer ve ateşin düşmesiyle birlikte gövdeden başlayan makülopapüler döküntü ortaya çıkar; döküntü birkaç saat ile 1-2 gün içinde kaybolur. Ateşli dönemde febril konvülsiyon görülebilir. Kızamıkta ise 3-4 günlük prodrom sonrası döküntü ateşle birlikte çıkar ve ateş döküntü döneminde daha da yükselir.", "not": "aciklama yalnizca kizamigi anlatiyordu, yeniden yazildi", "zaman": "2026-09-25T20:26:08"}
+{"id": "b5fa498c00459c3e", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "eb13d77f5fdc9b8a", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "1670620e3b2be526", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "d4b97a4246e577e1", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "f1493f81e31bd0b8", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "72d33d1457b3d991", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "09601c5c4c7b0a66", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "9d09e8b1a99d2b53", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "e1a654d090c2501a", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "2b331462b89d2b25", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "edcabc485a86d17c", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "d73dad566f20a3d6", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "3ed20929cd5da983", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "d1c29e274e80d909", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "ae3477a79882407c", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "461cd0d5f27ffebc", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "a8e8f19751ae1b98", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "387b7dc8d54b855d", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "ddb9ec5530b48358", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "271e4726bdb06682", "karar": "ok", "zaman": "2026-09-25T20:26:08"}
+{"id": "88ba9d226d7de52a", "karar": "duzelt", "govde": "Papiller tiroid karsinomu en sık hangi organ ya da dokuya metastaz yapar?", "siklar": {"A": "Kemik", "B": "Akciğer", "C": "Karaciğer", "D": "Beyin", "E": "Servikal lenf nodları"}, "cevap": "E", "not": "govdeye onceki sorunun ogeleri karismis; B sikki OCR", "zaman": "2026-09-25T20:26:37"}
+{"id": "30536b229ad8c99c", "karar": "duzelt", "govde": "Kırk beş yaşında HIV (+) bir erkek hasta pnömoni benzeri semptomlarla hastaneye başvuruyor. Yapılan bronkoalveolar lavaj sonucu elde edilen materyalin Gomori metenamin gümüş boyası ile boyanmasında 5-12 μm boyutlarında, 4-8 nükleuslu, rozet şeklinde yapılar saptanıyor. / Bu hastada en olası etken aşağıdakilerden hangisidir?", "not": "govde OCR (5/-12)", "zaman": "2026-09-25T20:26:37"}
+{"id": "c4e14efed8c1a2d1", "karar": "duzelt", "aciklama_paragraf": 12, "not": "sondaki artik isaret kesildi", "zaman": "2026-09-25T20:26:37"}
+{"id": "1050fa3ec6a663ae", "karar": "duzelt", "aciklama": "Yenidoğanın canlandırılması erişkinden farklı olarak ventilasyon ağırlıklıdır ve ventilasyonu hemen başlatmak için çoğu durumda balon-maske ile pozitif basınçlı ventilasyon yeterlidir. Ancak bazı durumlarda bebeğin doğar doğmaz entübe edilmesi gerekir. Mekonyumlu amniyon sıvısı içinde doğan ve deprese olan (solunumu yetersiz, kas tonusu zayıf, kalp hızı 100/dk altında) bebekte, pozitif basınçlı ventilasyondan önce trakeanın entübe edilerek mekonyumun aspire edilmesi önerilir; aksi halde mekonyum alt solunum yollarına itilir. Konjenital diyafragma hernisi olan bebekler de balon-maske yerine doğrudan entübe edilerek ventile edilmelidir.", "not": "aciklama 'bu durumlar sunlardir' diye kesiliyordu, yeniden yazildi", "zaman": "2026-09-25T20:26:37"}
+{"id": "fd7dc1f3fd201fa2", "karar": "duzelt", "aciklama_paragraf": 2, "not": "sondaki tekrar eden satir kesildi", "zaman": "2026-09-25T20:26:37"}
+{"id": "ae3d378073f3d9f4", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "2cb57d09045bf91a", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "62b30e2486acd133", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "a1f36db57b2c55e3", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "2ba93ff67d115033", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "30128ebdb2cdfe7a", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "21827e50389d32e1", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "506c60224980b281", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "2dbd9ad2b1cf7dad", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "3301ae2835a75dce", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "318319238b5e0461", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "8e92995f4d94648a", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "f783f6af2770b595", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "62533b082308ca9e", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "8fb7442ea0baf76e", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "9986c9cfaf3fb777", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "ca4ec7118abd77a9", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "c909bfd8b16e15af", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "a2e642a00b5479ea", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
+{"id": "add37edd684895e4", "karar": "ok", "zaman": "2026-09-25T20:26:37"}
