@@ -5,3 +5,4 @@ dataset_v3/inceleme/kuyruk.json
 dataset_v3/inceleme/oncelik.txt
 __pycache__/
 *.pyc
+.claude/

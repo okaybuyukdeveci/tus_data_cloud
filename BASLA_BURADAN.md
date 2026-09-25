@@ -76,10 +76,13 @@ oturum oradan devam eder. Kararlar dosyaya eklenir, hiçbir şeyin üzerine yaz�
 **JSON'u heredoc ile dosyaya yaz**, komut satırına gömme: metinlerde kesme işareti (`'`) çok
 geçiyor ve shell'i bozuyor.
 
-### İki kural — önceki turlarda bunlar yüzünden oturum kilitlendi
+### Üç kural — önceki turlarda bunlar yüzünden sorun çıktı
 1. **Gösterilen her kayıt için karar yazmadan bir sonraki partiyi açma.** Önce yaz, sonra devam et.
 2. **Bir kayıtta takılırsan bırak, ilerle.** Emin olamadığın kaydı atlayıp sonunda raporla;
    tek kayıt için oturumu tıkama.
+3. **Her `duzelt` kararına `not` yaz.** Tek cümle yeter ("B-C harfleri kayıptı", "açıklamaya
+   sonraki soru karışmıştı"). Notsuz düzeltme sonradan denetlenemiyor — bir turda 606 düzeltmenin
+   508'i notsuz geldi, bu tekrarlanmamalı.
 
 ---
 
@@ -174,6 +177,30 @@ kayıtlar, ilerledikçe ucuzlar.
 
 Tek oturumda parçanın tamamını bitirmeye çalışma. **300–500 kayıtlık turlar** hâlinde ilerle,
 her turun sonunda `durum` ile nerede olduğunu gör ve kararlarını gönder.
+
+---
+
+## 7b. Öncelikli listeler (riskli kayıtlar)
+
+Parçalar veri setinin tamamını böler; içlerinde hem bozuk hem temiz kayıt vardır. Kredi sınırlı
+olduğunda **önce bozuk olanlara** bakmak daha değerli. Bunun için ayrı listeler var:
+
+| Liste | Kayıt | İçerik |
+|---|---|---|
+| `paylar/riskli_1..4.txt` | 4 × ~361 | Otomatik hattın bayrakladığı ya da elediği, yani sorunlu olması beklenen kayıtlar |
+
+Kullanımı parçalarla aynı; yalnızca `PAY` değişkenini değiştir ve karar dosyana listeyle aynı adı ver:
+
+```bash
+export KARAR_DOSYA=kararlar_riskli_1.jsonl
+export PAY=paylar/riskli_1.txt
+```
+
+Bu listeler `parca_03.txt` ile **çakışmayacak** şekilde üretildi; parça 03'te çalışan oturumla
+aynı anda koşabilirler. Diğer parçalarla çakışırlar — riskli liste çalışırken `parca_04..08`
+başlatma, önce riskli listeler bitsin.
+
+Bitince dal adı: `kararlar/riskli-1` gibi.
 
 ---
 
