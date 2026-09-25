@@ -49,9 +49,17 @@ Alanlar (yalnızca değişeni ver):
   3. **Açıklama okunaklı ama sorunun cevabını gerekçelendirmiyor** — kitaptan kopyalanmış
      bir konu bloğu olup "doğru şık neden bu" sorusuna değmiyorsa yeniden yaz.
 
-  > **Kaynağa bağlı kal.** Yeniden yazarken kaynaktaki (soru + orijinal açıklama + kesilen
-  > blok) bilgiyi kullan. Kendi belleğinden yeni iddia, oran, tarih ya da liste ekleme.
-  > Kaynak bilgiyi doğru şıkkı gerekçelendirecek biçimde topla ve düzgün Türkçeyle yaz.
+  > **Önce kaynak, sonra bilgin.** Yeniden yazarken kaynaktaki (soru + orijinal açıklama +
+  > kesilen blok) bilgiyi kullan. Kaynak doğru şıkkı gerekçelendirmeye **yetmiyorsa** —
+  > örneğin açıklama yalnızca "SIRS kriterleri bilinmelidir" diyorsa — eksik halkayı kendi
+  > tıbbi bilginle tamamlayabilirsin. Koşul şu:
+  >
+  > - Eklediğin her şey **doğru şıkkı gerekçelendirmeye hizmet etsin.** Konuyu genişleten
+  >   ek oran, tarih, sınıflama ya da yan liste ekleme — soru bunu sormuyor.
+  > - Kaynakta bir bilgi **varsa** onu kullan; kendi versiyonunla değiştirme.
+  > - Emin olmadığın bir bilgiyi yazma; o kaydı `at` (`eksik_bilgi`) etmek daha iyidir.
+  >
+  > Bu bir yasak değil, bir öncelik sırası: kaynak → gerekli tamamlama → fazlası yok.
   **Düzgün Türkçe, Türkçe karakterlerle (ş ğ ı ö ü ç İ)**, 2–6 cümle, cevabın neden doğru
   olduğunu ve önemli çeldiricileri açıklayan, kesin tıbbi bilgi. Uydurma kaynak/oran yazma.
 - `"not"`: kısa açıklama (ne yaptın).

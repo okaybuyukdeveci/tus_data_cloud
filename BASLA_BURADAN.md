@@ -104,7 +104,7 @@ Yalnızca değiştirdiğin alanı yaz:
 | `cevap` | Yalnızca bariz harf kaymasında (`"C"` gibi) |
 | `aciklama_paragraf` | Paragraf seçimi (gösterimdeki `[0] [1] [2]`): `3` = ilk 3 paragraf · `"2-"` = `[2]` ve sonrası (**baştaki çöpü atar**) · `"1-4"` = yalnızca o aralık |
 | `aciklama_kes` | Verdiğin metnin başladığı yerden sonrasını at |
-| `aciklama` | Açıklamayı tamamen yeniden yaz (2–6 cümle). Bozuk/okunmaz olduğunda **ya da** okunaklı olduğu hâlde doğru şıkkı gerekçelendirmiyorsa (kitaptan kopyalanmış konu bloğu). **Kaynaktaki bilgiyle yaz — kendi belleğinden yeni iddia ekleme.** |
+| `aciklama` | Açıklamayı tamamen yeniden yaz (2–6 cümle). Bozuk/okunmaz olduğunda **ya da** okunaklı olduğu hâlde doğru şıkkı gerekçelendirmiyorsa (kitaptan kopyalanmış konu bloğu). **Önce kaynaktaki bilgiyi kullan; kaynak gerekçelendirmeye yetmiyorsa eksik halkayı kendi bilginle tamamla, ama konuyu genişletme.** |
 | `not` | Ne yaptığının kısa özeti |
 
 ### `at` — eğitimden çıkar
@@ -139,7 +139,8 @@ kendi `kararlar_pNN.jsonl` dosyanda birikir; veri dosyası hiçbir zaman elle d�
    açıklama OCR çöpüdür, **ya da** okunaklıdır ama kitaptan kopyalanmış bir konu bloğudur ve
    "doğru şık neden bu" sorusuna değmez. Üçünde de 2–6 cümlelik yeni bir açıklama yaz:
    kaynaktaki bilgiyi kullan, doğru şıkkı açıkça gerekçelendir, Türkçe karakterlerle yaz.
-   **Kendi belleğinden yeni iddia/oran/liste ekleme.**
+   Kaynak gerekçelendirmeye yetmiyorsa eksik halkayı kendi tıbbi bilginle tamamla;
+   ama yalnızca doğru şıkkı açıklayacak kadar — konuyu genişleten yan liste/oran ekleme.
 3. **Açıklamaya taşan metin.** Sonuna konu anlatımı sayfaları, "SPOT BİLGİLER" listeleri ya da
    bir sonraki sorunun metni karışmış → `aciklama_paragraf` ile ilgili kısmı tut.
    Çöp **başta**ysa aralık kullan: `"1-"` ilk paragrafı atar.
