@@ -1023,3 +1023,78 @@
 {"id": "0a607765b68c9928", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
 {"id": "7583067be393f97a", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
 {"id": "4e73afc9e89cf2bb", "karar": "ok", "zaman": "2026-09-25T18:44:31"}
+{"id": "6143f88f383e6ca6", "karar": "duzelt", "govde": "Yüksek ateş, kolit ve dizanteriform ishallere neden olabilen mikroorganizmalar aşağıdakilerden hangileridir? / I. Campylobacter jejuni / II. Rotavirüs / III. Enteroinvazif Escherichia coli / IV. Enterotoksijenik Escherichia coli / V. Vibrio parahaemolyticus", "siklar": {"A": "I, III ve V", "B": "II, III ve V", "C": "I, II ve IV", "D": "III, IV ve V", "E": "I, II ve III"}, "cevap": "A", "not": "oncul numaralari ve E sikki OCR bozuk", "zaman": "2026-09-25T18:44:57"}
+{"id": "c6c0ff427b290879", "karar": "duzelt", "govde": "Doğumun birinci dakikasında yapılan fizik muayenede kalp hızı 102/dakika, solunumu yüzeysel ve ağlaması zayıf, alt ekstremiteler fleksiyonda, üst ekstremiteler ekstansiyonda, burna sokulan katetere ağlama ile cevap veren, vücudu pembe ve ekstremiteleri siyanotik olan bebeğin APGAR skoru kaçtır?", "not": "govdede kelime bolunmesi duzeltildi", "zaman": "2026-09-25T18:44:57"}
+{"id": "3a3be6c09e3b5c25", "karar": "duzelt", "aciklama_paragraf": 2, "not": "bozuk tablo kesildi", "zaman": "2026-09-25T18:44:57"}
+{"id": "00a283a3585832a9", "karar": "duzelt", "aciklama": "Tanisitler, üçüncü ventrikül tabanını (özellikle hipotalamus çevresini) döşeyen özelleşmiş ependim hücreleridir. Komşu hücrelere zonula okludensler ile bağlanarak BOS ile median eminens arasında bariyer oluştururlar ve uzun bazal uzantılarıyla BOS'tan hipotalamik bölgelere madde taşınmasında rol oynarlar.", "not": "aciklama yarim kalmis astrosit anlatimiydi", "zaman": "2026-09-25T18:44:57"}
+{"id": "1e18082ef955c93e", "karar": "duzelt", "siklar": {"A": "CD4 molekülü - CCR5 ve CXCR4 kemokin reseptörleri", "B": "CD4 molekülü - Sitoplazmik membran glikosfingolipitleri", "C": "T hücre reseptörleri - CD3 molekülü", "D": "CD4 molekülü - MHC class II molekülleri", "E": "İnsan albümin depozitleri - CD15 molekülü"}, "cevap": "A", "not": "ikili siklar ayrildi", "zaman": "2026-09-25T18:44:57"}
+{"id": "86876c67254fe8dc", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "378c85fb25dd7812", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "8e190641fc2fe1fe", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "4ae1db3c44906d32", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "b3dc3bd05522685e", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "0ac8cfb0fe3f7e24", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "1d529570ca805330", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "b16e689bf425fe29", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "e6f11b7d302d980b", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "d011fea7c6965031", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "9d6d51cbd4ad9654", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "c4a3d0b0ca589b13", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "b75f8574fc9c317d", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "7e7d373cac162cd9", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "08f0aa131aa3ecb6", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "ccbef950b8da5b2c", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "ad7ca9ecc014a7ad", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "68dfc893731a0c61", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "138054227f0474b6", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "3b8b91ab7aff30e6", "karar": "ok", "zaman": "2026-09-25T18:44:57"}
+{"id": "82ace3bc91d2c73c", "karar": "duzelt", "aciklama": "Protrombin zamanı, aPTT, trombin zamanı ve kanama zamanının birlikte uzaması afibrinojenemi (faktör I eksikliği), DIC ve ağır karaciğer hastalığında görülür; fibrinojen yokluğunda hem pıhtı oluşumu hem de trombosit agregasyonu bozulduğundan kanama zamanı da uzar. Faktör VIII ve XII eksikliğinde yalnız aPTT uzar (faktör XII eksikliğinde kanama olmaz). Faktör XIII eksikliğinde kanama olmasına karşın rutin testler normaldir; von Willebrand hastalığında ise kanama zamanı ve aPTT uzar, PT ve trombin zamanı normaldir.", "not": "aciklamada faktor XII/XIII karistirilmisti", "zaman": "2026-09-25T18:45:19"}
+{"id": "e0d0a5b4dbbdfaca", "karar": "duzelt", "siklar": {"A": "Mide", "B": "Jejunum", "C": "Safra yolları", "D": "Pankreas", "E": "Kolon"}, "cevap": "D", "not": "E sikkindaki artik harf temizlendi", "zaman": "2026-09-25T18:45:19"}
+{"id": "59d295c59de7af3f", "karar": "duzelt", "aciklama_paragraf": 2, "not": "yarim kalan liste kesildi", "zaman": "2026-09-25T18:45:19"}
+{"id": "349ade25428e591e", "karar": "duzelt", "aciklama_paragraf": 1, "not": "yarim kalan baslik kesildi", "zaman": "2026-09-25T18:45:19"}
+{"id": "8fb3beb1abf5d362", "karar": "at", "neden": "tekrar", "not": "b6e735c37358f2b7 ile ayni soru", "zaman": "2026-09-25T18:45:19"}
+{"id": "d09abdfd425b296b", "karar": "duzelt", "aciklama_paragraf": 1, "not": "yarim kalan baslik kesildi", "zaman": "2026-09-25T18:45:19"}
+{"id": "6778bc946918a5fa", "karar": "duzelt", "aciklama_paragraf": 1, "not": "baglamsiz cumle kesildi", "zaman": "2026-09-25T18:45:19"}
+{"id": "cb9d2e9af5ad6b2b", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "d90e51ba237e7c94", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "139c350bdad70d94", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "9bd048133d1d51b3", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "d30e8d612e92528e", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "c7fcdfcbbc8c6699", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "7d5527c587c5084f", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "88fe50415d7ae0af", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "9e3739d3e0d12485", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "6e51b8cf3dfa6ca4", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "13048be67bc4e4a0", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "4fca05e09a51a05b", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "1d54be2aa3115838", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "8fb83bde5addc3c4", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "1197e939d3fea80f", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "b640fb94039bbc8e", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "5c5f0d75893e4379", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "877aaee486978160", "karar": "ok", "zaman": "2026-09-25T18:45:19"}
+{"id": "ce700ac2556bbb20", "karar": "duzelt", "aciklama_paragraf": 2, "not": "diger ilaclar ve sayfa basligi kesildi", "zaman": "2026-09-25T18:45:46"}
+{"id": "29e38c9cd3ebb5e3", "karar": "duzelt", "aciklama": "Prekordal plak, bilaminar disk döneminde hipoblastın kraniyal ucunda gelişen kalınlaşmış silindirik hücre grubudur ve ileride orofaringeal membranın oluşacağı bölgeyi işaret eder. Prekordal plak, ön beynin (prozensefalon) gelişimini indükleyen önemli bir sinyal merkezidir.", "not": "aciklama trofoblast farklilasmasina aitti, soruyu aciklamiyordu", "zaman": "2026-09-25T18:45:46"}
+{"id": "d0a59205e9ecc872", "karar": "duzelt", "govde": "Oksidatif deaminasyon reaksiyonunun gerçekleştiği doku-organ ve reaksiyonu gerçekleştiren enzim aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?", "siklar": {"A": "Beyin - Pirüvat karboksilaz", "B": "Kas - Asparajinaz", "C": "Karaciğer - Glutamat dehidrogenaz", "D": "Barsak - Aspartat transaminaz", "E": "Böbrek - Glutaminaz"}, "cevap": "C", "aciklama_paragraf": "5-", "not": "enzim sutunu aciklamaya kaymisti, eslemeler geri kondu", "zaman": "2026-09-25T18:45:46"}
+{"id": "d97e494a1d121401", "karar": "duzelt", "govde": "Kesin tanısı beyin dokusunun patolojik incelemesi ile konan, tanıda serolojik testlerin kullanılamadığı, sterilizasyona dirençli, kornea ve dura mater nakliyle bulaşabilen enfeksiyon hastalığı aşağıdakilerden hangisidir?", "siklar": {"A": "Subakut sklerozan panensefalit", "B": "Kabakulak menenjiti", "C": "Herpes simpleks ensefaliti", "D": "Creutzfeldt-Jakob hastalığı", "E": "Coxsackie A virus ensefaliti"}, "cevap": "D", "not": "govde ve A sikkinda OCR bolunmeleri duzeltildi", "zaman": "2026-09-25T18:45:46"}
+{"id": "42ebdc09c36f414f", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "1c44bdb50e611fa2", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "b1ac024b92027932", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "dc4a3ab219e1cbaf", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "a00cde0cbb4d5f7f", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "9de0d9f9377a2e7f", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "008e619e009861cc", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "4384a85f9ad01b2a", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "3c495157892c0797", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "a4897bab80a9f55c", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "c331e123875001d5", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "bdc89418454b0f03", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "7767b1a75d6df14d", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "82ff415f33fb5bd5", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "89ad8c109829df6e", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "fb624c864bb7fef1", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "8bbdabfb9c77aa40", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "fae1e8f8c6c347b6", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "e11acb1e68110993", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "d0e2284d15ec012f", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
+{"id": "e2b67f46e4bfe0f4", "karar": "ok", "zaman": "2026-09-25T18:45:46"}
