@@ -1148,3 +1148,53 @@
 {"id": "128d7871bffee304", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
 {"id": "4bae92b43ce568ac", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
 {"id": "ceaa953aa3dffac5", "karar": "ok", "zaman": "2026-09-25T20:24:32"}
+{"id": "92bb88b5cf38ac12", "karar": "duzelt", "siklar": {"A": "Kesitsel araştırma", "B": "Vaka-kontrol araştırması", "C": "Epidemiyolojik araştırma", "D": "Kohort araştırması", "E": "Deneysel araştırma"}, "cevap": "B", "not": "sik yazim hatalari", "zaman": "2026-09-25T20:25:02"}
+{"id": "5446451a23036fea", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "klamidya paragrafi kesildi", "zaman": "2026-09-25T20:25:02"}
+{"id": "785bf3fd9710fdc3", "karar": "duzelt", "govde": "Glikojen depo hastalığı tip III (Cori-Forbes hastalığı)'te eksik olan enzim aşağıdakilerden hangisidir?", "aciklama": "Tip III glikojen depo hastalığı (Cori-Forbes hastalığı), dal yıkıcı enzim olan amilo-1,6-glukozidazın eksikliğine bağlıdır; karaciğer, kas, kalp ve lökositler etkilenir. Hepatomegali, değişik derecede kas tutulumu ve açlık hipoglisemisi ile karakterizedir; biriken glikojen dış dalları kısa, anormal yapıdadır. Tip I (von Gierke) hastalığında glukoz-6-fosfataz, tip II (Pompe) hastalığında lizozomal asit maltaz (α-1,4-glukozidaz), tip IV (Andersen) hastalığında dal yapıcı enzim (α-1,4-1,6 transglukozilaz), tip V (McArdle) hastalığında ise kas fosforilazı eksiktir.", "not": "govdede tip II yaziyordu (Cori-Forbes tip III); aciklamada tip numaralari karisik, yeniden yazildi", "zaman": "2026-09-25T20:25:02"}
+{"id": "bf892844bc4cc5c5", "karar": "duzelt", "siklar": {"A": "Ketanserin - 5-HT2 blokörüdür.", "B": "Naratriptan - 5-HT1D agonistidir.", "C": "Sumatriptan - 5-HT1B agonistidir.", "D": "Ondansetron - 5-HT3 blokörüdür.", "E": "Metoklopramid - 5-HT4 blokörüdür."}, "cevap": "E", "aciklama_paragraf": 5, "not": "B ve C siklarinda OCR (5-HT10, 5-HT18); aciklamanin kopuk sonu kesildi", "zaman": "2026-09-25T20:25:02"}
+{"id": "5e1f79df1afe3b65", "karar": "duzelt", "govde": "Yenidoğan refleksleri içinde en geç kaybolanı aşağıdakilerden hangisidir?", "not": "govde yazim", "zaman": "2026-09-25T20:25:02"}
+{"id": "9de22f18693569a7", "karar": "duzelt", "aciklama_paragraf": 2, "not": "sondaki bos baslik kesildi", "zaman": "2026-09-25T20:25:02"}
+{"id": "26d43e335184d6d9", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "27d58112f7f401e3", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "996cf8d1d573c091", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "6765b053d3f171f0", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "abb372ce001a5066", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "f106f784959cb762", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "ccc53ad07f210e5c", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "2046ccc37040b67d", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "98b37a01dafa8e0f", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "390f04ca89628787", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "d1ed23b8bada6a80", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "b453bb48c919429c", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "d358a3a974be2ad3", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "ff2d5520486b7745", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "4cf88988271a84f8", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "603b04d63565fc4a", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "b9ffb4bfd8d14524", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "fb186a4fde5bb792", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "f4a82a6a1d8d0ac4", "karar": "ok", "zaman": "2026-09-25T20:25:03"}
+{"id": "32f99d714d8e968c", "karar": "duzelt", "govde": "Beş günlük erkek bebek gittikçe kötüleşen siyanoz, taşikardi ve dispne nedeniyle değerlendiriliyor. Muayenede belirgin bir üfürümü olmayan hastanın EKG’sinde sağ ventrikül hipertrofisi, telesinde akciğer kanlanmasında artış bulguları saptanıyor. / Bu hasta için en olası tanı aşağıdakilerden hangisidir?", "aciklama": "Büyük arterlerin D-transpozisyonunda aorta sağ ventrikülden, pulmoner arter sol ventrikülden çıkar; atriyoventriküler bağlantılar normaldir. Böylece sistemik ve pulmoner dolaşımlar paralel çalışır ve yaşam ancak ASD, VSD veya PDA gibi karışımı sağlayan bir defektle mümkündür. Yenidoğanda en sık görülen siyanotik konjenital kalp hastalığıdır; diyabetik anne bebeklerinde ve erkeklerde daha sıktır. VSD'siz olgularda yaşamın ilk saatlerinden itibaren belirgin siyanoz ve taşipne görülür, genellikle belirgin üfürüm yoktur; EKG'de sağ ventrikül hipertrofisi saptanır. Akciğer grafisinde akciğer kanlanması artmış, üst mediasten dar ve kalp 'yan yatmış yumurta' görünümündedir. Cerrahiye kadar duktusu açık tutmak için prostaglandin E1 infüzyonu verilir.", "not": "soru cumlesinin kalani aciklamaya kaymisti; govde tamamlandi, aciklama yeniden yazildi", "zaman": "2026-09-25T20:25:38"}
+{"id": "dd47995b765570c1", "karar": "duzelt", "aciklama": "Ligamentum suspensorium ovarii (infundibulopelvik ligament), ovariumu pelvis yan duvarına asan bağdır ve içinde arteria ve vena ovarica bulunur. Ligamentum teres uteri (lig. rotundum) kadında inguinal kanaldan geçen ligamenttir ve gubernaculumun kalıntısıdır. Ligamentum ovarii proprium ovariumu uterusa bağlar ve o da gubernaculum kalıntısıdır. Ligamentum pubovesicale mesaneyi pubise bağlar; ligamentum sacrotuberale ise sakrumdan tuber ischiadicuma uzanan bir pelvis bağıdır. Bu bağların içinde önemli bir arter seyretmez.", "not": "aciklama kesik basliyordu, yeniden yazildi", "zaman": "2026-09-25T20:25:38"}
+{"id": "e94f44dd7e4ea09c", "karar": "duzelt", "aciklama": "Gram negatif bakterilerin hücre duvarı gram pozitiflere göre daha kompleks bir yapıdadır. Sitoplazmik membranın dışında ince bir peptidoglikan tabakası ve bunun da dışında lipopolisakkarit içeren bir dış membran bulunur. Sitoplazmik membran ile dış membran arasında periplazmik aralık yer alır ve beta-laktamaz gibi enzimler burada bulunur. Dış membrandaki porinler hidrofilik moleküllerin geçişini sağlar; porin kaybı veya değişikliği antibiyotik direncinde rol oynar. Peptidoglikan tabakası gram pozitif bakterilerde çok daha kalındır.", "not": "aciklama yalnizca baslik iceriyordu, yeniden yazildi", "zaman": "2026-09-25T20:25:38"}
+{"id": "873156e37f9732ca", "karar": "duzelt", "aciklama": "Postkoital (acil) kontrasepsiyon, korunmasız cinsel ilişki sonrasında gebeliği önlemek için alınan önlemlerdir. Bu amaçla yüksek doz kombine oral kontraseptifler (Yuzpe yöntemi), yalnız progestin içeren levonorgestrel tabletleri, antiprogestin olan mifepriston ve ulipristal ile ilişkiden sonraki 5 gün içinde takılan bakırlı rahim içi araç kullanılabilir. Spermisitler ise ancak ilişki öncesinde uygulandıklarında etkilidir; ilişki sonrası kullanımın koruyucu değeri yoktur.", "not": "aciklama tanimdan ibaretti, yeniden yazildi", "zaman": "2026-09-25T20:25:38"}
+{"id": "f77dab4d6535ce82", "karar": "duzelt", "aciklama_paragraf": "1-", "not": "basta kopuk parca kesildi", "zaman": "2026-09-25T20:25:38"}
+{"id": "d35af6cd7c2d8fcc", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "76e6b16bd12a64b0", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "bcb11bb834a3f149", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "7541d6b140b76ca5", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "e011a5f06a47891c", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "c52b4d32bdd5c5ca", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "d8acf736c2f1af84", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "37ce4a36efdb0b7e", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "27ee44f5baa5653d", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "99f451831603e01f", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "a9e484b376869b7d", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "df3b0068b3e1b602", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "b8ef846a3f7f2522", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "77ee86e3d959c71f", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "03089f4b3f0805af", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "7584d8c72f9fc1e2", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "7ab9644f84f5c879", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "9ed16175e9d3caa7", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "1a155cc1a4437d2a", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
+{"id": "9afec06b1dbca39f", "karar": "ok", "zaman": "2026-09-25T20:25:38"}
